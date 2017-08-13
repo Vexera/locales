@@ -148,6 +148,7 @@
   "misc.illegalError": "Trump messed up, I guess he didn't want to make that illegal!",
   "misc.botlistHelp": "Shows the carbonitex botlist.",
   "misc.invitedHelp": "Shows how many users someone has invited to a server.",
+  "misc.invitedNoPerm": "I do not have permission to view invites.",
   "misc.invitedText": "{{username}} has invited {{count}} users to {{guild}}",
   "misc.asciiHelp": "Converts text into ASCII. A list of fonts can be found at https://github.com/patorjk/figlet.js/tree/master/fonts.\n\nExamples:\n`{{prefix}}ascii ghost beep` - Shows `beep` in the `ghost` font",
   "misc.wolframHelp": "Makes a wolfram query.",
