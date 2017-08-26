@@ -157,6 +157,7 @@
   "music.playerInactive": "Left the channel due to inactivity.",
   "music.playerErrorTitle": "Error",
   "music.playerErrorDescription": "An error occurred while extracting information for this song.",
+  "music.playerErrorPlayingDescription": "An error occurred while trying to play this song.",
   "music.playerDuration": "Duration",
   "music.playerRequested": "Requested By",
   "music.playHelp": "Plays a song.\n\nExamples:\n`{{prefix}}play Whatever you write here will search youtube`\n`{{prefix}}play https://soundcloud.com/sonevable/gin-wigmore-written-in-the-water-nev-edit`\n`{{prefix}}play https://www.youtube.com/watch?v=v372aagNItc`\n\nA range of sites are supported.",
