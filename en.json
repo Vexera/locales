@@ -194,7 +194,7 @@
   "music.commandDonator": "Only donators can use this command! For more information, see https://www.patreon.com/lukesbots",
   "music.volumeLimit": "Setting the volume to 150%. I want to protect your eardrums!",
   "music.repeatHelp": "Repeats a song.\n\nExamples:\n`{{prefix}}repeat off` - Disable repeating.\n`{{prefix}}repeat one` - Repeat the current song.\n`{{prefix}}repeat all` - Repeat the whole queue.",
-  "music.searchHelp": "Allows your to choose a song to play with a fancy selection menu.",
+  "music.searchHelp": "Allows you to choose a song to play with a fancy selection menu.",
   "music.inactiveDisconnect": "Left the voice channel due to inactivity.",
   "music.donationMessage": "If you enjoy Vexera's music feature, please consider donating at <http://patreon.com/lukesbots> to get extra perks.",
   "music.autoplayHelp": "Sets a song or playlist or livestream to play while the queue is empty.\n\nExamples:\n`{{prefix}}autoplay https://twitch.tv/monstercat` - Plays monstercat while the queue is empty.\n`{{prefix}}autoplay disable` - Disables autoplay",
