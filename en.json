@@ -199,6 +199,6 @@
   "music.donationMessage": "If you enjoy Vexera's music feature, please consider donating at <http://patreon.com/lukesbots> to get extra perks.",
   "music.autoplayHelp": "Sets a song or playlist or livestream to play while the queue is empty.\n\nExamples:\n`{{prefix}}autoplay https://twitch.tv/monstercat` - Plays monstercat while the queue is empty.\n`{{prefix}}autoplay disable` - Disables autoplay",
   "music.jumpHelp": "Jumps to a specific place in the queue.",
-  "music.dumpHelp": "Creates a URL with information about the music queue, which can be loaded with {{prefix}}play.",
+  "music.dumpHelp": "Creates a URL with information about the music queue, which can be loaded with {{prefix}}play. Use {{prefix}}dump all to dump the whole queue.",
   "music.dumpCreated": "Dump created! {{url}} - Use {{prefix}}play to load it."
 }
