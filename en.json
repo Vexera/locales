@@ -15,6 +15,7 @@
   "generic.guildJoin": "Hi! Thanks for adding {{botName}}! I'm a multi-purpose bot which can do Music, Moderation, Autorole, and other pointless commands. Do `{{prefix}}help` to see my commands, and `{{prefix}}help <command>` to see extended information about a command.",
   "generic.argNoResponse": "No response for 30 seconds.",
   "generic.promptCancel": "Prompt cancelled.",
+  "generic.ratelimited": "Please wait {{sec}} seconds.",
   "info.healthHelp": "Shows health of the bots shards",
   "info.healthTitle": "Shard and Cluster Health",
   "info.healthDown": "Down",
