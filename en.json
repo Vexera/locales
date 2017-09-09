@@ -21,6 +21,7 @@
   "info.healthDown": "Down",
   "info.healthStarting": "Starting",
   "info.healthUnhealthy": "Unhealthy Guild Count",
+  "info.healthNodesDown": "Offline Voice Nodes",
   "info.helpHelp": "Shows this command",
   "info.helpUsage": "Usage",
   "info.helpPermNode": "Permission Node",
@@ -201,5 +202,9 @@
   "music.autoplayHelp": "Sets a song or playlist or livestream to play while the queue is empty.\n\nExamples:\n`{{prefix}}autoplay https://twitch.tv/monstercat` - Plays monstercat while the queue is empty.\n`{{prefix}}autoplay disable` - Disables autoplay",
   "music.jumpHelp": "Jumps to a specific place in the queue.",
   "music.dumpHelp": "Creates a URL with information about the music queue, which can be loaded with {{prefix}}play. Use {{prefix}}dump all to dump the whole queue.",
-  "music.dumpCreated": "Dump created! {{url}} - Use {{prefix}}play to load it."
+  "music.dumpCreated": "Dump created! {{url}} - Use {{prefix}}play to load it.",
+  "music.lyricsHelp": "Gets lyrics for a song / the song currently playing",
+  "music.lyricsNoQuery": "Song not specified!",
+  "music.lyricsNotFound": "Lyrics not found!",
+  "info.nodeinfoHelp": "Shows information about the voice nodes."
 }
