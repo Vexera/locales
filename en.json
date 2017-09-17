@@ -206,5 +206,10 @@
   "music.lyricsHelp": "Gets lyrics for a song / the song currently playing",
   "music.lyricsNoQuery": "Song not specified!",
   "music.lyricsNotFound": "Lyrics not found!",
-  "info.nodeinfoHelp": "Shows information about the voice nodes."
+  "info.nodeinfoHelp": "Shows information about the voice nodes.",
+  "meme.drakeHelp": "Makes a drake meme.\n\nExamples:\n`{{prefix}}drake https://seeklogo.com/images/S/skype-logo-F4A7960445-seeklogo.com.png https://discordapp.com/assets/2c21aeda16de354ba5334551a883b481.png`",
+  "meme.mistakeHelp": "For big mistakes.\n\nExamples:\n`{{prefix}}mistake https://owo.whats-th.is/7f9fb2.png`",
+  "meme.whodidthisHelp": "WHO DID THIS? :joy: :joy: :joy:.\n\nExamples:\n`{{prefix}}whodidthis https://owo.whats-th.is/7f9fb2.png`",
+  "meme.handicappedHelp": "Sir! This spot is for the handicapped only!\n\nExamples:\n`{{prefix}}handicapped https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.png Arrays start at 1`",
+  "meme.magikHelp": "The best command on the planet.\n\nExamples:\n`{{prefix}}magik @someone`"
 }
