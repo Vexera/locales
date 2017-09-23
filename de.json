@@ -1,1 +1,9 @@
-{}
+{
+    "nativeName": "Deutsch",
+    "languageNameEn": "German",
+    "generic.error": "Ein unerwarteter Fehler ist aufgetreten.",
+    "generic.errorCodeblock": "Ein unerwarteter Fehler ist aufgetreten. ```{{error}}```",
+    "generic.errorID": "Ein unerwarteter Fehler ist aufgetreten. Wenn du denkst, dass hätte nicht passieren sollen, melde dich bitte bei unserem Support-Server mit der Error-ID `{{errorID}}`.",
+    "generic.processingTitle": "Lädt",
+    "generic.processingDescription": "Der Befehl wurde nicht vollständig ausgeführt."
+}
