@@ -1,4 +1,18 @@
 {
     "nativeName": "Français",
-    "languageNameEn": "French"
+    "languageNameEn": "French",
+    "generic.error": "Une erreur inattendue s'est produite.",
+    "generic.errorCodeblock": "Une erreur inattendue s'est produite.\n```{{error}}```",
+    "generic.processingTitle": "Traitement",
+    "generic.processingDescription": "Cette commande n'a pas fini d'être traitée.",
+    "generic.insufficientArg": "Vous n'avez pas spécifié l'argument `{{arg}}`.",
+    "generic.invalidArg": "Impossible de résoudre l'argument `{{arg}}`.",
+    "generic.permissionError": "Vous n'êtes pas autorisé à utiliser cette commande (vous devez posséder la permission `{{permission}}`)",
+    "generic.discordPermissionError": "Vous devez posséder la permission `{{permission}}` pour utiliser cette commande.",
+    "generic.guildJoin": "Salut ! Merci d'avoir ajouté {{botName}} ! Je suis un bot polyvalent qui peut faire de la Musique, de la Modération, des rôles automatiques (Autorole) et d'autres commandes inutiles. Tapez `{{prefix}}help` pour lister mes commandes, et `{{prefix}}help <commande>` pour obtenir plus d'informations à propos d'une commande.",
+    "generic.argNoResponse": "Pas de réponse après 30 secondes.",
+    "generic.promptCancel": "Commande annulée.",
+    "info.helpHelp": "Affiche cette commande",
+    "info.helpUsage": "Utilisation",
+    "info.helpDM": "Vérifiez vos messages privés pour une liste de commandes !"
 }
