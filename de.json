@@ -80,7 +80,7 @@
     "settings.prefixHelp": "Setzt den Befehl-Prefix.\n\nBeispiele:\n`{{prefix}}prefix !`- Setzt den Prefix zu `!`\n`{{prefix}}prefix disable` - Deaktiviert den benutzerdefinierten Befehl-Prefix.",
     "settings.prefixDisable": "Der Prefix wurde erfolgreich deaktiviert. Alle Befehle sollten nun so genutzt werden: `{{prefix}}ping`",
     "settings.prefixSet": "Der Prefix wurde erfolgreich gesetzt. Alle Befehle sollten nun so genutzt werden: `{{prefix}}ping`",
-    "settings.logHelp": "Setzt einen Log-Kanal für Beitritte und Verlassungen des Servers.",
+    "settings.logHelp": "Setzt einen Log-Kanal für wenn jemand den Servers betritt oder verlässt.",
     "settings.logDisabled": "Der Log-Kanal wurde erfolgreich deaktiviert.",
     "settings.logSet": "Der Log-Kanal wurde erfolgreich gesetzt.",
     "settings.channeltoggleHelp": "Die Befehle in diesem Kanal wurden deaktiviert.",
