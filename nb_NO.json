@@ -1,0 +1,11 @@
+{
+    "nativeName": "Norsk",
+    "languageNameEn": "Norwegian",
+    "generic.error": "En uventet feil har oppstått.",
+    "generic.errorCodeblock": "En uventet feil har oppstått.\n```{{error}}```",
+    "generic.errorID": "En uventet feil har oppstått. Hvis tror dette ikke var ment å skje, vennligst kontakt støtte-serveren med feil ID: `{{errorID}}`.",
+    "generic.processingTitle": "Behandler",
+    "generic.processingDescription": "Denne kommandoen er ikke ferdig med behandlingen.",
+    "generic.insufficientArgs": "Feil mengde angitte argumenter, for mer informasjon om denne kommandoen, se {{prefix}}help {{command}}.",
+    "generic.insufficientArg": "Du spesifiserte ikke `{{arg}}` argumentet."
+}
