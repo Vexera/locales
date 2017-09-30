@@ -211,5 +211,6 @@
   "meme.mistakeHelp": "For big mistakes.\n\nExamples:\n`{{prefix}}mistake https://owo.whats-th.is/7f9fb2.png`",
   "meme.whodidthisHelp": "WHO DID THIS? :joy: :joy: :joy:.\n\nExamples:\n`{{prefix}}whodidthis https://owo.whats-th.is/7f9fb2.png`",
   "meme.handicappedHelp": "Sir! This spot is for the handicapped only!\n\nExamples:\n`{{prefix}}handicapped https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.png Arrays start at 1`",
-  "meme.magikHelp": "The best command on the planet.\n\nExamples:\n`{{prefix}}magik @someone`"
+  "meme.magikHelp": "The best command on the planet.\n\nExamples:\n`{{prefix}}magik @someone`",
+  "music.queueLimit": "The queue can only hold 2000 songs!"
 }
