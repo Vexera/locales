@@ -156,6 +156,7 @@
   "misc.asciiHelp": "Converts text into ASCII. A list of fonts can be found at https://github.com/patorjk/figlet.js/tree/master/fonts.\n\nExamples:\n`{{prefix}}ascii ghost beep` - Shows `beep` in the `ghost` font",
   "misc.wolframHelp": "Makes a wolfram query.",
   "misc.wolframError": "Something went wrong.. maybe try something else?",
+  "misc.donatorsHelp": "Shows the top 10 donators.",
   "music.playerQueueEnd": "Queue Concluded.",
   "music.playerInactive": "Left the channel due to inactivity.",
   "music.playerErrorTitle": "Error",
