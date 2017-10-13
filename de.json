@@ -171,7 +171,7 @@
     "music.donationMessage": "Wenn dir Vexera's Musik-Funktion gefällt, denke bitte darüber nach, etwas bei <http://patreon.com/lukesbots> zu spenden, um ein paar extra Funktionen zu erhalten.",
     "music.autoplayHelp": "Spielt ein Lied, eine Wiedergabeliste oder eine Liveübertragung, wenn die Warteschlange leer ist.\n\nBeispiele:\n`{{prefix}}autoplay https://twitch.tv/monstercat` - Spielt Monstercat, wenn die Warteschlange leer ist.\n`{{prefix}}autoplay disable` - Schaltet Autoplay aus",
     "music.jumpHelp": "Springt an eine bestimmte Stelle in der Warteschlange.",
-    "music.dumpHelp": "Erstellt eine URL mit Informationen über die Musik-Warteschlange, welche über `{{prefix}}play` geladen werden kann. Nutze `{{prefix}}dump all`, um die ganze Warteschlange zu speichern.",
+    "music.dumpHelp": "Erstellt eine URL mit Informationen über die Musik-Warteschlange, welche über {{prefix}}play geladen werden kann. Nutze {{prefix}}dump all, um die ganze Warteschlange zu speichern.",
     "music.dumpCreated": "Warteschlange gespeichert! {{url}} - Benutze {{prefix}}play, um die Warteschlange abzuspielen.",
     "music.lyricsHelp": "Holt den Songtext zu einen Song / zum derzeit spielenden Song",
     "music.lyricsNoQuery": "Song nicht angegeben!",
