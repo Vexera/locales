@@ -52,7 +52,7 @@
     "admin.kickPermissionError": "Bu kullanıcıyı atma izniniz yok.",
     "admin.kickBotPermissionError": "Üye atılamıyor.",
     "admin.softbanHelp": "Kullanıcıya softban atar (kullanıcının tüm iletilerini temizler)",
-    "admin.softbanPermissionError": "Bu kullanıcıya softban atma iznine sahip değilsiniz.",
+    "admin.softbanPermissionError": "Bu kullanıcıyı atma iznine sahip değilsiniz.",
     "admin.softbanBotPermissionError": "Kullanıcı yasaklanamıyor.",
     "admin.vckickHelp": "Üyeyi sesli kanaldan atar",
     "admin.vckickPermissionError": "Bu kullanıcı için voicekick izniniz yok.",
