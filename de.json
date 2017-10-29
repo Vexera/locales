@@ -22,7 +22,7 @@
     "info.healthStarting": "Startend",
     "info.helpHelp": "Zeigt diesen Befehl",
     "info.helpUsage": "Verwendung",
-    "info.helpDescription": "Ich bin ein Bot, welcher mehrere Funktionen ausführen kann, darunter Musik-, Moderations-, Autorole- und andere nutzlose Befehle. Mach' einfach `{{prefix}}help <Befehl>`, um erweiterte Informationen zu einem bestimmten Befehl zu erhalten.\n\nDu brauchst Hilfe? [vexera.pw/support](https://vexera.pw/support)\nDu möchtest mich zu deinem Server einladen: [vexera.pw/invite](https://vexera.pw/invite)",
+    "info.helpDescription": "Ich bin ein Bot, welcher mehrere Funktionen ausführen kann, darunter Musik-, Moderations-, Autorole- und andere nutzlose Befehle. Mach' einfach `{{prefix}}help <Befehl>`, um erweiterte Informationen zu einem bestimmten Befehl zu erhalten.\n\n**Du brauchst Hilfe? [vexera.io/support](https://vexera.io/support)\nDu möchtest mich zu deinem Server einladen: [vexera.io/invite](https://vexera.io/invite)**",
     "info.helpDM": "Sieh' in deinen Privatnachrichten für eine Liste von Befehlen nach!",
     "info.statsDescription": "Für Informationen über alle Cluster, siehe {{prefix}}clusterinfo",
     "info.statsHelp": "Zeigt die Stats über den Bot",
@@ -214,5 +214,12 @@
     "perms.permsNodesTitle": "Berechtigungs-Nodes",
     "misc.donatorsHelp": "Zeigt die Top 10 Spender mit einer persönlichen Nachricht des Spenders. Spender können ihre Nachricht anpassen, indem sie `{{prefix}}donators <Nachricht>` benützen",
     "misc.donatorsLimit": "Das Limit ist 50 Zeichen.",
-    "music.queueLimit": "Die Warteschlange hat nur Platz für 2000 Songs!"
+    "music.queueLimit": "Die Warteschlange hat nur Platz für 2000 Songs!",
+    "meme.illegalHelp": "Mache etwas illegales!",
+    "meme.illegalCharLimit": "Wir wissen alle, dass Trump dumm ist, er kann das nicht ausführen!",
+    "meme.illegalError": "Trump hat verkackt, ich denke er wollte das nicht illegal machen!",
+    "info.donatorsHelp": "Bildet die Top-10 Spender mit einer personalisierten Nachricht vom jeweiligen Spender ab. Spender können ihre Nachricht mit Hilfe von {{prefix}}donators <nachricht>` setzen",
+    "info.donatorsLimit": "Das Limit liegt bei 50 Buchstaben.",
+    "meme.needsmorejpegHelp": "Verändert ein Bild so, dass es schlechter aussieht.",
+    "meme.gmagikHelp": "{{prefix}}magik aber mit GIFs."
 }
