@@ -158,6 +158,8 @@
   "fun.8ballReply": "The magic 8ball says... {{result}}",
   "fun.emotifyHelp": "Turns some text into an emoji",
   "fun.yomammaHelp": "Responds with yo mamma jokes, they will probably be insulting!",
+  "fun.urbanHelp": "Searches the urban dictionary.",
+  "fun.urbanError": "Unable to find that term!",
   "image.xkcdHelp": "Gets an XKCD Comic",
   "meme.illegalHelp": "Make something illegal!",
   "meme.illegalCharLimit": "We all know Trump is stupid, He can't process that!",
