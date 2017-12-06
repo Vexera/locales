@@ -95,5 +95,6 @@
     "settings.userlocaleHelp": "Kullanıcı için yerel dil ayarlar. Yerel ayarların listesi için bkz. `{{prefix}}userlocale list`.",
     "settings.userlocaleTitle": "Yerel diller",
     "settings.userlocaleCurrent": "Mevcut dil: {{locale}}",
-    "settings.userlocaleSet": "Kullanıcı yerel dil ayarı yapıldı."
+    "settings.userlocaleSet": "Kullanıcı yerel dil ayarı yapıldı.",
+    "admin.roleHelp": "Rolleri Yönet\n\nExamples:\n`{{prefix}}role add Yetkili Admins` - Add the `Admins` role to everyone with the `Moderators` role\n`{{prefix}}role add luke Admins` - Add the user `luke` to the role `Admins`\n`{{prefix}}role remove everyone Moderators` - Remove the `Moderators` role from everyone"
 }
