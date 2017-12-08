@@ -16,5 +16,8 @@
     "generic.argNoResponse": "Нет ответа в течение 30 секунд.",
     "generic.promptCancel": "Подсказка отменена.",
     "generic.ratelimited": "Пожалуйста, подождите `{{sec}}` секунд.",
-    "info.healthStarting": "Запускается"
+    "info.healthStarting": "Запускается",
+    "info.helpHelp": "Показывает эту команду",
+    "info.helpUsage": "Использование",
+    "info.helpDM": "Проверьте свои личные сообщения для списка команд!"
 }
