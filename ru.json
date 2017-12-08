@@ -10,5 +10,5 @@
     "generic.insufficientArg": "Вы не указали аргумент  `{{arg}}`.",
     "generic.invalidArg": "Не в состоянии обработать аргумент  `{{arg}}`.",
     "generic.guildOnlyError": "Эта команда может использоваться только на серверах.",
-    "generic.permissionError": "У вас нет разрешения на использование этой команды (Вам нужно {{permission}} разрешиние)"
+    "generic.permissionError": "У вас нет прав на использование этой команды (Вам необходимы права `{{permission}}` )"
 }
