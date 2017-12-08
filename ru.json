@@ -1,4 +1,5 @@
 {
-    "nativeName": "русский",
-    "languageNameEn": "Russian"
+    "nativeName": "Английский",
+    "languageNameEn": "Russian",
+    "generic.error": "Произошла неожиданная ошибка."
 }
