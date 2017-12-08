@@ -1,5 +1,5 @@
 {
-    "nativeName": "Английский",
+    "nativeName": "Русский",
     "languageNameEn": "Russian",
     "generic.error": "Произошла непредвиденная ошибка.",
     "generic.errorCodeblock": "Произошла непредвиденная ошибка.\n```{{error}}```"
