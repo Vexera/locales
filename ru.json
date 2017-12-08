@@ -7,5 +7,6 @@
     "generic.processingTitle": "Обработка",
     "generic.processingDescription": "Эта команда не закончила обработку.",
     "generic.insufficientArgs": "Неправильное количество заданных аргументов, для получения дополнительной информации об этой команде см.{{prefix}} справка {{command}}.",
-    "generic.insufficientArg": "Вы не указали `{{arg}}` аргумент"
+    "generic.insufficientArg": "Вы не указали аргумент  `{{arg}}`.",
+    "generic.invalidArg": "Не в состоянии обработать аргумент  `{{arg}}`."
 }
