@@ -30,7 +30,7 @@
     "info.inviteHelp": "Получает URL - адрес для приглашения бота.",
     "misc.serverinfoHelp": "Показывает информацию о сервере",
     "misc.userinfoHelp": "Отображает информацию о пользователе.",
-    "perms.permsAddExists": "Это право уже добавлено",
+    "perms.permsAddExists": "Эти права уже добавлены",
     "perms.permsAdd": "Добавлены права  `{{perm}}` пользователю `{{name}}`",
     "perms.permsRemoveError": "Эти права не были добавлены, поэтому они не могут быть удалены.",
     "perms.permsRemove": "Права `{{perm}}` забраны у `{{name}}`",
@@ -51,5 +51,6 @@
     "admin.vckickPermissionError": "У вас нету прав что-бы выгнать из голосового чата этого пользователя.",
     "admin.vckickBotPermissionError": "У меня нет прав на управление каналами (или перемещение участников)",
     "admin.muteHelp": "Заглушить пользователя.",
-    "admin.mutePermissionError": "У вас нет разрешения заглушить этого пользователя."
+    "admin.mutePermissionError": "У вас нет прав заглушить этого пользователя.",
+    "admin.muteBotPermissionError": "Не получается замутить юзера."
 }
