@@ -42,5 +42,7 @@
     "admin.banPermissionError": "У вас нет прав заблокировать этого пользователя.",
     "admin.banBotPermissionError": "Невозможно забанить пользователя.",
     "admin.kickHelp": "Кикнуть пользователя.",
-    "admin.kickPermissionError": "У вас нет прав кикнуть этого пользователя."
+    "admin.kickPermissionError": "У вас нет прав кикнуть этого пользователя.",
+    "admin.kickBotPermissionError": "Невозможно кикнуть пользователя.",
+    "admin.softbanHelp": "Легкий бан на пользователе. (очистить все сообщения от пользователя)"
 }
