@@ -23,5 +23,5 @@
     "info.healthNodesDown": "Голосовые ноды оффлайн",
     "info.helpPermNode": "Нод прав",
     "info.statsDescription": "Для информации о всех кластерах,  {{prefix}}clusterinfo",
-    "info.statsHelp": "Показывает статистику о боте"
+    "info.statsHelp": "Показывает статистику бота"
 }
