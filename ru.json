@@ -45,5 +45,5 @@
     "admin.kickPermissionError": "У вас нет прав кикнуть этого пользователя.",
     "admin.kickBotPermissionError": "Невозможно кикнуть пользователя.",
     "admin.softbanHelp": "Легкий бан пользователя. (удаляет все сообщения пользователя)",
-    "admin.softbanPermissionError": "У вас нет разрешения выгнать этого пользователя."
+    "admin.softbanPermissionError": "У вас нет прав выгнать этого пользователя."
 }
