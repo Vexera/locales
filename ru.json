@@ -48,5 +48,6 @@
     "admin.softbanPermissionError": "У вас нет прав выгнать этого пользователя.",
     "admin.softbanBotPermissionError": "Не удалось заблокировать пользователя.",
     "admin.vckickHelp": "Выгоняет участника из голосового канала",
-    "admin.vckickPermissionError": "У вас нету прав что-бы выгнать из голосового чата этого пользователя."
+    "admin.vckickPermissionError": "У вас нету прав что-бы выгнать из голосового чата этого пользователя.",
+    "admin.vckickBotPermissionError": "У вас нет разрешения на управление каналами (или перемещение участников)"
 }
