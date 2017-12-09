@@ -32,5 +32,9 @@
     "misc.userinfoHelp": "Отображает информацию о пользователе.",
     "perms.permsAddExists": "Это право уже добавлено",
     "perms.permsAdd": "Добавлены права  `{{perm}}` пользователю `{{name}}`",
-    "perms.permsRemoveError": "Это разрешение не было добавлено, поэтому оно не может быть удалено."
+    "perms.permsRemoveError": "Эти права не были добавлены, поэтому они не могут быть удалены.",
+    "perms.permsRemove": "Права `{{perm}}` забраны у `{{name}}`",
+    "perms.permsClear": "Забраны все права у `{{name}}`",
+    "perms.permsListTitle": "Права для {{name}}",
+    "perms.permsNodesTitle": "Ноды прав"
 }
