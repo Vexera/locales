@@ -55,5 +55,6 @@
     "admin.muteBotPermissionError": "Не получается замутить юзера.",
     "admin.rolePermissionError": "У вас нет прав на управление этой ролью.",
     "admin.roleBotPermissionError": "Не удалось добавить эту роль.",
-    "admin.roleRemoveBotPermissionError": "Не удалось удалить эту роль."
+    "admin.roleRemoveBotPermissionError": "Не удалось удалить эту роль.",
+    "owner.restartHelp": "Перезапускает бота полностью"
 }
