@@ -22,5 +22,6 @@
     "info.helpDM": "Проверьте свои личные сообщения на список команд!",
     "info.healthNodesDown": "Голосовые ноды оффлайн",
     "info.helpPermNode": "Нод прав",
-    "info.statsDescription": "Для информации о всех кластерах,  {{prefix}}clusterinfo"
+    "info.statsDescription": "Для информации о всех кластерах,  {{prefix}}clusterinfo",
+    "info.statsHelp": "Показывает статистику о боте"
 }
