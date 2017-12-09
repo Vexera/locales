@@ -39,5 +39,8 @@
     "perms.permsNodesTitle": "Ноды прав",
     "perms.permsNodesDescription": "Добавьте ' - ' перед правами чтобы отнять их у пользователя.",
     "admin.banHelp": "Бан участиника",
-    "admin.banPermissionError": "У вас нет прав заблокировать этого пользователя."
+    "admin.banPermissionError": "У вас нет прав заблокировать этого пользователя.",
+    "admin.banBotPermissionError": "Невозможно забанить пользователя.",
+    "admin.kickHelp": "Кикнуть пользователя.",
+    "admin.kickPermissionError": "У вас нет разрешения кикнуть этого пользователя."
 }
