@@ -29,5 +29,7 @@
     "info.inviteSupport": "Поддержка: {{url}}",
     "info.inviteHelp": "Получает URL - адрес для приглашения бота.",
     "misc.serverinfoHelp": "Показывает информацию о сервере",
-    "misc.userinfoHelp": "Отображает информацию о пользователе."
+    "misc.userinfoHelp": "Отображает информацию о пользователе.",
+    "perms.permsAddExists": "Это право уже добавлено",
+    "perms.permsAdd": "Добавлены права  `{{perm}}` пользователю `{{name}}`"
 }
