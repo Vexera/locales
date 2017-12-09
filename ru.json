@@ -37,5 +37,6 @@
     "perms.permsClear": "Забраны все права у `{{name}}`",
     "perms.permsListTitle": "Права для {{name}}",
     "perms.permsNodesTitle": "Ноды прав",
-    "perms.permsNodesDescription": "Добавьте ' - ' перед разрешением на отказ от пользователя."
+    "perms.permsNodesDescription": "Добавьте ' - ' перед правами чтобы отнять их у пользователя.",
+    "admin.banHelp": "Бан участиника"
 }
