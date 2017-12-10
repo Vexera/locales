@@ -201,5 +201,6 @@
     "info.statsHostname": "Nom d'hôte",
     "meme.illegalHelp": "Rends quelque chose illégal !",
     "meme.illegalCharLimit": "Nous savons tous que Trump est stupide, il ne peut pas traité ça !",
-    "info.donatorsLimit": "La limite est de 50 caractères."
+    "info.donatorsLimit": "La limite est de 50 caractères.",
+    "info.healthStarting": "En cours de démarrage"
 }
