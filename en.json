@@ -231,5 +231,7 @@
   "meme.magikHelp": "The best command on the planet.\n\nExamples:\n`{{prefix}}magik @someone`",
   "meme.needsmorejpegHelp": "Makes an image look worse.",
   "meme.gmagikHelp": "{{prefix}}magik but it's with gifs.",
-  "music.queueLimit": "The queue can only hold 2000 songs!"
+  "music.queueLimit": "The queue can only hold 2000 songs!",
+  "info.premiumTitle": "What is Vexera Premium?",
+  "info.premiumInfo": "Vexera Premium offers a range of features for a small price. Learn more at https://vexera.io/premium\n\nSub commands:\n{{prefix}}premium redeem <key>"
 }
