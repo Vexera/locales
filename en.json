@@ -240,5 +240,7 @@
   "info.statusDeclined": "**Warning:** The pledge for this user has failed to go through this month.",
   "info.statusExpiry": "Expiry",
   "info.statusType": "Type",
-  "info.statusNotDonator": "User is not a donator!"
+  "info.statusNotDonator": "User is not a donator!",
+  "music.seekHelp": "Seeks to a position in a song.",
+  "music.seekInvalid": "Invalid duration!"
 }
