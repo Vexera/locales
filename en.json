@@ -242,5 +242,6 @@
   "info.statusType": "Type",
   "info.statusNotDonator": "User is not a donator!",
   "music.seekHelp": "Seeks to a position in a song.",
-  "music.seekInvalid": "Invalid duration!"
+  "music.seekInvalid": "Invalid duration!",
+  "info.premiumExpiring": "Your Vexera Premium Subscription is expiring in less than 72 hours. To keep Vexera Premium, please visit https://vexera.io/premium."
 }
