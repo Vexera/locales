@@ -52,6 +52,7 @@
   "info.redeemInvalid": "Invalid key! Please ensure it is correct and not been already claimed.",
   "info.redeemSuccess": "Success! Vexera Premium is now enabled on every server you own for **{{days}}** days.",
   "info.redeemAlreadyDonator": "You already have an active key or subscription!",
+  "info.redeemExtended": "Success! Your Vexera Premium subscription has been extended by **{{days}}** days.",
   "misc.serverinfoHelp": "Shows info about a server",
   "misc.serverinfoOwner": "Owner",
   "misc.serverinfoMembers": "Members",
