@@ -1,1 +1,6 @@
-{}
+{
+    "nativeName": "英语",
+    "languageNameEn": "英语",
+    "generic.error": "发生了一个错误。",
+    "generic.errorCodeblock": "发生了一个错误。\n{{error}}"
+}
