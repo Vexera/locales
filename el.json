@@ -231,5 +231,18 @@
     "owner.restartHelp": "Επανακινεί ολόκλητο το bot",
     "settings.prefixHelp": "Ορίζει το πρόθημα των εντολών.\n\nΠαραδείγματα:\n`{{prefix}} prefix !` - Ορίζει το πρόθημα σε `!`\n`{{prefix}} prefix disable` - Επαναφέρει το αρχικό πρόθημα.",
     "settings.prefixDisable": "Η επαναφορά του προθήματος ήταν επιτυχής. Όλες οι εντολές πρέπει να χρησιμοποιούνται έτσι: `{{prefix}}ping`",
-    "settings.prefixSet": "Ο ορισμός του προθήματος ήταν επιτυχής. Όλες οι εντολές πρέπει να χρησιμοποιούνται έτσι: `{{prefix}}ping`"
+    "settings.prefixSet": "Ο ορισμός του προθήματος ήταν επιτυχής. Όλες οι εντολές πρέπει να χρησιμοποιούνται έτσι: `{{prefix}}ping`",
+    "info.redeemExtended": "Επιτυχία! Η συνδρομή σας στο Vexera Premium έχει επεκταθεί κατά **{{days}}** μέρες.",
+    "info.premiumTitle": "Τι είναι το Vexera Premium;",
+    "info.premiumInfo": "Το Vexera Premium προσφέρει μια ποικιλία λειτουργιών για μία μικρή τιμή. Μάθετε περισσότερα στο https://vexera.io/premium",
+    "info.premiumStatus": "Ελέγχει την συνδρομή Vexera Premium ενός χρήστη.",
+    "info.statusAmount": "Ποσό Μηνιαίας Πληρωμής",
+    "info.statusDatePledged": "Ημερομηνία Μηνιαίας Πληρωμής",
+    "info.statusDeclined": "**Προσοχή:**Η μηνιαία πληρωμή του χρήστη απέτυχε να ολοκληρωθεί αυτόν τον μήνα.",
+    "info.statusExpiry": "Λήξη",
+    "info.statusType": "Τύπος",
+    "info.statusNotDonator": "Αυτός ο χρήστης δεν είναι δωρητής!",
+    "music.seekHelp": "Μεταβαίνει σε ένα σημείο ενός κομματιού.",
+    "music.seekInvalid": "Μη έγκυρη διαρκεία!",
+    "info.premiumExpiring": "Η συνδρομή σας στο Vexer Premium λήγει σε {{expire}} μέρες. Για να συνεχίσετε την χρήση της υπηρεσίας, παρακαλώ επισκεφθείτε το https://vexera.io/premium."
 }
