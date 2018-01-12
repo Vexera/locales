@@ -11,5 +11,6 @@
     "generic.invalidArg": "无法解析 ‘{{arg}}’ 参数。",
     "generic.guildOnlyError": "这个命令只能被用于服务器内。",
     "generic.permissionError": "你没有足够的权限来运行这条命令。 （你需要 ‘{{permission}}’ 权限。）",
-    "generic.discordPermissionError": "你需要 ‘{{permission}}’ 来运行这条命令。"
+    "generic.discordPermissionError": "你需要 ‘{{permission}}’ 来运行这条命令。",
+    "generic.guildJoin": ""
 }
