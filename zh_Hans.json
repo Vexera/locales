@@ -12,5 +12,9 @@
     "generic.guildOnlyError": "这个命令只能被用于服务器内。",
     "generic.permissionError": "你没有足够的权限来运行这条命令。 （你需要 ‘{{permission}}’ 权限。）",
     "generic.discordPermissionError": "你需要 ‘{{permission}}’ 来运行这条命令。",
-    "generic.guildJoin": ""
+    "generic.guildJoin": "Hi! 欢迎使用{{botName}}！我是一个多用途的机器人，可以帮你做诸如播放音乐，管理服务器，自动权限发放以及其他并没有什么用的命令。使用‘{{prefix}} Help’ 来查看我的命令， 或者使用‘{{prefix}} help <command>’ 来查看某条命令的更多信息。",
+    "generic.argNoResponse": "超过30秒无回复。",
+    "generic.promptCancel": "已取消。",
+    "generic.ratelimited": "请等待{{sec}}秒。",
+    "info.healthHelp": "显示当前服务器的健康度"
 }
