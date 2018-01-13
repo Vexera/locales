@@ -173,7 +173,7 @@
     "music.lyricsNotFound": "Paroles non trouvées !",
     "info.nodeinfoHelp": "Affiche des informations à propos des serveurs vocaux.",
     "meme.handicappedHelp": "Sir! This spot is for the handicapped only!\n\nExemples :\n`{{prefix}}handicapped https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.png Arrays start at 1`",
-    "generic.errorID": "Une erreur inattendue s'est produite. Si vous pensez qu'elle n'était pas censée se produire, veuillez informer le serveur support de l'ID de l'erreur : `{{errorID}}`.",
+    "generic.errorID": "Une erreur inattendue s'est produite. Si vous pensez qu'il s'agit d'une erreur, merci de transmettre l'identifiant d'erreur suivant au serveur de support: `{{errorID}}`.",
     "generic.insufficientArgs": "Nombre d'arguments spécifiés invalide, pour plus d'informations sur cette commande, voyez {{prefix}}help {{command}}.",
     "generic.guildOnlyError": "Cette commande ne peut être utilisée que dans les serveurs.",
     "generic.ratelimited": "Veuillez attendre {{sec}} secondes.",
