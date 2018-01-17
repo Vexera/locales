@@ -244,5 +244,8 @@
     "info.statusNotDonator": "Αυτός ο χρήστης δεν είναι δωρητής!",
     "music.seekHelp": "Μεταβαίνει σε ένα σημείο ενός κομματιού.",
     "music.seekInvalid": "Μη έγκυρη διάρκεια!",
-    "info.premiumExpiring": "Η συνδρομή σας στο Vexer Premium λήγει σε {{expire}} μέρες. Για να συνεχίσετε την χρήση της υπηρεσίας, παρακαλώ επισκεφθείτε το https://vexera.io/premium."
+    "info.premiumExpiring": "Η συνδρομή σας στο Vexer Premium λήγει σε {{expire}} μέρες. Για να συνεχίσετε την χρήση της υπηρεσίας, παρακαλώ επισκεφθείτε το https://vexera.io/premium.",
+    "music.deleteHelp": "Διαγράφει ένα κομμάτι από την λίστα αναπαραγωγής.",
+    "music.deletePlaying": "Δεν μπορώ να διαγράψω το τραγούδι το οποίο αναπαράγω.",
+    "music.deleteRemoved": "Η διαγραφή του `{{name}}` από την λίστα αναπαραγωγής ήταν επιτυχής."
 }
