@@ -246,5 +246,18 @@
     "fun.urbanHelp": "Durchsucht das Urban-Wörterbuch.",
     "fun.urbanError": "Nicht imstande diese Zeitspanne zu finden!",
     "image.xkcdHelp": "Wiedergibt einen XKCD Comic",
-    "fun.asciiHelp": "Verändert Text zu ASCII. Eine Liste von Schriftarten kann unter https://github.com/patorjk/figlet.js/tree/master/fonts gefunden werden.\n\nBeispiele:\n`{{prefix}}ascii ghost beep` - Zeigt `beep` in der `ghost` Schriftart"
+    "fun.asciiHelp": "Verändert Text zu ASCII. Eine Liste von Schriftarten kann unter https://github.com/patorjk/figlet.js/tree/master/fonts gefunden werden.\n\nBeispiele:\n`{{prefix}}ascii ghost beep` - Zeigt `beep` in der `ghost` Schriftart",
+    "info.redeemExtended": "Erfolgreich! Dein Vexera-Premium wurde um **{{days}}** Tage verlängert.",
+    "info.premiumTitle": "Was ist Vexera Premium?",
+    "info.premiumInfo": "Vexera Premium bietet eine gewisse Anzahl an Funktionen für einen kleinen Preis. Mehr dazu auf der Website https://vexera.io/premium",
+    "info.premiumStatus": "Überprüft den Premium-Status eines Nutzers.",
+    "info.statusAmount": "Geld Bezahlt",
+    "info.statusDatePledged": "Geld Bezahlt Seit",
+    "info.statusDeclined": "**Warnung:** Die Spende dieses Benutzers ist während dieses Monats fehlgeschlagen.",
+    "info.statusExpiry": "Läuft Ab",
+    "info.statusType": "Typ",
+    "info.statusNotDonator": "Benutzer ist kein Spender!",
+    "music.seekHelp": "Springt zu einer gewissen Position im Song.",
+    "music.seekInvalid": "Ungültige Länge!",
+    "info.premiumExpiring": "Dein Vexera-Premium Abonnement läuft in {{expire}} ab. Um Vexera Premium beizubehalten, besuche bitte https://vexera.io/premium."
 }
