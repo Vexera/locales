@@ -280,5 +280,7 @@
   "info.premiumExpiring": "Your Vexera Premium Subscription is expiring in {{expire}}. To keep Vexera Premium, please visit https://vexera.io/premium.",
   "music.deleteHelp": "Deletes a song from the queue.",
   "music.deletePlaying": "I cannot delete the song I am currently playing.",
-  "music.deleteRemoved": "Successfully removed `{{name}}` from the queue."
+  "music.deleteRemoved": "Successfully removed `{{name}}` from the queue.",
+  "owner.fetchsettingsNotfound": "Settings not found.",
+  "owner.fetchsettingsSensitive": "This command will reveal end user data. Please make sure you are in a private channel. Say 'yes' to continue."
 }
