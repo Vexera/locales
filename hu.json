@@ -1,1 +1,10 @@
-{}
+{
+    "nativeName": "angol",
+    "languageNameEn": "angol",
+    "generic.error": "Váratlan hiba történt.",
+    "generic.errorCodeblock": "Váratlan hiba történt {{error}}",
+    "generic.errorID": "Váratlan hiba történt Ha azt akarja hogy megtörténjen kérjük mondja el a támogató kiszolgálóknak a hibaazonositot:",
+    "generic.processingTitle": "Feldolgozás",
+    "generic.processingDescription": "Ez a parancs nem fejezte be a feldolgozást.",
+    "generic.insufficientArgs": "A megadott argumentumok helytelen összege a parancsra vonatkozó további információkert lásd {{prefix}} súgó {{command}}"
+}
