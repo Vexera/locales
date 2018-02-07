@@ -94,5 +94,6 @@
     "autorole.autoroleTitle": "Авто-роли",
     "fun.chucknorrisHelp": "Отвечает с шуткой про Чак Норриса.",
     "image.catHelp": "Показывает милого кота!",
-    "image.dogHelp": "Показывает милую собаку!"
+    "image.dogHelp": "Показывает милую собаку!",
+    "info.healthDown": "Оффлайн"
 }
