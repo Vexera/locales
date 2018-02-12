@@ -259,5 +259,8 @@
     "info.statusNotDonator": "Benutzer ist kein Spender!",
     "music.seekHelp": "Springt zu einer gewissen Position im Song.",
     "music.seekInvalid": "Ungültige Länge!",
-    "info.premiumExpiring": "Dein Vexera-Premium Abonnement läuft in {{expire}} ab. Um Vexera Premium beizubehalten, besuche bitte https://vexera.io/premium."
+    "info.premiumExpiring": "Dein Vexera-Premium Abonnement läuft in {{expire}} ab. Um Vexera Premium beizubehalten, besuche bitte https://vexera.io/premium.",
+    "music.deleteHelp": "Löscht einen Song aus der Warteschlange.",
+    "music.deletePlaying": "Ich kann den aktuell laufenden Song nicht löschen.",
+    "music.deleteRemoved": "`{{name}}` wurde erfolgreich aus der Warteschlange gelöscht."
 }
