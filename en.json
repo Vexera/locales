@@ -287,5 +287,7 @@
   "info.transferSubscriptionExists": "The user already has a subscription!",
   "info.transferActive": "You already have an active transfer!",
   "info.transferTransferred": "Successfully transferred the subscription to **{{user}}**!",
-  "info.transferDisable": "Succesfully disabled the transfer!"
+  "info.transferDisable": "Succesfully disabled the transfer!",
+  "games.fortniteError": "Error collecting stats: {{error}}",
+  "games.fortniteHelp": "Looks up a user on fortnite."
 }

@@ -12,7 +12,7 @@
    "generic.guildOnlyError":"this command can only be used in servers.",
    "generic.permissionError":"you do not have 🈶 permission to 💨run💨 this command (you need the `{{permission}}` permission)",
    "generic.discordPermissionError":"you need the `{{permission}}` permission to use this command.",
-   "generic.guildJoin":"hi! thanks for adding {{botname}}! i'm a🅰️ multi-purpose bot which can do music🎻, moderation, autorole, and other pointless commands. do `{{prefix}}help` to see👀 my commands, and `{{prefix}}help <command>` to 🙈see🙈 extended information📄 about a🅰️🅰️ command.",
+   "generic.guildJoin":"hi! thanks for adding {{botName}}! i'm a🅰️ multi-purpose bot which can do music🎻, moderation, autorole, and other pointless commands. do `{{prefix}}help` to see👀 my commands, and `{{prefix}}help <command>` to 🙈see🙈 extended information📄 about a🅰️🅰️ command.",
    "generic.argNoResponse":"no 👎 response for 30 seconds.",
    "generic.promptCancel":"prompt cancelled.",
    "generic.ratelimited":"please🙏🙏 wait🚏 {{sec}} seconds.",
