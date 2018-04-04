@@ -1,6 +1,6 @@
 {
     "nativeName": "Français",
-    "languageNameEn": "Anglais",
+    "languageNameEn": "French",
     "generic.error": "Une erreur inattendue s'est produite.",
     "generic.errorCodeblock": "Une erreur inattendue s'est produite.\n```{{error}}```",
     "generic.processingTitle": "Traitement",
@@ -246,7 +246,7 @@
     "info.premiumStatus": "Vérifie le status premium d'un utilisateur.",
     "info.statusAmount": "Montant promis",
     "info.statusDatePledged": "Date promise",
-    "info.statusDeclined": "**Attention :** la promesse pour cet utilisateur n'a pas été remplietenue ce mois.",
+    "info.statusDeclined": "**Avertissement :** Le paiement pour cet utilisateur n'a pas été validé ce mois-ci.",
     "info.statusExpiry": "Expiration",
     "info.statusType": "Type",
     "info.statusNotDonator": "L'utilisateur n'est pas un donateur !",
