@@ -289,5 +289,6 @@
   "info.transferTransferred": "Successfully transferred the subscription to **{{user}}**!",
   "info.transferDisable": "Succesfully disabled the transfer!",
   "games.fortniteError": "Error collecting stats: {{error}}",
-  "games.fortniteHelp": "Looks up a user on fortnite."
+  "games.fortniteHelp": "Looks up a user on fortnite.",
+  "music.viewWebsite": "View on vexera.io"
 }
