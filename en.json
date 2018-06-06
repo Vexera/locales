@@ -290,5 +290,15 @@
   "info.transferDisable": "Succesfully disabled the transfer!",
   "games.fortniteError": "Error collecting stats: {{error}}",
   "games.fortniteHelp": "Looks up a user on fortnite.",
-  "music.viewWebsite": "View on vexera.io"
+  "music.viewWebsite": "View on vexera.io",
+  "music.playlistNameMax": "Playlist names can only be 20 characters long!",
+  "music.playlistCreated": "<:VexeraGreenTick:393551177008283658> Playlist `{{name}}` created!",
+  "music.playlistNotFound": "Playlist `{{name}}` not found!",
+  "music.playlistLoad": "<:VexeraGreenTick:393551177008283658> Playlist `{{name}}` loaded into queue!",
+  "music.playlistDeleted": "<:VexeraGreenTick:393551177008283658> Playlist `{{name}}` deleted!",
+  "music.playlistHelp": "Allows you to save and load queues.",
+  "music.playlistExample1": "Creates the playlist 'Dubstep' from the songs currently in the queue.",
+  "music.playlistExample2": "Loads the songs from playlist 'Dubstep' into the queue.",
+  "music.playlistExample3": "Deletes the playlist 'Dubstep'",
+  "music.playlistExample4": "Creates a dump URL for the playlist 'Dubstep'"
 }
