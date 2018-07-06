@@ -43,6 +43,7 @@
   "info.statsWebsite": "Website",
   "info.statsSupport": "Support",
   "info.statsInvite": "Invite",
+  "info.statsUsersVC": "Connected Users",
   "info.statsHelp": "Shows stats about the bot",
   "info.clusterinfoHelp": "Shows info about all clusters",
   "info.inviteInvite": "Invite: {{url}}",
