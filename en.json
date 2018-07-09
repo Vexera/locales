@@ -146,6 +146,8 @@
   "settings.logHelp": "Sets a log channel for joins and leaves.",
   "settings.logDisabled": "Successfully disabled the log channel.",
   "settings.logSet": "Successfully set the log channel.",
+  "settings.modlogDisabled": "Successfully disabled the moderation log channel.",
+  "settings.modlogSet": "Successfully set the moderation log channel.",
   "settings.channeltoggleHelp": "Disables commands in a channel.",
   "settings.channeltoggleEnabled": "Enabled commands in this channel.",
   "settings.channeltoggleDisabled": "Disabled commands in this channel.",
@@ -306,5 +308,12 @@
   "music.playlistExample1": "Creates the playlist 'Dubstep' from the songs currently in the queue.",
   "music.playlistExample2": "Loads the songs from playlist 'Dubstep' into the queue.",
   "music.playlistExample3": "Deletes the playlist 'Dubstep'",
-  "music.playlistExample4": "Creates a dump URL for the playlist 'Dubstep'"
+  "music.playlistExample4": "Creates a dump URL for the playlist 'Dubstep'",
+  "modlog.none": "You do not have a moderation log set!",
+  "modlog.invalidCase": "Invalid case!",
+  "modlog.line1": "**{{type}}** | Case {{caseID}}",
+  "modlog.line2": "**User**: {{username}}#{{discriminator}} ({{id}}) (<@{{id}}>)",
+  "modlog.line3": "**Reason**: {{reason}}",
+  "modlog.line4": "**Moderator**: {{username}}#{{discriminator}}",
+  "modlog.noReason": "_Moderator, please type `{{prefix}}reason {{caseID}} <reason>`_"
 }
