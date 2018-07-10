@@ -97,7 +97,7 @@
     "perms.permsExample5": "Remove a permissão de música de todos",
     "perms.permsExample6": "Limpa as permissões do cargo `Moderators`",
     "perms.permsNodesTitle": "Permissões",
-    "admin.softbanHelp": "um utilizador (limpa todas as suas mensagens)",
+    "admin.softbanHelp": "Softbane um utilizador (limpa todas as suas mensagens)",
     "admin.softbanPermissionError": "Você não tem permissão para expulsar este utilizador.",
     "admin.softbanBotPermissionError": "Não consegui banir o utilizador.",
     "admin.vckickHelp": "Expulsa um membro de um canal de voz",
