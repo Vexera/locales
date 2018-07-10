@@ -298,5 +298,22 @@
     "info.transferSubscriptionExists": "L’utilisateur a déjà un abonnement !",
     "info.transferActive": "Vous avez déjà un transfert actif !",
     "info.transferTransferred": "Transfert de l’abonnement à **{{user}}** réalisé avec succès !",
-    "info.transferDisable": "Désactivation du transfert réussie !"
+    "info.transferDisable": "Désactivation du transfert réussie !",
+    "info.statsUsersVC": "Utilisateurs connectés",
+    "misc.userinfoCreation1": "User joined at • {{dateJoined}} | Utilisateur créé le",
+    "admin.banExample1": "Bannit l'utilisateur « luke » pendant 1 semaine et deux jours avec la raison « Advertising »",
+    "admin.banExample2": "Bannit l'utilisateur « luke »",
+    "admin.muteExample1": "Rends muet l'utilisateur « luke » pendant 1 semaine et deux jours avec la raison « Spamming »",
+    "admin.muteExample2": "Rends muet l'utilisateur « luke »",
+    "games.fortniteError": "Erreur en récupérant les statistiques : {{error}}",
+    "games.fortniteHelp": "Chercher un utilisateur sur fortnite.",
+    "music.viewWebsite": "Voir sur vexera.io",
+    "music.playlistCreated": "<:VexeraGreenTick:393551177008283658> Playlist `{{name}}` créée !",
+    "music.playlistNotFound": "Playlist `{{name}}` introuvable !",
+    "music.playlistLoad": "<:VexeraGreenTick:393551177008283658> Playlist `{{name}}` chargée dans la file d'attente !",
+    "music.playlistDeleted": "<:VexeraGreenTick:393551177008283658> Playlist `{{name}}` supprimée !",
+    "music.playlistHelp": "Vous permet de sauvegarder et recharger des files d'attente.",
+    "music.playlistExample1": "Crée la playlist « Dubstep » avec les musiques actuellement dans la file d'attente.",
+    "music.playlistExample2": "Charge les musiques de la playlist « Dubstep » dans la file d'attente.",
+    "music.playlistExample3": "Supprime la playlist « Dubstep »"
 }
