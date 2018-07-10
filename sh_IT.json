@@ -296,7 +296,7 @@
     "admin.muteExample2": "mutes🔕 user👤 'luke'",
     "settings.modlogDisabled": "successfully disabled the moderation log channel.",
     "settings.modlogSet": "successfully set 📐 the moderation log channel.",
-    "games.fortniteError": "🚨Error🚨 c⭕llecting st🅰ts: ```{{error}}```",
+    "games.fortniteError": "🚨error🚨 c⭕llecting st🅰ts 〽️: {{error}}",
     "games.fortniteHelp": "looks👀 up☝️☝️ 🅰️a🅰️ user 👥 on🔛 fortnite🎮.",
     "music.viewWebsite": "view🌄 on🔛 vexera.io",
     "music.playlistNameMax": "playlist names📛 can only be 20 🔣characters🔣 long!",
