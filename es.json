@@ -21,5 +21,6 @@
     "info.healthStarting": "Iniciando",
     "info.healthNodesDown": "Nodos de voz sin conexión",
     "info.helpHelp": "Muestra este comando",
-    "info.helpUsage": "Uso"
+    "info.helpUsage": "Uso",
+    "info.helpPermNode": "Nodo de Permiso"
 }
