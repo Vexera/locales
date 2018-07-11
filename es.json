@@ -37,5 +37,6 @@
     "info.redeemExtended": "¡Listo! Tu suscripción premium de Vexera ha sido extendida por {{days}} días.",
     "misc.serverinfoHelp": "Muestra información acerca de un servidor",
     "misc.serverinfoRegion": "Región",
-    "misc.serverinfoRoles": "Roles"
+    "misc.serverinfoRoles": "Roles",
+    "misc.userinfoHelp": "Muestra información acerca de un usuario."
 }
