@@ -15,5 +15,6 @@
     "generic.guildJoin": "¡Hola! ¡Gracias por añadir a {{botName}}! Soy un bot multipropósito que tiene comandos de música, moderación, autorol y otros comandos sin sentido. Usa `{{prefix}}help` para ver mis comandos y `{{prefix}}help <comando>` para ver información extendida acerca de un comando.",
     "generic.argNoResponse": "Sin respuesta por 30 segundos.",
     "generic.promptCancel": "Se canceló la entrada.",
-    "generic.ratelimited": "Por favor espera {{sec}} segundos."
+    "generic.ratelimited": "Por favor espera {{sec}} segundos.",
+    "info.healthHelp": "Muestra la salud de los fragmentos del bot."
 }
