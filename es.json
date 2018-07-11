@@ -35,5 +35,7 @@
     "info.redeemInvalid": "¡Clave no válida! Por favor asegúrate de que es correcta y no ha sido reclamada anteriormente.",
     "info.redeemAlreadyDonator": "¡Ya tienes una clave o suscripción activa!",
     "info.redeemExtended": "¡Listo! Tu suscripción premium de Vexera ha sido extendida por {{days}} días.",
-    "misc.serverinfoHelp": "Muestra información acerca de un servidor"
+    "misc.serverinfoHelp": "Muestra información acerca de un servidor",
+    "misc.serverinfoRegion": "Región",
+    "misc.serverinfoRoles": "Roles"
 }
