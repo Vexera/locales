@@ -1,5 +1,7 @@
 {
     "languageNameEn": "Spanish",
     "nativeName": "Español",
-    "generic.error": "Ha ocurrido un error inesperado."
+    "generic.error": "Ha ocurrido un error inesperado.",
+    "generic.errorCodeblock": "Ha ocurrido un error inesperado.\n```{{error}}```",
+    "generic.errorID": "Ha ocurrido un error inesperado. Si crees que esto no debía pasar, por favor dile el ID del error al equipo de soporte: `{{errorID}}`."
 }
