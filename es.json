@@ -6,5 +6,7 @@
     "generic.errorID": "Ha ocurrido un error inesperado. Si crees que esto no debía pasar, por favor dile el ID del error al equipo de soporte: `{{errorID}}`.",
     "generic.processingTitle": "Procesando",
     "generic.processingDescription": "Este comando no ha terminado de procesarse.",
-    "generic.insufficientArgs": "Cantidad incorrecta de argumentos especificados, para más información sobre este comando, lee {{prefix}}help {{command}}."
+    "generic.insufficientArgs": "Cantidad incorrecta de argumentos especificados, para más información sobre este comando, lee {{prefix}}help {{command}}.",
+    "generic.insufficientArg": "No especificaste el argumento `{{arg}}`.",
+    "generic.invalidArg": "No se pudo resolver el argumento `{{arg}}`."
 }
