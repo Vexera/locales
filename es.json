@@ -4,5 +4,7 @@
     "generic.error": "Ha ocurrido un error inesperado.",
     "generic.errorCodeblock": "Ha ocurrido un error inesperado.\n```{{error}}```",
     "generic.errorID": "Ha ocurrido un error inesperado. Si crees que esto no debía pasar, por favor dile el ID del error al equipo de soporte: `{{errorID}}`.",
-    "generic.processingTitle": "Procesando"
+    "generic.processingTitle": "Procesando",
+    "generic.processingDescription": "Este comando no ha terminado de procesarse.",
+    "generic.insufficientArgs": "Cantidad incorrecta de argumentos especificados, para más información sobre este comando, lee {{prefix}}help {{command}}."
 }
