@@ -8,5 +8,10 @@
     "generic.processingDescription": "Este comando no ha terminado de procesarse.",
     "generic.insufficientArgs": "Cantidad incorrecta de argumentos especificados, para más información sobre este comando, lee {{prefix}}help {{command}}.",
     "generic.insufficientArg": "No especificaste el argumento `{{arg}}`.",
-    "generic.invalidArg": "No se pudo resolver el argumento `{{arg}}`."
+    "generic.invalidArg": "No se pudo resolver el argumento `{{arg}}`.",
+    "generic.guildOnlyError": "Este comando solo puede ser usado en servidores.",
+    "generic.permissionError": "No tienes permiso para ejecutar este comando (Necesitas el permiso `{{permission}}`)",
+    "generic.discordPermissionError": "Necesitas el permiso `{{permission}}` para usar este comando.",
+    "generic.guildJoin": "¡Hola! ¡Gracias por añadir a {{botName}}! Soy un bot multipropósito que tiene comandos de música, moderación, autorol y otros comandos sin sentido. Usa `{{prefix}}help` para ver mis comandos y `{{prefix}}help <comando>` para ver información extendida acerca de un comando.",
+    "generic.argNoResponse": "Sin respuesta por 30 segundos."
 }
