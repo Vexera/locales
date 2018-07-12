@@ -287,5 +287,13 @@
     "info.transferSubscriptionExists": "Kullanıcının zaten bir aboneliği var!",
     "info.transferActive": "Zaten aktif bir aktarmanız var!",
     "info.transferTransferred": "Abonelik başarılı bir şekilde **{{user}}** kullanıcısına aktardı!",
-    "info.transferDisable": "Aktarma başarılı bir şekilde devre dışı bırakıldı!"
+    "info.transferDisable": "Aktarma başarılı bir şekilde devre dışı bırakıldı!",
+    "info.statsUsersVC": "Bağlı Kullanıcılar",
+    "misc.userinfoCreation1": "Sunucuya girdiği tarih • {{dateJoined}} | Hesabın oluşturulduğu tarih",
+    "admin.banExample1": "'Advertising' sebebiyle 'luke' aldı kullanıcıyı 1 hafta 2 gün boyunca yasaklar",
+    "admin.banExample2": "'luke' kullanıcısını yasaklar",
+    "admin.muteExample1": "'Spamming' sebebiyle 'luke' aldı kullanıcıyı 1 hafta 2 gün boyunca susturur",
+    "admin.muteExample2": "'luke' kullanıcısını susturur",
+    "settings.modlogDisabled": "Denetleme günlüğü kanalı başarıyla devre dışı bırakıldı.",
+    "settings.modlogSet": "Denetim günlüğü kanalı başarıyla ayarlandı."
 }

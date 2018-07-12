@@ -1,4 +1,6 @@
 {
     "nativeName": "Romana",
-    "languageNameEn": "Romanian"
+    "languageNameEn": "Romanian",
+    "generic.error": "O eroare neasteptata s-a produs.",
+    "generic.errorCodeblock": "O eroare neasteptata s-a produs {{error}}"
 }
