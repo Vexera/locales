@@ -315,5 +315,6 @@
   "modlog.line2": "**User**: {{username}}#{{discriminator}} ({{id}}) (<@{{id}}>)",
   "modlog.line3": "**Reason**: {{reason}}",
   "modlog.line4": "**Moderator**: {{username}}#{{discriminator}}",
-  "modlog.noReason": "_Moderator, please type `{{prefix}}reason {{caseID}} <reason>`_"
+  "modlog.noReason": "_Moderator, please type `{{prefix}}reason {{caseID}} <reason>`_",
+  "modlog.reasonHelp": "Sets a reason for a mod log infraction."
 }
