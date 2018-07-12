@@ -315,6 +315,19 @@
   "modlog.line2": "**User**: {{username}}#{{discriminator}} ({{id}}) (<@{{id}}>)",
   "modlog.line3": "**Reason**: {{reason}}",
   "modlog.line4": "**Moderator**: {{username}}#{{discriminator}}",
+  "modlog.line5": "**Issued**: {{date}}",
   "modlog.noReason": "_Moderator, please type `{{prefix}}reason {{caseID}} <reason>`_",
-  "modlog.reasonHelp": "Sets a reason for a mod log infraction."
+  "modlog.reasonHelp": "Sets a reason for a mod log infraction.",
+  "admin.warn": "Warns a user.",
+  "admin.infractionsNotFound": "Page not found!",
+  "admin.infractionsTitle": "Displaying **infractions** for user **{{username}}#{{discriminator}}**",
+  "admin.infractionsFooter": "Currently viewing page {{page}} of {{len}}",
+  "admin.infractionsNoReason": "No reason specified",
+  "modlogtype.ban": "Ban",
+  "modlogtype.warn": "Warn",
+  "modlogtype.mute": "Mute",
+  "modlogtype.kick": "Kick",
+  "modlogtype.softban": "Softban",
+  "modlogtype.unban": "Unban",
+  "modlogtype.unmute": "Unmute"
 }
