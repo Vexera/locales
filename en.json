@@ -331,5 +331,6 @@
   "modlogtype.kick": "Kick",
   "modlogtype.softban": "Softban",
   "modlogtype.unban": "Unban",
-  "modlogtype.unmute": "Unmute"
+  "modlogtype.unmute": "Unmute",
+  "admin.unbanHelp": "Unbans a user."
 }
