@@ -57,5 +57,6 @@
     "perms.permsHelp": "Asigna permiso a un rol. Para ver la lista de permisos, usa {{prefix}}perms nodes\nPermisos manejados por SexyPEX",
     "perms.permsExample2": "No permite al rol `Moderators` usar el comando cat",
     "perms.permsExample3": "No permite al usuario `luke` usar el comando doge",
-    "perms.permsExample5": "Remueve los permisos de música de todos"
+    "perms.permsExample5": "Remueve los permisos de música de todos",
+    "perms.permsExample6": "Quita todos los permisos del rol `Moderators`"
 }
