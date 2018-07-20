@@ -41,5 +41,21 @@
     "misc.userinfoHelp": "Muestra información acerca de un usuario.",
     "misc.userinfoRoles": "Roles",
     "misc.userinfoGame": "Juego",
-    "misc.userinfoStatus": "Estado"
+    "misc.userinfoStatus": "Estado",
+    "misc.userinfoCreation1": "El usuario se unió el • {{dateJoined}} | Usuario creado el",
+    "perms.permsAddExists": "Ese permiso ya ha sido añadido",
+    "perms.permsAdd": "Permiso {{perm}} añadido a {{name}}",
+    "perms.permsRemoveError": "Ese permiso no ha sido añadido, por lo que no puede ser removido.",
+    "perms.permsRemove": "Permiso {{perm}} removido de {{name}}",
+    "perms.permsClear": "Se limpiaron todos los permiso de {{name}}",
+    "perms.permsListTitle": "Permisos para {{name}}",
+    "perms.permsExample1": "Otorga permisos de música a todos",
+    "perms.permsExample4": "Muestra una lista con los permisos del rol `Moderators`",
+    "info.healthUnhealthy": "Cantidad de servidores insalubres",
+    "info.redeemHelp": "Te permite redimir una clave de Vexera Premium. Por favor, ten en cuenta que será activado en cualquier servidor que **te pertenezca**.",
+    "info.redeemSuccess": "¡Éxito! Vexera Premium estará activado en cada servidor que te pertenezca por **{{days}}** días.",
+    "perms.permsHelp": "Asigna permiso a un rol. Para ver la lista de permisos, usa {{prefix}}perms nodes\nPermisos manejados por SexyPEX",
+    "perms.permsExample2": "No permite al rol `Moderators` usar el comando cat",
+    "perms.permsExample3": "No permite al usuario `luke` usar el comando doge",
+    "perms.permsExample5": "Remueve los permisos de música de todos"
 }
