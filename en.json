@@ -327,7 +327,7 @@
   "modlog.line4": "**Moderator**: {{username}}#{{discriminator}}",
   "modlog.line5": "**Issued**: {{date}}",
   "modlog.noReason": "_Moderator, please type `{{prefix}}reason {{caseID}} <reason>`_",
-  "modlog.reasonHelp": "Sets a reason for a mod log infraction.",
+  "admin.reasonHelp": "Sets a reason for a mod log infraction.",
   "admin.warn": "Warns a user.",
   "admin.infractionsHelp": "Views infractions for a user.",
   "admin.infractionsNotFound": "Page not found!",
