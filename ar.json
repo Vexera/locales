@@ -1,1 +1,11 @@
-{}
+{
+    "nativeName": "الأنجليزية",
+    "languageNameEn": "الأنجليزية",
+    "generic.error": "حدث خطأ غير متوقع.",
+    "generic.errorCodeblock": "حدث خطأ غير متوقع.\n```{{error}}```",
+    "generic.errorID": "حدث خطأ غير متوقع. إذا كان ذلك لا يجب أن يحصل رجاءً تواصل مع فريق الدعم وارسل رقم الخطأ: `{{errorID}}`.",
+    "generic.processingTitle": "تتم الان المعالجة",
+    "generic.processingDescription": "هذا الأمر لم تنتهِ معالجته بعد.",
+    "generic.insufficientArgs": "عدد خاطئ من الخانات، لمزيد من المعلومات حول هذا الأمر، ارسل {{prefix}}help {{command}}.",
+    "generic.insufficientArg": "أنت لم تملأ الخانة `{{arg}}`."
+}
