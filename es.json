@@ -318,5 +318,6 @@
     "info.pingPong": "pong `{{ms}}ms`",
     "info.pingHelp": "Pong!",
     "info.statsVersion": "Versión",
-    "info.statsLibrary": "Librería"
+    "info.statsLibrary": "Librería",
+    "info.statsOwner": "Dueño"
 }
