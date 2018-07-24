@@ -320,5 +320,6 @@
     "info.statsVersion": "Versión",
     "info.statsLibrary": "Librería",
     "info.statsOwner": "Dueño",
-    "info.statsGuilds": "Servidores"
+    "info.statsGuilds": "Servidores",
+    "info.statsUsers": "Usuarios"
 }
