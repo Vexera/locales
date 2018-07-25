@@ -343,5 +343,6 @@
     "misc.userinfoID": "ID",
     "owner.evalHelp": "Evalúa cosas",
     "owner.globalevalHelp": "Evalúa cosas a través de todos los clusters",
-    "owner.restartHelp": "Reinicia el bot por completo"
+    "owner.restartHelp": "Reinicia el bot por completo",
+    "misc.userinfoCreation": "Usuario creado en"
 }
