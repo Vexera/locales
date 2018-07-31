@@ -186,7 +186,7 @@
     "music.playExample2": "Reproduce una canción de soundcloud usando la URL directa",
     "music.playExample3": "Reproduce un vídeo de youtube usando la URL directa",
     "music.playEnqueued": "Se agregó `{{title}}` a la cola en la posición `{{position}}`.",
-    "music.playSearchResult": "Resultado de la búsqueda",
+    "music.playSearchResult": "Resultados",
     "music.noVoiceChannel": "¡No estás en un canal de voz!",
     "music.botNoVoiceChannel": "¡No estoy reproduciendo música actualmente!",
     "music.noJoinPermission": "No tengo permiso para unirme a tu canal de voz.",
@@ -345,5 +345,5 @@
     "owner.globalevalHelp": "Evalúa cosas a través de todos los clusters",
     "owner.restartHelp": "Reinicia el bot por completo",
     "misc.userinfoCreation": "Usuario creado en",
-    "image.poweredBy": "Funciona gracias a {{url}}"
+    "image.poweredBy": "Generado por {{url}}"
 }
