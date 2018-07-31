@@ -338,10 +338,13 @@
   "modlogtype.softban": "Softban",
   "modlogtype.unban": "Unban",
   "modlogtype.unmute": "Unmute",
+  "automod.triggered": "[Auto] Triggered filter {{filterName}}.",
+  "automod.warnings": "[Auto] User recieved {{warns}} warnings within 24 hours.",
   "admin.unbanHelp": "Unbans a user.",
   "settings.modlogHelp": "Sets a channel which will log all infractions.",
   "settings.rowboatHelp": "Imports infractions in rowboat JSON format.",
   "settings.rowboatNoURL": "No url specified!",
   "settings.rowboatError": "Error fetching infractions.",
-  "settings.rowboatWarning1": "Warning! You are about to import `{{count}}` infractions. Say `yes` if you want to proceed."
+  "settings.rowboatWarning1": "Warning! You are about to import `{{count}}` infractions. Say `yes` if you want to proceed.",
+  "meme.logoHelp": "Makes a vexera logo with custom text!"
 }
