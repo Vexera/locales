@@ -349,6 +349,7 @@
   "settings.rowboatWarning1": "Warning! You are about to import `{{count}}` infractions. Say `yes` if you want to proceed.",
   "meme.logoHelp": "Makes a vexera logo with custom text!",
   "misc.remindHelp": "Sets a reminder.",
+  "misc.remindExample1": "Vexera will remind you in 10 minutes to play fortnite.",
   "misc.remindNoTime": "No time was specified!",
   "misc.remindInvalid": "Invalid time!",
   "misc.remindSuccess": "Ok, I'll remind you to {{text}}."
