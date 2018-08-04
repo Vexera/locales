@@ -323,6 +323,7 @@
   "modlog.line3": "**Reason**: {{reason}}",
   "modlog.line4": "**Moderator**: {{username}}#{{discriminator}}",
   "modlog.line5": "**Issued**: {{date}}",
+  "modlog.line6": "**Duration**: {{duration}}",
   "modlog.noReason": "_Moderator, please type `{{prefix}}reason {{caseID}} <reason>`_",
   "admin.reasonHelp": "Sets a reason for a mod log infraction.",
   "admin.warn": "Warns a user.",
@@ -346,5 +347,9 @@
   "settings.rowboatNoURL": "No url specified!",
   "settings.rowboatError": "Error fetching infractions.",
   "settings.rowboatWarning1": "Warning! You are about to import `{{count}}` infractions. Say `yes` if you want to proceed.",
-  "meme.logoHelp": "Makes a vexera logo with custom text!"
+  "meme.logoHelp": "Makes a vexera logo with custom text!",
+  "misc.remindHelp": "Sets a reminder.",
+  "misc.remindNoTime": "No time was specified!",
+  "misc.remindInvalid": "Invalid time!",
+  "misc.remindSuccess": "Ok, I'll remind you to {{text}}."
 }
