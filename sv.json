@@ -1,4 +1,5 @@
 {
     "nativeName": "Svenska",
-    "languageNameEn": "Swedish"
+    "languageNameEn": "Swedish",
+    "generic.error": "Ett okänt fel har uppstått"
 }
