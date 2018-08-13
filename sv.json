@@ -2,8 +2,8 @@
     "nativeName": "Svenska",
     "languageNameEn": "Swedish",
     "generic.error": "Ett okänt fel har uppstått.",
-    "generic.processingTitle": "Bearbetar ",
+    "generic.processingTitle": "Bearbetar",
     "generic.processingDescription": "Det här kommandot har inte slutförts.",
     "generic.insufficientArgs": "Felaktig mängd argument som anges, för mer information om detta kommando, se {{prefix}}help {{command}}.",
-    "generic.guildOnlyError": "Det här kommandot kan bara användas i servrar. "
+    "generic.guildOnlyError": "Det här kommandot kan bara användas i servrar."
 }
