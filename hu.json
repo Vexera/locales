@@ -1,4 +1,12 @@
 {
     "languageNameEn": "Hungarian",
-    "nativeName": "Magyar"
+    "nativeName": "Magyar",
+    "generic.error": "Váratlan hiba lépett fel.",
+    "generic.errorCodeblock": "Váratlan hiba lépett fel.\n```{{error}}```",
+    "generic.errorID": "Váratlan hiba lépett fel. Ha úgy gondolod, ez nem történt meg, közöld a támogatási szerverünkkel a hiba azonosítóját: `{{errorID}}` .",
+    "generic.processingTitle": "Feldolgozás",
+    "generic.processingDescription": "A parancsot nem sikerült feldolgozni.",
+    "generic.insufficientArgs": "Nem megfelelő mennyiségű argumentum észlelve, a parancsról több információt a {{prefix}}help {{command}} használata után láthatsz.",
+    "generic.insufficientArg": "A(z) `{{arg}}` argumentum hiányzik.",
+    "generic.invalidArg": "A(z) `{{arg}}` argumentum nem meghatározható."
 }
