@@ -352,5 +352,6 @@
   "misc.remindExample1": "Vexera will remind you in 10 minutes to play fortnite.",
   "misc.remindNoTime": "No time was specified!",
   "misc.remindInvalid": "Invalid time!",
-  "misc.remindSuccess": "Ok, I'll remind you to {{text}}."
+  "misc.remindSuccess": "Ok, I'll remind you to {{text}}.",
+  "music.playerLag": "Experiencing lag? Get dedicated resources with [Vexera Premium](https://vexera.io/premium)!"
 }
