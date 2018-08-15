@@ -10,5 +10,7 @@
     "generic.insufficientArg": "Nespecifikovali jste argument `{{arg}}`.",
     "generic.invalidArg": "Nelze vyřešit argument `{{arg}}`.",
     "generic.guildOnlyError": "Tento příkaz lze používat pouze v serverech.",
-    "generic.permissionError": "Nemáte oprávnění na spuštění tohoto příkazu (Potřebujete oprávnění `{{permission}}`)"
+    "generic.permissionError": "Nemáte oprávnění na spuštění tohoto příkazu (Potřebujete oprávnění `{{permission}}`)",
+    "generic.discordPermissionError": "Potřebujete oprávnění `{{permission}}` pro použití tohoto příkazu.",
+    "generic.guildJoin": "Dobrý den! Díky za přidání {{botName}}! Jsem víceúčelový bot který zvládne Hudbu, Moderaci, Automatické role a další zbytečné příkazy. Napiš `{{prefix}}help` pro zobrazení mých příkazů, a `{{prefix}}help <příkaz>` pro zobrazení více informací o příkazu."
 }
