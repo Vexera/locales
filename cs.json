@@ -6,5 +6,5 @@
     "generic.errorID": "Stala se neočekávaná chyba. Pokud si myslíte, že se toto nemělo stát, řekněte serveru podpory ID chyby: `{{errorID}}`.",
     "generic.processingTitle": "Zpracovává se",
     "generic.processingDescription": "Tento příkaz se stále zpracovává.",
-    "generic.insufficientArgs": "Špatný počet argumentů, pro více informací viz. {{prefix}}help {{command}}"
+    "generic.insufficientArgs": "Špatný počet argumentů, pro více informací viz, {{prefix}}help {{command}}."
 }
