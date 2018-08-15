@@ -7,5 +7,5 @@
     "generic.processingTitle": "Zpracovává se",
     "generic.processingDescription": "Tento příkaz se stále zpracovává.",
     "generic.insufficientArgs": "Špatný počet argumentů, pro více informací viz, {{prefix}}help {{command}}.",
-    "generic.insufficientArg": "Nespecifikovali jste argument `{{arg}}`"
+    "generic.insufficientArg": "Nespecifikovali jste argument `{{arg}}`."
 }
