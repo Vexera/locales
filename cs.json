@@ -10,5 +10,5 @@
     "generic.insufficientArg": "Nespecifikovali jste argument `{{arg}}`.",
     "generic.invalidArg": "Nelze vyřešit argument `{{arg}}`.",
     "generic.guildOnlyError": "Tento příkaz lze používat pouze v serverech.",
-    "generic.permissionError": "Nemáte oprávnění na spuštění tohoto příkazu (Potřebujete oprávnění `{{permission}}`."
+    "generic.permissionError": "Nemáte oprávnění na spuštění tohoto příkazu (Potřebujete oprávnění `{{permission}}`)"
 }
