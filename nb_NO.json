@@ -1,6 +1,6 @@
 {
-    "nativeName": "Norsk",
-    "languageNameEn": "Norwegian",
+    "nativeName": "Norsk bokmål",
+    "languageNameEn": "Norwegian Bokmål",
     "generic.error": "En uventet feil har oppstått.",
     "generic.errorCodeblock": "En uventet feil har oppstått.\n```{{error}}```",
     "generic.errorID": "En uventet feil har oppstått. Hvis tror dette ikke var ment å skje, vennligst kontakt støtte-serveren med feil ID: `{{errorID}}`.",
