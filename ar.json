@@ -1,6 +1,6 @@
 {
     "nativeName": "الأنجليزية",
-    "languageNameEn": "الأنجليزية",
+    "languageNameEn": "Arabic",
     "generic.error": "حدث خطأ غير متوقع.",
     "generic.errorCodeblock": "حدث خطأ غير متوقع.\n```{{error}}```",
     "generic.errorID": "حدث خطأ غير متوقع. إذا كان ذلك لا يجب أن يحصل رجاءً تواصل مع فريق الدعم وارسل رقم الخطأ: `{{errorID}}`.",
