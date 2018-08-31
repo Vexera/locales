@@ -1,6 +1,6 @@
 {
-    "nativeName": "英语",
-    "languageNameEn": "英语",
+    "nativeName": "中文（简体）",
+    "languageNameEn": "Chinese (Simplified)",
     "generic.error": "发生了一个错误。",
     "generic.errorCodeblock": "发生了一个错误。\n‘{{error}}’",
     "generic.errorID": "发生了一个错误。如果你认为它不该发生，请将错误代码：‘{{errorID}}’ 提交至支持服务器。",
