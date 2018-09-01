@@ -254,6 +254,7 @@
   "music.volumeHelp": "Sets the volume of the music playing.",
   "music.volumeStatus": "The volume is currently {{percent}}%",
   "music.songNotFound": "That song was not found!",
+  "music.queryNotFound": "No results found.",
   "music.commandDonator": "Only premium subscribers can use this command! For more information, see <https://vexera.io/premium>",
   "music.premiumSpotifyError": "Only Vexera Premium subscribers can load Spotify playlists! For more information, see <https://vexera.io/premium>.",
   "music.premiumSpotifyAlternative": "Alternatively, there are websites that can [convert Spotify playlists into Youtube playlists](https://bfnt.io/spotify-converter) which you can visit if you want to stay free.",
