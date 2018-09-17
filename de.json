@@ -360,5 +360,15 @@
     "settings.rowboatHelp": "Importiert Verstöße im rowboat JSON-Format.",
     "settings.rowboatNoURL": "Keine URL angegeben!",
     "settings.rowboatError": "Fehler beim Abrufen von Verstößen.",
-    "settings.rowboatWarning1": "Warnung! Du bist dabei `{{count}}` Verstöße zu importieren. Sag' `yes`, wenn Du fortfahren willst."
+    "settings.rowboatWarning1": "Warnung! Du bist dabei `{{count}}` Verstöße zu importieren. Sag' `yes`, wenn Du fortfahren willst.",
+    "modlog.line6": "**Länge**: {{duration}}",
+    "automod.triggered": "[Auto] Der Filter {{filterName}} wurde ausgelöst.",
+    "automod.warnings": "[Auto] Der Nutzer hat {{warns}} in 24 Stunden erhalten.",
+    "meme.logoHelp": "Erstellt ein Vexera-Logo mit maßgeschneidertem Text!",
+    "misc.remindHelp": "Setzt eine Erinnerung.",
+    "misc.remindExample1": "Vexera wird dich in 10 Minuten daran erinnern, Fortnite zu spielen.",
+    "misc.remindNoTime": "Keine Zeit wurde angegeben!",
+    "misc.remindInvalid": "Ungültige Zeit!",
+    "misc.remindSuccess": "Okay, ich werde dich über {{text}} erinnern.",
+    "music.playerLag": "Bemerkst du Verzögerungen? Hole dir zugeschriebene Ressourcen mit [Vexera Premium](https://vexera.io/premium)!"
 }
