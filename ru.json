@@ -101,5 +101,6 @@
     "misc.serverinfoID": "ID",
     "music.playerDuration": "Длительность",
     "music.playerErrorTitle": "Ошибка",
-    "info.healthHelp": "Показывает состояние бота"
+    "info.healthHelp": "Показывает состояние бота",
+    "info.healthTitle": "Состояние сегментов и кластеров"
 }
