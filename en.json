@@ -302,7 +302,7 @@
   "music.deleteRemoved": "Successfully removed `{{name}}` from the queue.",
   "owner.fetchsettingsNotfound": "Settings not found.",
   "owner.fetchsettingsSensitive": "This command will reveal end user data. Please make sure you are in a private channel. Say 'yes' to continue.",
-  "info.transferHelp": "Transfers a premium subscription to another user.",
+  "info.transferHelp": "Transfers a premium subscription to another user, use `+transfer disable` to disable.",
   "info.transferSubscriptionExists": "The user already has a subscription!",
   "info.transferActive": "You already have an active transfer!",
   "info.transferTransferred": "Successfully transferred the subscription to **{{user}}**!",
