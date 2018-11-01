@@ -180,7 +180,7 @@
     "info.healthHelp": "Affiche l'état des « shards » du bot",
     "info.healthTitle": "État des clusters et des « shards »",
     "info.healthDown": "Hors service",
-    "info.healthUnhealthy": "Serveurs surchargés",
+    "info.healthUnhealthy": "Nombre de serveurs anormal",
     "info.healthNodesDown": "Nœuds vocaux hors-ligne",
     "info.helpPermNode": "Nœud de permission",
     "info.helpDescription": "Je suis un bot polyvalent qui peut faire de la musique, de la modération, et d'autres choses utiles et amusantes.\nFaites `{{prefix}}help <commande>` pour obtenir des informations précises sur une commande.\n\n**À la recherche de support ? [vexera.io/support](https://vexera.io/support)\nInvitation : [vexera.io/invite](https://vexera.io/invite)**",
@@ -294,7 +294,7 @@
     "music.deleteRemoved": "`{{name}}` a été retirée de la file d'attente avec succès.",
     "owner.fetchsettingsNotfound": "Les paramètres n’ont pas été trouvés.",
     "owner.fetchsettingsSensitive": "Cette commande va montrer des données privées d’utilisateur. Assurez-vous d’être dans un salon privé. Dites `yes` pour continuer.",
-    "info.transferHelp": "Transfère un abonnement premium à un autre utilisateur.",
+    "info.transferHelp": "Transfère un abonnement premium à un autre utilisateur, utilisez `+transfer disable` pour désactiver.",
     "info.transferSubscriptionExists": "L’utilisateur a déjà un abonnement !",
     "info.transferActive": "Vous avez déjà un transfert actif !",
     "info.transferTransferred": "Transfert de l’abonnement à **{{user}}** réalisé avec succès !",
@@ -366,5 +366,9 @@
     "misc.remindNoTime": "Aucun temps n'a été spécifié !",
     "misc.remindInvalid": "Temps invalide !",
     "misc.remindSuccess": "Ok, je vais vous rappeler de {{text}}.",
-    "music.playerLag": "Vous constatez des lags ? Obtenez des ressources dédiées avec [Vexera Premium](https://vexera.io/premium) !"
+    "music.playerLag": "Vous constatez des lags ? Obtenez des ressources dédiées avec [Vexera Premium](https://vexera.io/premium) !",
+    "music.queryNotFound": "Aucun résultat trouvé.",
+    "music.premiumSpotifyError": "Seul les abonnés premium peuvent charger des playlists Spotify ! Pour plus d'information, voir <https://vexera.io/premium>.",
+    "music.premiumSpotifyAlternative": "Alternativement, il y a des sites web qui peuvent [convertir des playlists Spotify en playlists YouTube](https://bfnt.io/spotify-converter) que vous pouvez visiter si vous voulez rester en gratuit.",
+    "music.premiumSpotifyProcessing": "Traitement de la playlist Spotify… cela peut prendre un peu de temps."
 }
