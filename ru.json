@@ -114,5 +114,7 @@
     "perms.permsExample6": "Убрать все разрешения для роли 'Модераторы'",
     "admin.unbanBotPermissionError": "Невозможно разбанить пользователя.",
     "admin.banExample1": "Забанить пользователя `luke` на 1 неделю и два дня с причиной `Advertising`",
-    "admin.banExample2": "Забанить пользователя 'luke'"
+    "admin.banExample2": "Забанить пользователя 'luke'",
+    "admin.muteExample1": "Мутить пользователя `luke` на одну неделю и два дня с причиной `Spamming`",
+    "admin.muteExample2": "Мутить пользователя `luke`"
 }
