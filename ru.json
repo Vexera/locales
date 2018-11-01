@@ -118,5 +118,6 @@
     "admin.muteExample1": "Мутить пользователя `luke` на одну неделю и два дня с причиной `Spamming`",
     "admin.muteExample2": "Мутить пользователя `luke`",
     "misc.userinfoCreation1": "Пользователь зашёл в  • {{dateJoined}} | Пользователь создан в",
-    "perms.permsHelp": "Назначает права для роли. Для списка прав, введите {{prefix}}perms nodes\nПрава работают на SexyPEX"
+    "perms.permsHelp": "Назначает права для роли. Для списка прав, введите {{prefix}}perms nodes\nПрава работают на SexyPEX",
+    "admin.muteSetupError": "У меня нет прав для назначения роли {{mutedRoleName}}, убедитесь что мои разрешения настроены правильно."
 }
