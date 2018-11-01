@@ -38,8 +38,8 @@
     "perms.permsListTitle": "Права для {{name}}",
     "perms.permsNodesTitle": "Ноды прав",
     "perms.permsNodesDescription": "Добавьте ' - ' перед правами чтобы отнять их у пользователя.",
-    "admin.banHelp": "Бан участиника",
-    "admin.banPermissionError": "У вас нет прав заблокировать этого пользователя.",
+    "admin.banHelp": "Бан участника",
+    "admin.banPermissionError": "У вас нет прав чтобы забанить этого пользователя.",
     "admin.banBotPermissionError": "Невозможно забанить пользователя.",
     "admin.kickHelp": "Кикнуть пользователя.",
     "admin.kickPermissionError": "У вас нет прав кикнуть этого пользователя.",
@@ -111,5 +111,7 @@
     "perms.permsExample3": "Запретить пользователю 'luke' использование команды doge.",
     "perms.permsExample4": "Показать разрешения для роли 'Модераторы'",
     "perms.permsExample5": "Убрать разрешение на управление музыкой у всех",
-    "perms.permsExample6": "Убрать все разрешения для роли 'Модераторы'"
+    "perms.permsExample6": "Убрать все разрешения для роли 'Модераторы'",
+    "admin.unbanBotPermissionError": "Невозможно разбанить пользователя.",
+    "admin.banExample1": "Забанить пользователя `luke` на 1 неделю и два дня с причиной `Advertising`"
 }
