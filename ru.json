@@ -113,5 +113,6 @@
     "perms.permsExample5": "Убрать разрешение на управление музыкой у всех",
     "perms.permsExample6": "Убрать все разрешения для роли 'Модераторы'",
     "admin.unbanBotPermissionError": "Невозможно разбанить пользователя.",
-    "admin.banExample1": "Забанить пользователя `luke` на 1 неделю и два дня с причиной `Advertising`"
+    "admin.banExample1": "Забанить пользователя `luke` на 1 неделю и два дня с причиной `Advertising`",
+    "admin.banExample2": "Забанить пользователя 'luke'"
 }
