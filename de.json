@@ -298,7 +298,7 @@
     "music.autoplayExample2": "Schaltet die automatische Wiedergabe aus.",
     "owner.fetchsettingsNotfound": "Einstellungen nicht gefunden.",
     "owner.fetchsettingsSensitive": "Dieser Befehl wird Nutzer-Daten sichtbar machen. Bitte sei sicher Du bist in einem privaten Kanal. Schreibe 'yes' um fortzufahren.",
-    "info.transferHelp": "Transferiert ein Premium-Abonnement zu einem anderen Nutzer.",
+    "info.transferHelp": "Überträgt ein Premium-Abonnement auf einen anderen Nutzer.",
     "info.transferSubscriptionExists": "Der Nutzer besitzt bereits ein Abonnement!",
     "info.transferActive": "Es läuft bereits eine aktive Transferierung!",
     "info.transferTransferred": "Das Abonnement wurde erfolgreich zu **{{user}}** transferiert!",
@@ -370,5 +370,9 @@
     "misc.remindNoTime": "Keine Zeit wurde angegeben!",
     "misc.remindInvalid": "Ungültige Zeit!",
     "misc.remindSuccess": "Okay, ich werde dich über {{text}} erinnern.",
-    "music.playerLag": "Bemerkst du Verzögerungen? Hole dir zugeschriebene Ressourcen mit [Vexera Premium](https://vexera.io/premium)!"
+    "music.playerLag": "Bemerkst du Verzögerungen? Hole dir zugeschriebene Ressourcen mit [Vexera Premium](https://vexera.io/premium)!",
+    "music.queryNotFound": "Keine Ergebnisse gefunden.",
+    "music.premiumSpotifyError": "Nur Vexera Premium Abonnenten können Spotify Playlists hören. Für mehr Informationen besuche <https://vexera.io/premium>.",
+    "music.premiumSpotifyAlternative": "Alternativ gibt es Webseiten, die [Spotify Playlists in Youtube Playlists](https://bfnt.io/spotify-converter) umwandeln können. Du kannst solche Webseiten benutzen, wenn du weiterhin kostenlos Vexera verwenden möchtest.",
+    "music.premiumSpotifyProcessing": "Verarbeite Spotify Playlist... Dies kann einen Moment dauern."
 }
