@@ -23,8 +23,7 @@ In the responses, you will see lots of these so that they look nice on discord. 
 
 
 ## Parts that must not be translated.
-Some parts of strings must not be translated, e.g parts that directly reference commands e.g 'Choose from **add, remove**'.
-There is one exception: **none** and **cancel** can be translated.  
+Some parts of strings must not be translated, e.g parts that directly reference commands e.g 'Choose from **add, remove**'.  
 If you are unsure about what should be translated and not translated, feel free to leave a comment on the translation or ask at our guild.
 
 ## I have translated a string, where it will be visible in Vexera?
