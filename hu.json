@@ -51,5 +51,7 @@
     "perms.permsRemove": "`{{perm}}` jog megvonva `{{name}}` tagtól",
     "perms.permsClear": "Minden jog megvonva `{{name}}` tagtól",
     "perms.permsListTitle": "{{name}} jogai",
-    "perms.permsHelp": "Jogot rendel hozzá egy ranghoz. Az összes jogot megnézheted a `{{prefix}}perms nodes` paranccsal\nJogokat kezeli: SexyPEX"
+    "perms.permsHelp": "Jogot rendel hozzá egy ranghoz. Az összes jogot megnézheted a `{{prefix}}perms nodes` paranccsal\nJogokat kezeli: SexyPEX",
+    "perms.permsExample1": "Mindenkit feljogosít a zenefunkciók használatára",
+    "perms.permsExample2": "Megtagadja a `Moderátorok` rangtól a cat parancs használatának jogát"
 }
