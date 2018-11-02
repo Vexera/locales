@@ -55,5 +55,7 @@
     "perms.permsExample1": "Mindenkit feljogosít a zenefunkciók használatára",
     "perms.permsExample2": "Megtagadja a `Moderators` rangtól a cat parancs használatának jogát",
     "perms.permsExample3": "Megvonja `luke` felhasználótól a doge parancs használatának jogát",
-    "perms.permsExample4": "A `Moderators` rang jogai"
+    "perms.permsExample4": "A `Moderators` rang jogai",
+    "perms.permsExample5": "Zenei jogok megvonása mindenkitől",
+    "perms.permsExample6": "Jogok megvonása a `Moderátorok` rangtól"
 }
