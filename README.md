@@ -4,11 +4,13 @@ If you are going to help translate vexera into multiple languages, please read b
 ## How to translate
 We handle translations on [i18n.vexera.io](https://i18n.vexera.io/projects/vexera-v4/bot/), where they should all be made. **Do not submit merge requests to this repostiory, they will be denied!**
 
+
 For translating strings, there is 2 cases:
- 1. The string hasn't been translated. In this case, you can directly submit a translation, unless there is multiple active contributors for this language (see #2).
- 
- 2. The string has already been translated and you want to update/fix the translation. In this case, **do not update the translation, but make a suggestion.** This suggestion, if upvoted by active contributors will then automatically replace the current translation.
- 
+ 1. If you are part of our [translation program](https://goo.gl/forms/Wal2fKup3HjmTblA3), you can directly submit translations from the [website](https://i18n.vexera.io/projects/vexera-v4/bot/).
+
+ 2. If you are not part of this program, do not hesitate to [apply](https://goo.gl/forms/Wal2fKup3HjmTblA3)! Until your application is approved,
+you can only suggest strings. To have these strings validated, you must ask an approved translator or a staff member.
+
 In either case, you should also follow the rules below.
 
 ## Read the comments
