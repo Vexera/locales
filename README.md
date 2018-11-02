@@ -5,7 +5,7 @@ If you are going to help translate vexera into multiple languages, please read b
 We handle translations on [i18n.vexera.io](https://i18n.vexera.io/projects/vexera-v4/bot/), where they should all be made. **Do not submit merge requests to this repostiory, they will be denied!**
 
 
-For translating strings, there is 2 cases:
+For translating strings, there are 2 cases:
  1. If you are part of our [translation program](https://goo.gl/forms/Wal2fKup3HjmTblA3), you can directly submit translations from the [website](https://i18n.vexera.io/projects/vexera-v4/bot/).
 
  2. If you are not part of this program, do not hesitate to [apply](https://goo.gl/forms/Wal2fKup3HjmTblA3)! Until your application is approved,
