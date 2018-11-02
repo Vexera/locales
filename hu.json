@@ -59,5 +59,6 @@
     "perms.permsExample5": "Zenei jogok megvonása mindenkitől",
     "perms.permsExample6": "Jogok megvonása a `Moderators` rangtól",
     "perms.permsNodesTitle": "Jogcsoportok",
-    "generic.permissionError": "Nincs jogod a parancs használatához (`{{permission}}` jog szükséges)"
+    "generic.permissionError": "Nincs jogod a parancs használatához (`{{permission}}` jog szükséges)",
+    "generic.discordPermissionError": "A parancs használatához a {{permission}} jog szükséges."
 }
