@@ -295,5 +295,6 @@
     "admin.muteExample1": "'Spamming' sebebiyle 'luke' aldı kullanıcıyı 1 hafta 2 gün boyunca susturur",
     "admin.muteExample2": "'luke' kullanıcısını susturur",
     "settings.modlogDisabled": "Denetleme günlüğü kanalı başarıyla devre dışı bırakıldı.",
-    "settings.modlogSet": "Denetim günlüğü kanalı başarıyla ayarlandı."
+    "settings.modlogSet": "Denetim günlüğü kanalı başarıyla ayarlandı.",
+    "admin.unbanBotPermissionError": "Kullanıcının yasağı kaldırılamıyor."
 }
