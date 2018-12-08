@@ -5,5 +5,6 @@
     "generic.error": "A apărut o eroare neașteptată.",
     "generic.errorCodeblock": "A apărut o eroare neașteptată. ```{{error}}```",
     "generic.errorID": "A apărut o eroare neașteptată. Dacă crezi că acest lucru nu ar fi trebuit să se întâmple te rog să raportezi eroarea pe serverul de suport. ID-ul erorii: `{{errorID}}`.",
-    "generic.processingDescription": "Această comandă nu a terminat procesarea."
+    "generic.processingDescription": "Această comandă nu a terminat procesarea.",
+    "generic.insufficientArgs": "Numar incorect de argumente specificate,pentru mai multe informatii despre aceasta comanda,acesseaza {{prefix}}help {{command}}"
 }
