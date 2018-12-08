@@ -16,5 +16,5 @@
     "generic.argNoResponse": "Fără răspuns de 30 de secunde.",
     "generic.promptCancel": "Prompt anulat.",
     "generic.ratelimited": "Te rog așteaptă {{sec}} de secunde.",
-    "info.healthHelp": "Arata sanatatea cioburilor (componentelor) botului"
+    "info.healthHelp": "Afișează sănătatea fragmentelor boților"
 }
