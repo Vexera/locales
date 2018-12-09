@@ -354,5 +354,6 @@
     "misc.serverinfoEmojis": "Количество эмодзи",
     "misc.serverinfoChannels": "Количество каналов",
     "misc.userinfoUsername": "Имя пользователя",
-    "misc.userinfoDiscriminator": "Уникальный номер"
+    "misc.userinfoDiscriminator": "Уникальный номер",
+    "owner.evalHelp": "Оценивает вещи"
 }
