@@ -299,5 +299,6 @@
     "music.playlistExample4": "Выгружает плейлист 'Dubstep' в Интернет",
     "modlog.none": "Функция логов модерации не настроена!",
     "modlog.invalidCase": "Неверная запись в логе!",
-    "modlog.line1": "**{{type}}** | Запись {{caseID}}"
+    "modlog.line1": "**{{type}}** | Запись {{caseID}}",
+    "modlog.line2": "**Пользователь**: {{username}}#{{discriminator}} ({{id}}) (<@{{id}}>)"
 }
