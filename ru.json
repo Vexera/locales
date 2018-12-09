@@ -356,5 +356,6 @@
     "misc.userinfoUsername": "Имя пользователя",
     "misc.userinfoDiscriminator": "Уникальный номер",
     "owner.evalHelp": "Оценивает вещи",
-    "owner.globalevalHelp": "Оценивает вещи по всем кластерам"
+    "owner.globalevalHelp": "Оценивает вещи по всем кластерам",
+    "settings.rowboatHelp": "Импортирует нарушения в формате Rowboat JSON."
 }
