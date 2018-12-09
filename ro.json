@@ -17,5 +17,7 @@
     "generic.promptCancel": "Prompt anulat.",
     "generic.ratelimited": "Te rog așteaptă {{sec}} de secunde.",
     "info.healthHelp": "Afișează sănătatea fragmentelor boților",
-    "info.healthDown": "Offline"
+    "info.healthDown": "Offline",
+    "info.healthStarting": "Se pornește",
+    "info.helpHelp": "Arată această comandă"
 }
