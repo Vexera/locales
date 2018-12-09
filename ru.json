@@ -195,5 +195,8 @@
     "info.donatorsLimit": "Лимит сообщения составляет 50 символов.",
     "music.playerQueueEnd": "Очередь закончена.",
     "music.playerInactive": "Я покинул канал из-за бездействия.",
-    "music.playerErrorDescription": "Во время получения информации о композиции возникла ошибка."
+    "music.playerErrorDescription": "Во время получения информации о композиции возникла ошибка.",
+    "music.playerErrorPlayingDescription": "Произошла ошибка воспроизведения этой композиции.",
+    "music.playerRequested": "Запрошено пользователем",
+    "music.playHelp": "Проигрывает композицию. Большое количество сайтов поддерживается этой командой."
 }
