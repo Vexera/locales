@@ -230,5 +230,10 @@
     "music.queueSong": "{{index}}) {{title}} - Добавил(-а) {{requester}}",
     "music.volumeHelp": "Настраивает громкость проигрывания музыки.",
     "music.volumeStatus": "Сейчас громкость установлена на {{percent}}%",
-    "music.songNotFound": "Композиция не найдена!"
+    "music.songNotFound": "Композиция не найдена!",
+    "music.queryNotFound": "Ничего не найдено.",
+    "music.commandDonator": "Только премиум-подписчики могут использовать эту команду! Для дальнейшей информации см. <https://vexera.io/premium>",
+    "music.premiumSpotifyError": "Только подписчики Vexera Premium могут загружать плейлисты из Spotify! Для дальнейшей информации см. <https://vexera.io/premium>.",
+    "music.premiumSpotifyAlternative": "В качестве альтернативы существуют сайты, которые могут [конвертировать плейлисты Spotify в плейлисты YouTube](https://bfnt.io/spotify-converter) . Ты можешь ими воспользоваться, если не хочешь платить.",
+    "music.premiumSpotifyProcessing": "Обрабатываю плейлист Spotify... Это может занять немного времени."
 }
