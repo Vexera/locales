@@ -209,5 +209,7 @@
     "music.botNoVoiceChannel": "Я сейчас не играю музыку!",
     "music.noJoinPermission": "У меня нет прав для подключения к вашему голосовому каналу.",
     "music.joinError": "При подключении к голосовому каналу произошла ошибка.",
-    "music.enqueueMultiple": "Добавил `{{resultLength}}` песен в очередь (обработано за `{{timeTaken}}` секунд)"
+    "music.enqueueMultiple": "Добавил `{{resultLength}}` песен в очередь (обработано за `{{timeTaken}}` секунд)",
+    "music.skipHelp": "Проголосовать за пропуск композиции. Пользователи с правом `music.forceskip` могут пропустить немедленно без голосования.",
+    "music.skipping": "Пропуск..."
 }
