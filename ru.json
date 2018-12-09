@@ -300,5 +300,9 @@
     "modlog.none": "Функция логов модерации не настроена!",
     "modlog.invalidCase": "Неверная запись в логе!",
     "modlog.line1": "**{{type}}** | Запись {{caseID}}",
-    "modlog.line2": "**Пользователь**: {{username}}#{{discriminator}} ({{id}}) (<@{{id}}>)"
+    "modlog.line2": "**Пользователь**: {{username}}#{{discriminator}} ({{id}}) (<@{{id}}>)",
+    "modlog.line3": "**Причина**: {{reason}}",
+    "modlog.line4": "**Модератор**: {{username}}#{{discriminator}}",
+    "modlog.line5": "**Выдано**: {{date}}",
+    "modlog.line6": "**Продолжительность**: {{duration}}"
 }
