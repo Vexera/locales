@@ -202,5 +202,11 @@
     "music.playExample1": "Ищет 'marble soda' в YouTube",
     "music.playExample2": "Играет композицию с SoundCloud, используя прямую ссылку.",
     "music.playExample3": "Проигрывает видео с YouTube, используя ссылку",
-    "music.playEnqueued": "Песня `{{title}}` добавлена в очередь и находится на `{{position}}` месте в очереди."
+    "music.playEnqueued": "Песня `{{title}}` добавлена в очередь и находится на `{{position}}` месте в очереди.",
+    "music.playSearchResult": "Результат поиска",
+    "music.playSearchUsage": "Напиши номер трека, который вы хотите включить (например, '1') или 'cancel' для отмены.",
+    "music.noVoiceChannel": "Зайдите в голосовой канал!",
+    "music.botNoVoiceChannel": "Я сейчас не играю музыку!",
+    "music.noJoinPermission": "У меня нет прав для подключения к вашему голосовому каналу.",
+    "music.joinError": "При подключении к голосовому каналу произошла ошибка."
 }
