@@ -286,5 +286,11 @@
     "info.transferDisable": "Передача подписки успешно прекращена!",
     "games.fortniteError": "Ошибка при сборе данных: {{error}}",
     "games.fortniteHelp": "Ищет пользователя в Fortnite.",
-    "music.viewWebsite": "Посмотреть на vexera.io"
+    "music.viewWebsite": "Посмотреть на vexera.io",
+    "music.playlistNameMax": "Имя плейлиста может содержать максимум 20 символов!",
+    "music.playlistCreated": "<:VexeraGreenTick:393551177008283658> Плейлист `{{name}}` успешно создан!",
+    "music.playlistNotFound": "Плейлист `{{name}}` не найден!",
+    "music.playlistLoad": "<:VexeraGreenTick:393551177008283658> Плейлист `{{name}}` загружен в очередь!",
+    "music.playlistDeleted": "<:VexeraGreenTick:393551177008283658> Плейлист `{{name}}` успешно удалён!",
+    "music.playlistHelp": "Позволяет сохранять и загружать очереди."
 }
