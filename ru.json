@@ -240,5 +240,7 @@
     "music.repeatHelp": "Пороигрывает песню снова.",
     "music.repeatExample1": "Отключить повтор.",
     "music.repeatExample2": "Повторять текущую песню.",
-    "music.repeatExample3": "Повторить всю очередь."
+    "music.repeatExample3": "Повторить всю очередь.",
+    "music.searchHelp": "Позволяет выбрать композицию через красивое меню.",
+    "music.inactiveDisconnect": "Бот вышел из голосового канала из-за бездействия."
 }
