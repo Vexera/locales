@@ -202,5 +202,5 @@
     "music.playExample1": "Ищет 'marble soda' в YouTube",
     "music.playExample2": "Играет композицию с SoundCloud, используя прямую ссылку.",
     "music.playExample3": "Проигрывает видео с YouTube, используя ссылку",
-    "music.playEnqueued": "Песня `{{title}}` добавлена в очередь на позицию `{{position}}`."
+    "music.playEnqueued": "Песня `{{title}}` добавлена в очередь и находится на `{{position}}` месте в очереди."
 }
