@@ -21,5 +21,17 @@
     "info.healthStarting": "Se pornește",
     "info.helpHelp": "Arată această comandă",
     "info.helpUsage": "Folosire",
-    "info.helpPermNode": "Nod de permitere"
+    "info.helpPermNode": "Nod de permitere",
+    "info.helpDM": "Verifică-ți mesajele private pentru o listă a comenzilor!",
+    "info.statsUsersVC": "Utilizatori Conectați",
+    "info.statsHelp": "Arată starea botului",
+    "info.inviteInvite": "Invitație: {{url}}",
+    "info.inviteSupport": "Suport: {{url}}",
+    "info.inviteHelp": "Obține URL-ul pentru a invita botul.",
+    "info.redeemHelp": "Îți permite să folosești o cheie Vexera Premium. Te rog să nu uiți că aceasta va fi activată pe fiecare server pe care **îl deții**.",
+    "info.redeemInvalid": "Cheie invalidă! Te rog să te asiguri că este corectă sau nu a fost deja folosită.",
+    "info.redeemSuccess": "Succes! Vexera Premium a fost activat pe fiecare server pe care îl deții pentru *{{days}}* zile.",
+    "info.redeemAlreadyDonator": "Ai deja o cheie sau o subscripție activă.",
+    "info.redeemExtended": "Succes! Subscripția ta Vexera Premium a fost prelungită cu *{{days}}* zile.",
+    "misc.serverinfoHelp": "Arată informații despre un server"
 }
