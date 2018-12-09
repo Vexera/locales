@@ -45,5 +45,6 @@
     "perms.permsAdd": "S-a adăugat permisiunea `{{perm}}` lui `{{name}}`.",
     "perms.permsRemoveError": "Această permisiune nu a fost adăugată, deci nu poate fi îndepărtată.",
     "perms.permsRemove": "S-a îndepărtat permisiunea `{{perm}}` de la `{{name}}`.",
-    "perms.permsClear": "S-au șters toate permisiunile de la `{{name}}`."
+    "perms.permsClear": "S-au șters toate permisiunile de la `{{name}}`.",
+    "perms.permsListTitle": "Permisiuni pentru {{name}}"
 }
