@@ -3,7 +3,7 @@
     "nativeName": "Engleză",
     "languageNameEn": "Engleză",
     "generic.error": "A apărut o eroare neașteptată.",
-    "generic.errorCodeblock": "A apărut o eroare neașteptată. ```{{error}}```",
+    "generic.errorCodeblock": "A apărut o eroare neașteptată.\n```{{error}}```",
     "generic.errorID": "A apărut o eroare neașteptată. Dacă crezi că acest lucru nu ar fi trebuit să se întâmple te rog să raportezi eroarea pe serverul de suport. ID-ul erorii: `{{errorID}}`.",
     "generic.processingDescription": "Această comandă nu a terminat procesarea.",
     "generic.insufficientArgs": "Valoare incorectă de argumente specificate, pentru mai multe informații despre această comandă vezi {{prefix}}help {{command}}.",
@@ -21,7 +21,7 @@
     "info.healthStarting": "Se pornește",
     "info.helpHelp": "Arată această comandă",
     "info.helpUsage": "Folosire",
-    "info.helpPermNode": "Nod de permitere",
+    "info.helpPermNode": "Nod de permisiune",
     "info.helpDM": "Verifică-ți mesajele private pentru o listă a comenzilor!",
     "info.statsUsersVC": "Utilizatori Conectați",
     "info.statsHelp": "Arată starea botului",
@@ -49,5 +49,9 @@
     "perms.permsListTitle": "Permisiuni pentru {{name}}",
     "perms.permsHelp": "Adaugă permisiuni unui rol. Pentru o listă de comenzi, vezi {{prefix}}perms nodes\nPermisiuni manipulate de SexyPEX",
     "perms.permsExample1": "Dă tuturor acces la comenzile pentru muzică",
-    "info.healthNodesDown": "Noduri de voce deconectate"
+    "info.healthNodesDown": "Noduri de Voce deconectate",
+    "info.helpDescription": "",
+    "perms.permsExample2": "Nu dă voie rolului `Moderators` de a utiliza comanda cat",
+    "perms.permsExample3": "Nu dă voie utilizatorului `luke` de a folosi comanda doge",
+    "perms.permsExample4": "Lista de permisiuni pentru rolul de `Moderators`"
 }
