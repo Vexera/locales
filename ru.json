@@ -283,5 +283,8 @@
     "info.transferSubscriptionExists": "У этого пользователя уже есть премиум-подписка!",
     "info.transferActive": "У вас уже есть активная передача подписки!",
     "info.transferTransferred": "Успешно включена передача подписки пользователю **{{user}}**!",
-    "info.transferDisable": "Передача подписки успешно прекращена!"
+    "info.transferDisable": "Передача подписки успешно прекращена!",
+    "games.fortniteError": "Ошибка при сборе данных: {{error}}",
+    "games.fortniteHelp": "Ищет пользователя в Fortnite.",
+    "music.viewWebsite": "Смотри на vexera.io"
 }
