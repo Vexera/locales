@@ -185,5 +185,10 @@
     "meme.illegalError": "Кажется, Путин облажался и не смог обработать этот текст.",
     "misc.botlistHelp": "Отображает топ ботов Carbonitex.",
     "misc.invitedHelp": "Показывает, сколько людей пользователь пригласил на сервер.",
-    "misc.invitedNoPerm": "У меня нет доступа к просмотру приглашений."
+    "misc.invitedNoPerm": "У меня нет доступа к просмотру приглашений.",
+    "misc.invitedText": "{{username}} пригласил {{count}} пользователей на сервер \"{{guild}}\"",
+    "fun.asciiHelp": "Делает из текста ASCII-картинку. Список шрифтов можно посмотреть на https://github.com/patorjk/figlet.js/tree/master/fonts",
+    "fun.asciiExample1": "Показывает слово `beep` с шрифтом `ghost`.",
+    "misc.wolframHelp": "Делает запрос системе Wolfram.",
+    "misc.wolframError": "Что-то пошло не так.... может, попробуете другой вопрос?"
 }
