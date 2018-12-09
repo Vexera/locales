@@ -31,7 +31,7 @@
     "info.redeemHelp": "Îți permite să folosești o cheie Vexera Premium. Te rog să nu uiți că aceasta va fi activată pe fiecare server pe care **îl deții**.",
     "info.redeemInvalid": "Cheie invalidă! Te rog să te asiguri că este corectă sau nu a fost deja folosită.",
     "info.redeemSuccess": "Succes! Vexera Premium a fost activat pe fiecare server pe care îl deții pentru *{{days}}* zile.",
-    "info.redeemAlreadyDonator": "Ai deja o cheie sau o subscripție activă.",
+    "info.redeemAlreadyDonator": "Ai deja o cheie sau o subscripție activă!",
     "info.redeemExtended": "Succes! Subscripția ta Vexera Premium a fost prelungită cu *{{days}}* zile.",
     "misc.serverinfoHelp": "Arată informații despre un server",
     "misc.serverinfoRegion": "Regiune",
@@ -41,10 +41,12 @@
     "misc.userinfoGame": "Joc",
     "misc.userinfoStatus": "Statut",
     "misc.userinfoCreation1": "Utilizatorul a intrat la • {{dateJoined}} | Utilizator creat la",
-    "perms.permsAddExists": "Această permisiune a fost deja adăugată.",
-    "perms.permsAdd": "S-a adăugat permisiunea `{{perm}}` lui `{{name}}`.",
+    "perms.permsAddExists": "Această permisiune a fost deja adăugată",
+    "perms.permsAdd": "S-a adăugat permisiunea `{{perm}}` lui `{{name}}`",
     "perms.permsRemoveError": "Această permisiune nu a fost adăugată, deci nu poate fi îndepărtată.",
-    "perms.permsRemove": "S-a îndepărtat permisiunea `{{perm}}` de la `{{name}}`.",
-    "perms.permsClear": "S-au șters toate permisiunile de la `{{name}}`.",
-    "perms.permsListTitle": "Permisiuni pentru {{name}}"
+    "perms.permsRemove": "S-a îndepărtat permisiunea `{{perm}}` de la `{{name}}`",
+    "perms.permsClear": "S-au șters toate permisiunile de la `{{name}}`",
+    "perms.permsListTitle": "Permisiuni pentru {{name}}",
+    "perms.permsHelp": "Adaugă permisiuni unui rol. Pentru o listă de comenzi, vezi {{prefix}}perms nodes\nPermisiuni manipulate de SexyPEX",
+    "perms.permsExample1": "Dă tuturor acces la comenzile pentru muzică"
 }
