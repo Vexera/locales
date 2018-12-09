@@ -144,5 +144,6 @@
     "settings.modlogDisabled": "Успешно отключен канал лога модерации.",
     "info.healthUnhealthy": "Кластеры со слишком низким количеством серверов",
     "settings.logRemove": "Событие(я) {{events}} были удалены из канала `{{channel}}`.",
-    "settings.logList": "События канала #{{channel}}"
+    "settings.logList": "События канала #{{channel}}",
+    "settings.logCleared": "Все события канала `#{{channel}}`удалены."
 }
