@@ -268,5 +268,7 @@
     "info.statusAmount": "Сумма пожертвования",
     "info.statusDatePledged": "Дата пожертвования",
     "info.statusDeclined": "**Внимание:** пожертвование этого пользователя на этот месяц не было успешно обработано.",
-    "info.statusExpiry": "Истечение подписки"
+    "info.statusExpiry": "Истечение подписки",
+    "info.statusType": "Тип",
+    "info.statusNotDonator": "Данный пользователь не донатер!"
 }
