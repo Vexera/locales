@@ -33,5 +33,6 @@
     "info.redeemSuccess": "Succes! Vexera Premium a fost activat pe fiecare server pe care îl deții pentru *{{days}}* zile.",
     "info.redeemAlreadyDonator": "Ai deja o cheie sau o subscripție activă.",
     "info.redeemExtended": "Succes! Subscripția ta Vexera Premium a fost prelungită cu *{{days}}* zile.",
-    "misc.serverinfoHelp": "Arată informații despre un server"
+    "misc.serverinfoHelp": "Arată informații despre un server",
+    "misc.serverinfoRegion": "Regiune"
 }
