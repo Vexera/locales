@@ -273,5 +273,5 @@
     "info.statusNotDonator": "Данный пользователь не донатер!",
     "music.seekHelp": "Перематывает песню.",
     "music.seekInvalid": "Указано неверное время для перемотки!",
-    "info.premiumExpiring": "Твоя подписка на Vexera Premium истекает с {{expire}}. Что бы остаться подписчиком, зайди пожалуйста на https://vexera.io/premium."
+    "info.premiumExpiring": "Ваша подписка на Vexera Premium истекает {{expire}}. Чтобы остаться подписчиком, пожалуйста, зайдите на https://vexera.io/premium."
 }
