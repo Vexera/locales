@@ -48,5 +48,6 @@
     "perms.permsClear": "S-au șters toate permisiunile de la `{{name}}`",
     "perms.permsListTitle": "Permisiuni pentru {{name}}",
     "perms.permsHelp": "Adaugă permisiuni unui rol. Pentru o listă de comenzi, vezi {{prefix}}perms nodes\nPermisiuni manipulate de SexyPEX",
-    "perms.permsExample1": "Dă tuturor acces la comenzile pentru muzică"
+    "perms.permsExample1": "Dă tuturor acces la comenzile pentru muzică",
+    "info.healthNodesDown": "Noduri de voce deconectate"
 }
