@@ -190,5 +190,6 @@
     "fun.asciiHelp": "Делает из текста ASCII-картинку. Список шрифтов можно посмотреть на https://github.com/patorjk/figlet.js/tree/master/fonts",
     "fun.asciiExample1": "Показывает слово `beep` с шрифтом `ghost`.",
     "misc.wolframHelp": "Делает запрос системе Wolfram.",
-    "misc.wolframError": "Что-то пошло не так.... может, попробуете другой вопрос?"
+    "misc.wolframError": "Что-то пошло не так.... может, попробуете другой вопрос?",
+    "info.donatorsHelp": "Показывает топ-10 донатеров вместе с их персонализированными сообщениями. Донатеры могут задать ихсообщение с помощью `{{prefix}}donators <сообщение>`."
 }
