@@ -199,5 +199,6 @@
     "music.playerErrorPlayingDescription": "Произошла ошибка воспроизведения этой композиции.",
     "music.playerRequested": "Запрошено пользователем",
     "music.playHelp": "Проигрывает композицию. Большое количество сайтов поддерживается этой командой.",
-    "music.playExample1": "Ищет 'marble soda' в YouTube"
+    "music.playExample1": "Ищет 'marble soda' в YouTube",
+    "music.playExample2": "Играет композицию с SoundCloud, используя прямую ссылку."
 }
