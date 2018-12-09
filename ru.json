@@ -141,5 +141,8 @@
     "settings.logExists": "Событие `{{event}}` уже было добавлено!",
     "settings.logAdd": "Добавлен(ы) Событие(я) {{events}} в канал`{{channel}}`",
     "settings.logRemoveError": "`{{event}}` не был добавлен, поэтому он не может быть удалён.",
-    "settings.modlogDisabled": "Успешно отключен канал лога модерации."
+    "settings.modlogDisabled": "Успешно отключен канал лога модерации.",
+    "info.healthUnhealthy": "Кластеры со слишком низким количеством серверов",
+    "settings.logRemove": "Событие(я) {{events}} были удалены из канала `{{channel}}`.",
+    "settings.logList": "События канала #{{channel}}"
 }
