@@ -176,7 +176,7 @@
     "fun.8ballHelp": "Спроси позже",
     "fun.8ballReply": "Волшебный бильярдный шар говорит... {{result}}",
     "fun.emotifyHelp": "Превращает текст в эмодзи",
-    "fun.yomammaHelp": "Отвечает оскорбительными шутками про твою мамашу.",
+    "fun.yomammaHelp": "Отвечает шутками про твою мамашу, возожно грубыми!",
     "fun.urbanHelp": "Ищет слово в Urban Dictionary.",
     "fun.urbanError": "Невозможно найти этот термин!",
     "image.xkcdHelp": "Отправляет комикс XKCD.",
