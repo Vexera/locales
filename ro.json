@@ -19,5 +19,7 @@
     "info.healthHelp": "Afișează sănătatea fragmentelor boților",
     "info.healthDown": "Offline",
     "info.healthStarting": "Se pornește",
-    "info.helpHelp": "Arată această comandă"
+    "info.helpHelp": "Arată această comandă",
+    "info.helpUsage": "Folosire",
+    "info.helpPermNode": "Nod de permitere"
 }
