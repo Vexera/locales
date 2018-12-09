@@ -229,5 +229,5 @@
     "music.queuePageNotFound": "Страница не найдена!",
     "music.queueSong": "{{index}}) {{title}} - Добавил(-а) {{requester}}",
     "music.volumeHelp": "Настраивает громкость проигрывания музыки.",
-    "music.volumeStatus": "Сейчас громкости установлена на {{percent}}%"
+    "music.volumeStatus": "Сейчас громкость установлена на {{percent}}%"
 }
