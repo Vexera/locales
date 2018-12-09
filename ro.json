@@ -50,7 +50,7 @@
     "perms.permsHelp": "Adaugă permisiuni unui rol. Pentru o listă de comenzi, vezi {{prefix}}perms nodes\nPermisiuni manipulate de SexyPEX",
     "perms.permsExample1": "Dă tuturor acces la comenzile pentru muzică",
     "info.healthNodesDown": "Noduri de Voce deconectate",
-    "info.helpDescription": "",
+    "info.helpDescription": "Sunt un bot de Discord multi-functional care pune muzica,face moderatie si alte chestii amuzante si folositoare.\nFa {{prefix}}help <command> pentru informatie aditionala despre o comanda.\nCauti suport? https://vexera.io/support\nInvitatie:https://vexera.io/invite",
     "perms.permsExample2": "Nu dă voie rolului `Moderators` de a utiliza comanda cat",
     "perms.permsExample3": "Nu dă voie utilizatorului `luke` de a folosi comanda doge",
     "perms.permsExample4": "Lista de permisiuni pentru rolul de `Moderators`"
