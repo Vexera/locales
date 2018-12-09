@@ -252,5 +252,21 @@
     "music.dumpCreated": "Текущая очередь выгружена! {{url}} - используйте `{{prefix}}play` чтобы загрузить её.",
     "music.lyricsHelp": "Показывает слова определённой песни / текущей песни",
     "music.lyricsNoQuery": "Вы не указали песню!",
-    "music.lyricsNotFound": "Слова песни не найдены!"
+    "music.lyricsNotFound": "Слова песни не найдены!",
+    "info.nodeinfoHelp": "Показывает информацию о голосовых нодах.",
+    "meme.drakeHelp": "Делает мем с Дрейком.",
+    "meme.mistakeHelp": "Для больших ошибок.",
+    "meme.whodidthisHelp": "КТО ЭТО СДЕЛАЛ? :joy: :joy: :joy:.",
+    "meme.handicappedHelp": "Сэр! Это место только для инвалидов!",
+    "meme.magikHelp": "Лучшая команда на планете.",
+    "meme.needsmorejpegHelp": "Ухудшает качество картинки.",
+    "meme.gmagikHelp": "{{prefix}}magik но для гифок.",
+    "music.queueLimit": "В очереди не может быть больше 2000 песен!",
+    "info.premiumTitle": "Что такое Vexera Premium?",
+    "info.premiumInfo": "Vexera Premium предлагает большое количество новых функций за небольшую цену. Узнайте больше на https://vexera.io/premium",
+    "info.premiumStatus": "Проверяет, есть-ли у пользователя премиум-доступ.",
+    "info.statusAmount": "Сумма пожертвования",
+    "info.statusDatePledged": "Дата пожертвования",
+    "info.statusDeclined": "**Внимание:** пожертвование этого пользователя на этот месяц не было успешно обработано.",
+    "info.statusExpiry": "Истечение подписки"
 }
