@@ -235,5 +235,6 @@
     "music.commandDonator": "Только премиум-подписчики могут использовать эту команду! Для дальнейшей информации см. <https://vexera.io/premium>",
     "music.premiumSpotifyError": "Только подписчики Vexera Premium могут загружать плейлисты из Spotify! Для дальнейшей информации см. <https://vexera.io/premium>.",
     "music.premiumSpotifyAlternative": "В качестве альтернативы существуют сайты, которые могут [конвертировать плейлисты Spotify в плейлисты YouTube](https://bfnt.io/spotify-converter) . Ты можешь ими воспользоваться, если не хочешь платить.",
-    "music.premiumSpotifyProcessing": "Обрабатываю плейлист Spotify... Это может занять немного времени."
+    "music.premiumSpotifyProcessing": "Обрабатываю плейлист Spotify... Это может занять немного времени.",
+    "music.volumeLimit": "Установка громкости на 150%. Я хочу защитить ваши барабанные перепонки!"
 }
