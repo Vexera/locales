@@ -59,5 +59,6 @@
     "info.statsDescription": "Pentru informații despre toate grupurile, {{prefix}}clusterinfo",
     "info.clusterinfoHelp": "Arată informații despre toate grupurile",
     "perms.permsExample5": "Scoate permisiunile de muzică de la toți",
-    "perms.permsExample6": "Șterge permisiunile de la rolul `Moderators`"
+    "perms.permsExample6": "Șterge permisiunile de la rolul `Moderators`",
+    "perms.permsNodesTitle": "Noduri de permisiune"
 }
