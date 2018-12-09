@@ -292,5 +292,12 @@
     "music.playlistNotFound": "Плейлист `{{name}}` не найден!",
     "music.playlistLoad": "<:VexeraGreenTick:393551177008283658> Плейлист `{{name}}` загружен в очередь!",
     "music.playlistDeleted": "<:VexeraGreenTick:393551177008283658> Плейлист `{{name}}` успешно удалён!",
-    "music.playlistHelp": "Позволяет сохранять и загружать очереди."
+    "music.playlistHelp": "Позволяет сохранять и загружать очереди.",
+    "music.playlistExample1": "Создаёт плейлист 'Dubstep' из текущей очереди песен.",
+    "music.playlistExample2": "Загружает песни из плейлиста 'Dubstep' в очередь.",
+    "music.playlistExample3": "Удаляет плейлист 'Dubstep'",
+    "music.playlistExample4": "Выгружает плейлист 'Dubstep' в Интернет",
+    "modlog.none": "Функция логов модерации не настроена!",
+    "modlog.invalidCase": "Неверная запись в логе!",
+    "modlog.line1": "**{{type}}** | Запись {{caseID}}"
 }
