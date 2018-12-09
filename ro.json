@@ -36,5 +36,8 @@
     "misc.serverinfoHelp": "Arată informații despre un server",
     "misc.serverinfoRegion": "Regiune",
     "misc.serverinfoRoles": "Roluri",
-    "misc.userinfoHelp": "Arată informații despre un utilizator."
+    "misc.userinfoHelp": "Arată informații despre un utilizator.",
+    "misc.userinfoRoles": "Roluri",
+    "misc.userinfoGame": "Joc",
+    "misc.userinfoStatus": "Statut"
 }
