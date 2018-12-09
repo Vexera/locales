@@ -273,5 +273,8 @@
     "info.statusNotDonator": "Данный пользователь не донатер!",
     "music.seekHelp": "Перематывает песню.",
     "music.seekInvalid": "Указано неверное время для перемотки!",
-    "info.premiumExpiring": "Ваша подписка на Vexera Premium истекает {{expire}}. Чтобы остаться подписчиком, пожалуйста, зайдите на https://vexera.io/premium."
+    "info.premiumExpiring": "Ваша подписка на Vexera Premium истекает {{expire}}. Чтобы остаться подписчиком, пожалуйста, зайдите на https://vexera.io/premium.",
+    "music.deleteHelp": "Удаляет песню из очереди.",
+    "music.deletePlaying": "Я не могу удалить песню, которую сейчас играю.",
+    "music.deleteRemoved": "`{{name}}` успешно удалена из очереди."
 }
