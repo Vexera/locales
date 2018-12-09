@@ -200,5 +200,7 @@
     "music.playerRequested": "Запрошено пользователем",
     "music.playHelp": "Проигрывает композицию. Большое количество сайтов поддерживается этой командой.",
     "music.playExample1": "Ищет 'marble soda' в YouTube",
-    "music.playExample2": "Играет композицию с SoundCloud, используя прямую ссылку."
+    "music.playExample2": "Играет композицию с SoundCloud, используя прямую ссылку.",
+    "music.playExample3": "Проигрывает видео с YouTube, используя ссылку",
+    "music.playEnqueued": "Песня `{{title}}` добавлена в очередь на позицию `{{position}}`."
 }
