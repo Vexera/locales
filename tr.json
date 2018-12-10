@@ -300,5 +300,7 @@
     "settings.logRemoveError": "`{{event}}` olayı hiç eklenmemiş, dolayısıyla kaldırılamaz.",
     "settings.logRemove": "`{{channel}}` kanalından {{events}} olayı kaldırıldı.",
     "settings.logList": "Olaylar için kanal #{{channel}}",
-    "settings.logCleared": "Tüm olayları `#{{channel}}` dan silinmişdir."
+    "settings.logCleared": "Tüm olayları `#{{channel}}` dan silinmişdir.",
+    "settings.logExample1": "Bir kullanıcı katıldığında veya ayrıldığında mesaj gönderir.",
+    "settings.logExample2": "(Yasaklamalar, atılmalar) bilgilerini #mod-log kanalına gönderir."
 }
