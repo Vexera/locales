@@ -302,5 +302,9 @@
     "settings.logList": "Olaylar için kanal #{{channel}}",
     "settings.logCleared": "Tüm olayları `#{{channel}}` dan silinmişdir.",
     "settings.logExample1": "Bir kullanıcı katıldığında veya ayrıldığında mesaj gönderir.",
-    "settings.logExample2": "(Yasaklamalar, atılmalar) bilgilerini #mod-log kanalına gönderir."
+    "settings.logExample2": "(Yasaklamalar, atılmalar) bilgilerini #mod-log kanalına gönderir.",
+    "music.queryNotFound": "Hiçbir sonuç bulunamadı.",
+    "music.premiumSpotifyError": "Sadece Vexera VİP/Premium kullanıcıları Spotify albumlerini Vexerada oynata bilir! daha çok bilgi için <https://vexera.io/premium>.",
+    "music.premiumSpotifyAlternative": "Alternatif olarak, birkaç siteler [Spotify Çalma Listesini YouTube çalma listesine çevire bilir] (https://bfnt.io/spotify-converter). Eger Özgür kalmak istiyorsanız bu sitelere baka bilirsiniz.",
+    "music.premiumSpotifyProcessing": "Spotify çalma listesi yükleniyor.. Bu bir kadar zaman ala bilir."
 }
