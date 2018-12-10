@@ -79,7 +79,7 @@
     "settings.prefixHelp": "Komut ön ekini ayarlar.",
     "settings.prefixDisable": "Ön ek başarıyla devre dışı bırakıldı. Tüm komutlar artık şu şekilde kullanılmalıdır: `{{prefix}}ping`",
     "settings.prefixSet": "Ön ek başarıyla ayarlandı. Tüm komutlar artık şu şekilde kullanılmalıdır: `{{prefix}}ping`",
-    "settings.logHelp": "Giriş ve çıkışlar için bir kayıt kanalı belirler.",
+    "settings.logHelp": "İçerisinde olayları paylaşacak kanallar ayarlar.",
     "settings.logDisabled": "Kayıt kanalı devre dışı bırakıldı.",
     "settings.logSet": "Kayıt kanalı ayarlandı.",
     "settings.channeltoggleHelp": "Komutları bir kanalda devre dışı bırakır.",
