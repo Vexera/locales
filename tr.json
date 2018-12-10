@@ -296,5 +296,7 @@
     "admin.muteExample2": "'luke' kullanıcısını susturur",
     "settings.modlogDisabled": "Denetleme günlüğü kanalı başarıyla devre dışı bırakıldı.",
     "settings.modlogSet": "Denetim günlüğü kanalı başarıyla ayarlandı.",
-    "admin.unbanBotPermissionError": "Kullanıcının yasağı kaldırılamıyor."
+    "admin.unbanBotPermissionError": "Kullanıcının yasağı kaldırılamıyor.",
+    "settings.logRemoveError": "`{{event}}` olayı hiç eklenmemiş, dolayısıyla kaldırılamaz.",
+    "settings.logRemove": "`{{channel}}` kanalından {{events}} olay kaldırıldı."
 }
