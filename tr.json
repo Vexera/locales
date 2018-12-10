@@ -343,5 +343,6 @@
     "misc.remindInvalid": "Geçersiz zaman!",
     "misc.remindSuccess": "Tamam, Ben seni {{text}} 'i hatırlatıcam.",
     "music.playerLag": "Lag mı var? adanmış kaynakları Vexera premiumla edinin! [Vexera Premium](https://vexera.io/premium)!",
-    "settings.logExists": "{{event}} Olayı zaten ilave edilmişdir!"
+    "settings.logExists": "{{event}} Olayı zaten ilave edilmişdir!",
+    "settings.logAdd": "`{{channel}}` kanalına {{events}} olay(lar)ı eklendi."
 }
