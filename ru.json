@@ -34,7 +34,7 @@
     "perms.permsAdd": "Добавлено право  `{{perm}}` для `{{name}}`",
     "perms.permsRemoveError": "Эти права не были добавлены, поэтому они не могут быть удалены.",
     "perms.permsRemove": "Право `{{perm}}` удалено у `{{name}}`",
-    "perms.permsClear": "Забраны все права у `{{name}}`",
+    "perms.permsClear": "Удалены все права у `{{name}}`",
     "perms.permsListTitle": "Права для {{name}}",
     "perms.permsNodesTitle": "Ноды прав",
     "perms.permsNodesDescription": "Добавьте ' - ' перед правами чтобы отнять их у пользователя.",
