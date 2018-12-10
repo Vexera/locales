@@ -52,7 +52,7 @@
     "admin.vckickBotPermissionError": "У меня нет прав на управление каналами (или перемещение участников)",
     "admin.muteHelp": "Заглушить пользователя.",
     "admin.mutePermissionError": "У вас нет прав заглушить этого пользователя.",
-    "admin.muteBotPermissionError": "Не получается замутить юзера.",
+    "admin.muteBotPermissionError": "Невозможно замутить пользователя.",
     "admin.rolePermissionError": "У вас нет прав на управление этой ролью.",
     "admin.roleBotPermissionError": "Не удалось добавить эту роль.",
     "admin.roleRemoveBotPermissionError": "Не удалось удалить эту роль.",
