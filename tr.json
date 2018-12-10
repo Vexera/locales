@@ -344,5 +344,12 @@
     "misc.remindSuccess": "Tamam, Ben seni {{text}} 'i hatırlatıcam.",
     "music.playerLag": "Lag mı var? adanmış kaynakları Vexera premiumla edinin! [Vexera Premium](https://vexera.io/premium)!",
     "settings.logExists": "{{event}} Olayı zaten ilave edilmişdir!",
-    "settings.logAdd": "`{{channel}}` kanalına {{events}} olay(lar)ı eklendi."
+    "settings.logAdd": "`{{channel}}` kanalına {{events}} olay(lar)ı eklendi.",
+    "music.playlistExample4": "'Dubstep' isimli çalma listesi için Dump URL oluşturur",
+    "modlog.line4": "**ılımlayıcı**:{{username}}#{{discriminator}}",
+    "modlog.line5": "**Verilmişdir**:{{date}}",
+    "modlog.noReason": "_ılımlayıcı, lütfen yazın `{{prefix}}sebep{{caseID}}<reason>`_",
+    "admin.infractionsHelp": "Kullanıcının ihlallerini gösterir",
+    "admin.infractionsTitle": "**{{username}}#{{discriminator}}** Kullanıcısı için **ihlalleri** gösterir ",
+    "modlogtype.mute": "kullanıcıyı sessizleşdirmek"
 }
