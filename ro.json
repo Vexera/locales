@@ -119,5 +119,17 @@
     "settings.logExists": "Evenimentul `{{event}}` este deja adăugat!",
     "settings.logAdd": "S-a adăugat evenimentul(evenimentele) {{events}} canalului `{{channel}}`",
     "settings.logRemoveError": "`{{event}}` nu a fost adăugat, așa că nu poate fi scos.",
-    "settings.modlogDisabled": "A fost dezactivat cu succes canalul jurnalului de moderare."
+    "settings.modlogDisabled": "A fost dezactivat cu succes canalul jurnalului de moderare.",
+    "settings.logRemove": "S-a scos evenimentul {{events}} din canalul `{{channel}}`",
+    "settings.logList": "Evenimente pentru canalul #{{channel}}",
+    "settings.logCleared": "S-au șters toate evenimentele pentru `#{{channel}}`.",
+    "settings.logExample1": "Trimite un mesaj când un utilizator intră sau iese",
+    "settings.logExample2": "Postează infracțiuni (interziceri, kicks) în #mod-log",
+    "settings.modlogSet": "S-a setat canalul log-urilor de moderare cu succes.",
+    "settings.channeltoggleHelp": "Dezactivează comenzi într-un canal.",
+    "settings.channeltoggleEnabled": "Comenzile active din acest canal.",
+    "settings.channeltoggleDisabled": "Comenzile dezactivate din acest canal.",
+    "settings.accessroleHelp": "Setează un rol pentru a folosi botul. Folosește `{{prefix}}accessrole disable` pentru a dezactiva această funcție",
+    "settings.accessroleDisabled": "Rolul de acces s-a dezactivat cu succes.",
+    "settings.accessroleSet": "Rolul de acces a fost setat cu succes."
 }
