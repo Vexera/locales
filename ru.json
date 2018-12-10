@@ -19,7 +19,7 @@
     "info.healthStarting": "Запускается",
     "info.helpHelp": "Показывает эту команду",
     "info.helpUsage": "Использование",
-    "info.helpDM": "Проверьте свои личные сообщения на список команд!",
+    "info.helpDM": "Проверьте свои личные сообщения для списка команд!",
     "info.healthNodesDown": "Кластеры с неработающими голосовыми нодами",
     "info.helpPermNode": "Нод прав",
     "info.statsDescription": "Для информации о всех кластерах,  {{prefix}}clusterinfo",
