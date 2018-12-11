@@ -344,7 +344,7 @@
     "modlogtype.unban": "Unban",
     "modlogtype.unmute": "Unmute",
     "automod.triggered": "[Auto] Triggered filter {{filterName}}.",
-    "automod.warnings": "[Auto] User recieved {{warns}} warnings within 24 hours.",
+    "automod.warnings": "[Auto] User received {{warns}} warnings within 24 hours.",
     "admin.unbanHelp": "Unbans a user.",
     "settings.modlogHelp": "Sets a channel which will log all infractions.",
     "settings.rowboatHelp": "Imports infractions in rowboat JSON format.",
