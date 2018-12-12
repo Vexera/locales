@@ -3,5 +3,5 @@
     "nativeName": "Italien",
     "generic.error": "C'è stato un errore inaspettato",
     "generic.errorCodeblock": "C'è stato un errore inaspettato.\n```{{error}}```",
-    "generic.errorID": "Si è verificato un errore inaspettato con l ID : {{errorID}}. Se ritieni che ciò non dovesse accadere, comunica l errore al proprietario del server."
+    "generic.errorID": "Si è verificato un errore inaspettato con l ID : {{errorID}}. Se ritieni che ciò non dovesse accadere, comunica l' errore al team di supporto."
 }
