@@ -1,4 +1,6 @@
 {
     "languageNameEn": "Italian",
-    "nativeName": "Italien"
+    "nativeName": "Italien",
+    "generic.error": "C'è stato un errore inaspettato",
+    "generic.errorCodeblock": "C'è stato un errore inaspettato.\n```{{error}}```"
 }
