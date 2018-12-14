@@ -162,7 +162,7 @@
     "music.queueTrack": "{{index}}) {{title}} - Angefordert von {{requester}}",
     "music.volumeHelp": "Setzt die Lautstärke der aktuell spielenden Musik.",
     "music.volumeStatus": "Die Lautstärke ist momentan bei {{percent}}%",
-    "music.trackNotFound": "Dieses Lied wurde nicht gefunden!",
+    "music.trackNotFound": "Dieser Song wurde nicht gefunden!",
     "music.commandDonator": "Nur Premium-Abonnenten können diesen Befehl verwenden! Für mehr Informationen siehe <https://www.vexera.io/premium>",
     "music.volumeLimit": "Setze die Lautstärke auf 150%! Ich möchte deine Ohren schützen!",
     "music.repeatHelp": "Wiederholt einen Song.",
