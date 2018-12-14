@@ -45,5 +45,6 @@
     "info.donatorsLimit": "Il limite è di 50 lettere",
     "generic.guildJoin": "Ciao! Grazie per aver aggiunto {{botName}} ! Sono un bot multiuso che fornisce Musica, Moderazione, Autorole e altri comandi. Digita `{{prefix}}help` per avere una lista dei comandi oppure `{{prefix}}help <comando>` per avere maggiori informazioni sul comando specifico.",
     "info.helpHelp": "Mostra questo comando",
-    "info.helpPermNode": "Permesso"
+    "info.helpPermNode": "Permesso",
+    "info.helpDescription": "Sono un bod Discord multiuso che fornisce musica, moderazione e altre cose utili e divertenti.\nDigita `{{prefix}}help <comando>` per maggiorni informazione su un comando specifico.\n\n**Hai bisogno di aiuto? [vexera.io/support](https://vexera.io/support)\nInvito: [vexera.io/invite](https://vexera.io/invite)**"
 }
