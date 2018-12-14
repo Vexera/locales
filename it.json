@@ -42,5 +42,6 @@
     "misc.serverinfoRegion": "Regione",
     "misc.wolframError": "Qualcosa è andato storto... prova qualcos' altro?",
     "info.donatorsHelp": "Mostra i migliori 10 donatori con messaggi personalizzati impostati dal donatore. I donatori possono impostare il loro messaggio con `{{prefix}} donators <messaggio>`",
-    "info.donatorsLimit": "Il limite è di 50 lettere"
+    "info.donatorsLimit": "Il limite è di 50 lettere",
+    "generic.guildJoin": "Ciao! Grazie per aver aggiunto {{botName}} ! Sono un bot multiuso che fornisce Musica, Moderazione, Autorole e altri comandi. Digita `{{prefix}}`help per avere una lista dei comandi oppure `{{prefix}}help <comando>` per avere maggiori informazioni sul comando specifico."
 }
