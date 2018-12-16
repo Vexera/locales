@@ -357,5 +357,7 @@
     "misc.remindNoTime": "No time was specified!",
     "misc.remindInvalid": "Invalid time!",
     "misc.remindSuccess": "Ok, I'll remind you to {{text}}.",
-    "music.playerLag": "Experiencing lag? Get dedicated resources with [Vexera Premium](https://vexera.io/premium)!"
+    "music.playerLag": "Experiencing lag? Get dedicated resources with [Vexera Premium](https://vexera.io/premium)!",
+    "music.bassStatus": "The bass is currently set to `{{bass}}`",
+    "music.bassHelp": "Adjusts the bass for the music playing. Valid options: none, weak, medium, strong, insane, wtf"
 }
