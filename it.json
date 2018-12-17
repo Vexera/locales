@@ -52,5 +52,16 @@
     "info.statsHelp": "Mostra le statistiche del bot",
     "info.inviteInvite": "Invito: {{url}}",
     "info.inviteSupport": "Supporto: {{url}}",
-    "info.inviteHelp": "Ottieni il link per invitare il bot."
+    "info.inviteHelp": "Ottieni il link per invitare il bot.",
+    "info.redeemInvalid": "Chiave invalida ! Per favore assicurati che sia corretta e che non sia stata già riscattata.",
+    "info.redeemAlreadyDonator": "Hai già una chiave attiva o una sottoscrizione !",
+    "misc.serverinfoHelp": "Mostra informazioni sul server",
+    "misc.userinfoGame": "Gioco",
+    "misc.userinfoStatus": "Stato",
+    "misc.userinfoCreation1": "L'utente è entrato il • {{dateJoined}} | Utente creato il",
+    "perms.permsClear": "Tutti i permessi di `{{name}}` sono stati rimossi",
+    "perms.permsListTitle": "Permessi di {{name}}",
+    "perms.permsHelp": "Assegna permessi ad un ruolo. Per una lista dei permessi, digita `{{prefix}}perms nodes`\nPermessi gestiti da SexyPEX",
+    "perms.permsExample1": "Dai a tutti i permessi per la musica",
+    "perms.permsExample2": "Non permette al ruolo `Moderatori` di usare il comando `cat`"
 }
