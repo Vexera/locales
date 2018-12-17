@@ -47,5 +47,10 @@
     "info.helpHelp": "Mostra questo comando",
     "info.helpPermNode": "Permesso",
     "info.helpDescription": "Sono un bot Discord multiuso che fornisce musica, moderazione e altre cose utili e divertenti.\nDigita `{{prefix}}help <comando>` per maggiori informazioni su un comando specifico.\n\n**Hai bisogno di aiuto? [vexera.io/support](https://vexera.io/support)\nInvito: [vexera.io/invite](https://vexera.io/invite)**",
-    "info.helpDM": "Controlla i tuoi messaggi privati per la lista dei comandi !"
+    "info.helpDM": "Controlla i tuoi messaggi privati per la lista dei comandi !",
+    "info.statsUsersVC": "Utenti connessi",
+    "info.statsHelp": "Mostra le statistiche del bot",
+    "info.inviteInvite": "Invito: {{url}}",
+    "info.inviteSupport": "Supporto: {{url}}",
+    "info.inviteHelp": "Ottieni l'URL per invitare il bot."
 }
