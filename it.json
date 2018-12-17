@@ -52,5 +52,5 @@
     "info.statsHelp": "Mostra le statistiche del bot",
     "info.inviteInvite": "Invito: {{url}}",
     "info.inviteSupport": "Supporto: {{url}}",
-    "info.inviteHelp": "Ottieni l'URL per invitare il bot."
+    "info.inviteHelp": "Ottieni il link per invitare il bot."
 }
