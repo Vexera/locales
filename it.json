@@ -63,5 +63,6 @@
     "perms.permsListTitle": "Permessi di {{name}}",
     "perms.permsHelp": "Assegna permessi ad un ruolo. Per una lista dei permessi, digita `{{prefix}}perms nodes`\nPermessi gestiti da SexyPEX",
     "perms.permsExample1": "Dai a tutti i permessi per la musica",
-    "perms.permsExample2": "Non permette al ruolo `Moderatori` di usare il comando cat"
+    "perms.permsExample2": "Non permette al ruolo `Moderatori` di usare il comando cat",
+    "perms.permsExample3": "Non permette all'utente `luke` di usare il comando `doge`"
 }
