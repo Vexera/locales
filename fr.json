@@ -194,7 +194,7 @@
     "admin.cleanHelp": "Efface les messages d'un salon.",
     "settings.greetingHelp": "Définit un message de bienvenue pour le serveur.",
     "settings.prefixHelp": "Définit le préfixe de commande.",
-    "autorole.autoroleHelp": "Assigne des rôles. Assurez-vous que mon rôle est au-dessus du rôle que vous voulez que je donne, sinon je n'en aurait pas le droit.",
+    "autorole.autoroleHelp": "Assigne des rôles. Assurez-vous que mon rôle est supérieur à celui que vous souhaitez que je donne, sinon je n'aurai pas la permission.",
     "misc.asciiHelp": "Convertis du texte en ASCII. Une liste des polices peut-être trouvée sur https://github.com/patorjk/figlet.js/tree/master/fonts.\n\nExemples :\n`{{prefix}}ascii ghost beep` - Affiche `beep` avec la police `ghost`",
     "music.playerInactive": "Je suis parti du canal suite à l'inactivité.",
     "music.inactiveDisconnect": "Je suis parti du canal vocal suite à l'inactivité.",
