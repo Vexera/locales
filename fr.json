@@ -334,7 +334,7 @@
     "settings.logRemove": "Les événements {{events}} ont été retirés du canal `{{channel}}`",
     "settings.logList": "Événements pour le canal #{{channel}}",
     "settings.logCleared": "Tous les événements pour `#{{channel}}` ont été effacés.",
-    "settings.logExample1": "Envoie un message lorsqu'un utilisateur rejoint ou quitte",
+    "settings.logExample1": "Envoie un message lorsqu'un utilisateur rejoint ou part du serveur",
     "settings.logExample2": "Postes les infractions (bans, kicks) dans #mod-log",
     "modlog.line5": "**Délivré** : {{date}}",
     "admin.reasonHelp": "Définis une raison pour une infraction du journal de modération.",
