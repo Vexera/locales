@@ -139,7 +139,7 @@
     "music.botNoVoiceChannel": "Je ne suis pas en train de jouer de la musique !",
     "music.noJoinPermission": "Je n'ai pas la permission de rejoindre votre canal vocal.",
     "music.joinError": "Une erreur est survenue en se connectant à votre canal vocal.",
-    "music.enqueueMultiple": "{{timeTaken}}Ajout de `{{resultLength}}` pistes à la file d'attente (traité en `{{timeTaken}}` secondes)",
+    "music.enqueueMultiple": "Ajout de `{{resultLength}}` pistes à la file d'attente (traité en `{{timeTaken}}` secondes)",
     "music.skipHelp": "Vote pour sauter une chanson. Les utilisateurs avec la permission `music.forceskip` peuvent sauter la chanson instantanément.",
     "music.skipping": "Saut ...",
     "music.skipAlreadyVoted": "Vous avez déjà voté pour sauter la musique !",
