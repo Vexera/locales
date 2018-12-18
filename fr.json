@@ -232,7 +232,7 @@
     "meme.illegalError": "Trump a tout gâché, je pense qu'il ne voulait pas rendre ça illégal !",
     "fun.asciiHelp": "Convertit du texte en ASCII. Une liste des polices de caractères peut être trouvée sur https://github.com/patorjk/figlet.js/tree/master/fonts.",
     "info.donatorsHelp": "Affiche le top 10 des donateurs avec un message personnalisé défini par le donateur. Les donateurs peuvent définir leur message en utilisant `{{prefix}}donators <message>`",
-    "music.autoplayHelp": "Définit une piste, une playlist ou un livestream à jouer lorsque la file est vide.",
+    "music.autoplayHelp": "Définit une piste, une playlist ou un livestream à lire lorsque la file est vide.",
     "music.dumpHelp": "Crée une URL avec les informations sur la file de musique, qui peut être chargée avec {{prefix}}play. Utilisez {{prefix}}dump all pour décharger la file entière.",
     "meme.drakeHelp": "Fait un meme drake.",
     "meme.mistakeHelp": "Pour les grosses erreurs.",
