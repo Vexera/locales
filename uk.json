@@ -357,5 +357,7 @@
     "misc.userinfoCreation": "Користувач створений",
     "owner.evalHelp": "Оцінює речі",
     "owner.globalevalHelp": "Оцінює речі по всім кластерам",
-    "owner.restartHelp": "Повністю перезапускає бота"
+    "owner.restartHelp": "Повністю перезапускає бота",
+    "music.bassStatus": "Бас зараз встановлено на `{{bass}}`",
+    "music.bassHelp": "Регулює бас для музики. Можливі опції: none, weak, medium, strong, insane, wtf"
 }
