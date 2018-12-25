@@ -81,5 +81,6 @@
     "perms.permsAddExists": "Il permesso è già presente",
     "perms.permsAdd": "Permesso `{{perm}}` aggiunto a `{{name}}`",
     "perms.permsRemoveError": "Questo permesso non è presente, quindi non può essere rimosso.",
-    "perms.permsRemove": "Permesso `{{perm}}` rimosso a `{{name}}`"
+    "perms.permsRemove": "Permesso `{{perm}}` rimosso a `{{name}}`",
+    "perms.permsExample4": "Lista dei permessi del ruolo `Moderatori`"
 }
