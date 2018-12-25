@@ -82,5 +82,9 @@
     "perms.permsAdd": "Permesso `{{perm}}` aggiunto a `{{name}}`",
     "perms.permsRemoveError": "Questo permesso non è presente, quindi non può essere rimosso.",
     "perms.permsRemove": "Permesso `{{perm}}` rimosso a `{{name}}`",
-    "perms.permsExample4": "Lista dei permessi del ruolo `Moderatori`"
+    "perms.permsExample4": "Lista dei permessi del ruolo `Moderatori`",
+    "admin.banHelp": "Banna un membro",
+    "admin.kickHelp": "Caccia un utente.",
+    "admin.kickPermissionError": "Non hai il permesso necessario per cacciare questo utente.",
+    "admin.kickBotPermissionError": "Non puoi cacciare l'utente."
 }
