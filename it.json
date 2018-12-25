@@ -79,5 +79,6 @@
     "info.redeemSuccess": "Grande ! Vexera Premium è ora abilitato su ogni server che possiedi per **{{days}}** giorni.",
     "info.redeemExtended": "Grande ! L'iscrizione a Vexera Premium è stata prolungata di **{{days}}** giorni.",
     "perms.permsAddExists": "Il permesso è già presente",
-    "perms.permsAdd": "Permesso `{{perm}}` aggiunto a `{{name}}`"
+    "perms.permsAdd": "Permesso `{{perm}}` aggiunto a `{{name}}`",
+    "perms.permsRemoveError": "Questo permesso non è presente, quindi non può essere rimosso."
 }
