@@ -92,5 +92,8 @@
     "admin.softbanBotPermissionError": "Impossibile bannare l'utente",
     "admin.vckickHelp": "Caccia un membro dal canale vocale",
     "admin.vckickPermissionError": "Non hai il permesso di cacciare dalla stanza vocale questo utente.",
-    "admin.vckickBotPermissionError": "Non ho il permesso di Modificare i Canali (o Muovere Membri)"
+    "admin.vckickBotPermissionError": "Non ho il permesso di Modificare i Canali (o Muovere Membri)",
+    "admin.muteHelp": "Muta un utente.",
+    "admin.mutePermissionError": "Non hai il permesso di mutare questo utente.",
+    "admin.muteSetupError": "Io non ho il permesso di configurare il ruolo {{mutedRoleName}}, per favore controlla che io abbia i permessi corretti."
 }
