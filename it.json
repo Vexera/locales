@@ -90,5 +90,6 @@
     "admin.softbanHelp": "Soft-banna un utente (cancella tutti i suoi messaggi)",
     "admin.softbanPermissionError": "Non hai il permesso di cacciare l'utente.",
     "admin.softbanBotPermissionError": "Impossibile bannare l'utente",
-    "admin.vckickHelp": "Caccia un membro dal canale vocale"
+    "admin.vckickHelp": "Caccia un membro dal canale vocale",
+    "admin.vckickPermissionError": "Non hai il permesso di cacciare dalla stanza vocale questo utente."
 }
