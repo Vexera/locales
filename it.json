@@ -75,5 +75,6 @@
     "admin.banExample2": "Banna l'utente `luke`",
     "admin.muteExample1": "Muta l'utente `luke` per una settimana e due giorni con motivazione `Spam`",
     "admin.muteExample2": "Muta l'utente `luke`",
-    "info.redeemHelp": "Ti permette di ricevere una chiave per Vexera Premium. Nota che verrà attivata su tutti i server che **possiedi**."
+    "info.redeemHelp": "Ti permette di ricevere una chiave per Vexera Premium. Nota che verrà attivata su tutti i server che **possiedi**.",
+    "info.redeemSuccess": "Bne! Vexera Premium è ora abilitato su ogni server che possiedi per **{{days}}** giorni."
 }
