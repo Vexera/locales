@@ -87,5 +87,6 @@
     "admin.kickHelp": "Caccia un utente.",
     "admin.kickPermissionError": "Non hai il permesso necessario per cacciare questo utente.",
     "admin.kickBotPermissionError": "Non puoi cacciare l'utente.",
-    "admin.softbanHelp": "Soft-banna un utente (cancella tutti i suoi messaggi)"
+    "admin.softbanHelp": "Soft-banna un utente (cancella tutti i suoi messaggi)",
+    "admin.softbanPermissionError": "Non hai il permesso di cacciare l'utente."
 }
