@@ -99,5 +99,5 @@
     "admin.roleExample1": "Aggiungi il ruolo `Admin` a tutti quelli che hanno il ruolo `Moderatori`",
     "admin.roleExample2": "Aggiungi il ruolo `Admin` all'utente `luke`",
     "admin.roleExample3": "Rimuove il ruolo `Moderatori` a tutti",
-    "admin.rolePermissionError": "Non hai il permesso per modificare questo ruolo."
+    "admin.rolePermissionError": "Non hai il permesso di modificare questo ruolo."
 }
