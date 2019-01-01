@@ -359,5 +359,7 @@
     "misc.remindHelp": "Alarm kurar.",
     "settings.rowboatNoURL": "hiçbir url belirtilmemişdir!",
     "settings.rowboatError": "İhlalleri yüklemekde hata oluşdu.",
-    "admin.reasonHelp": "ılım ihlali için sebep izleyicisi belirler."
+    "admin.reasonHelp": "ılım ihlali için sebep izleyicisi belirler.",
+    "music.bassHelp": "Çalınan müzik için bass seviyyesini uygular. Seviyyeler: Hiç, Zayıf, Orta, Çok, Şokedici, OHA",
+    "music.bassStatus": "Bass seviyyesi şu anda `{{bass}}`"
 }
