@@ -290,7 +290,7 @@
     "info.premiumStatus": "Checks the premium status of a user.",
     "info.statusAmount": "Amount Pledged",
     "info.statusDatePledged": "Date Pledged",
-    "info.statusDeclined": "**Warning:** The pledge for this user has failed to go through this month.",
+    "info.statusDeclined": "**Warning:** The payment for this pledge was declined. The user's premium features will be disabled on the 5th of this month.",
     "info.statusExpiry": "Expiry",
     "info.statusType": "Type",
     "info.statusNotDonator": "User is not a donator!",
