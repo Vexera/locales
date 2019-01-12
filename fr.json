@@ -178,7 +178,7 @@
     "generic.guildOnlyError": "Cette commande ne peut être utilisée que dans les serveurs.",
     "generic.ratelimited": "Merci de patienter {{sec}} secondes.",
     "info.healthHelp": "Affiche l'état des « shards » du bot",
-    "info.healthTitle": "État des clusters et des « shards »",
+    "info.healthTitle": "État des clusters et des shards",
     "info.healthDown": "Hors service",
     "info.healthUnhealthy": "Nombre de guildes anormale",
     "info.healthNodesDown": "Nœuds vocaux hors-ligne",
