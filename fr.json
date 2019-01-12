@@ -173,7 +173,7 @@
     "music.lyricsNotFound": "Paroles non trouvées !",
     "info.nodeinfoHelp": "Affiche des informations à propos des serveurs vocaux.",
     "meme.handicappedHelp": "Monsieur ! Cette place est réservée aux handicapés !",
-    "generic.errorID": "Une erreur inattendue s'est produite. Si vous croyez qu'elle n'était pas censée se produire, merci de renvoyer l'ID de l'erreur au serveur de support : `{{errorID}}`.",
+    "generic.errorID": "Une erreur inattendue s'est produite. Si vous pensez qu'elle n'était pas censée se produire, merci de renvoyer l'ID de l'erreur au serveur de support : `{{errorID}}`.",
     "generic.insufficientArgs": "Nombre d'arguments spécifiés incorrecte, pour plus d'information sur cette commande, voir {{prefix}}help {{command}}.",
     "generic.guildOnlyError": "Cette commande ne peut être utilisée que dans les serveurs.",
     "generic.ratelimited": "Merci de patienter {{sec}} secondes.",
