@@ -5,7 +5,7 @@
     "generic.errorCodeblock": "Произошла непредвиденная ошибка.\n```{{error}}```",
     "generic.errorID": "Произошла непредвиденная ошибка. Если это показалось вам странным, сообщите в поддержку следующий ID: `{{errorID}}`.",
     "generic.processingTitle": "Обработка",
-    "generic.processingDescription": "Эта команда еще не была обработана.",
+    "generic.processingDescription": "Эта команда не была обработана.",
     "generic.insufficientArgs": "Неправильное количество заданных аргументов, для получения дополнительной информации об этой команде см. {{prefix}}help {{command}}.",
     "generic.insufficientArg": "Вы не указали аргумент `{{arg}}`.",
     "generic.invalidArg": "Не в состоянии обработать аргумент `{{arg}}`.",
