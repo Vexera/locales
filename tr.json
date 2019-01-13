@@ -343,7 +343,7 @@
     "misc.remindInvalid": "Geçersiz zaman!",
     "misc.remindSuccess": "Tamam, Ben seni {{text}} 'i hatırlatıcam.",
     "music.playerLag": "Donma mı yaşıyorsunuz? Size özel sunucular için [Vexera Premium](https://vexera.io/premium)!",
-    "settings.logExists": "{{event}} Olayı zaten ilave edilmişdir!",
+    "settings.logExists": "`{{event}}` olayı zaten ekli!",
     "settings.logAdd": "`{{channel}}` kanalına {{events}} olay(lar)ı eklendi",
     "music.playlistExample4": "'Dubstep' isimli çalma listesi için Dump URL oluşturur",
     "modlog.line4": "**ılımlayıcı**:{{username}}#{{discriminator}}",
