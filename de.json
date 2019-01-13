@@ -253,7 +253,7 @@
     "info.premiumStatus": "Überprüft den Premium-Status eines Nutzers.",
     "info.statusAmount": "Geld Bezahlt",
     "info.statusDatePledged": "Geld Bezahlt Seit",
-    "info.statusDeclined": "**Warnung:** Die Spende dieses Benutzers ist während dieses Monats fehlgeschlagen.",
+    "info.statusDeclined": "** Warnung: ** Die Zahlung für diese Zusage wurde abgelehnt. Die Premium-Funktionen des Benutzers werden am 5. dieses Monats deaktiviert.",
     "info.statusExpiry": "Läuft Ab",
     "info.statusType": "Typ",
     "info.statusNotDonator": "Benutzer ist kein Spender!",
@@ -298,7 +298,7 @@
     "music.autoplayExample2": "Schaltet die automatische Wiedergabe aus.",
     "owner.fetchsettingsNotfound": "Einstellungen nicht gefunden.",
     "owner.fetchsettingsSensitive": "Dieser Befehl wird Nutzer-Daten sichtbar machen. Bitte sei sicher Du bist in einem privaten Kanal. Schreibe 'yes' um fortzufahren.",
-    "info.transferHelp": "Überträgt ein Premium-Abonnement auf einen anderen Nutzer.",
+    "info.transferHelp": "Überträgt ein Premium-Abonnement an einen anderen Benutzer. Deaktivieren Sie es mit `{{prefix}} transfer disable`.",
     "info.transferSubscriptionExists": "Der Nutzer besitzt bereits ein Abonnement!",
     "info.transferActive": "Es läuft bereits eine aktive Transferierung!",
     "info.transferTransferred": "Das Abonnement wurde erfolgreich zu **{{user}}** transferiert!",
@@ -374,5 +374,7 @@
     "music.queryNotFound": "Keine Ergebnisse gefunden.",
     "music.premiumSpotifyError": "Nur Vexera Premium Abonnenten können Spotify Playlists hören. Für mehr Informationen besuche <https://vexera.io/premium>.",
     "music.premiumSpotifyAlternative": "Alternativ gibt es Webseiten, die [Spotify Playlists in Youtube Playlists](https://bfnt.io/spotify-converter) umwandeln können. Du kannst solche Webseiten benutzen, wenn du weiterhin kostenlos Vexera verwenden möchtest.",
-    "music.premiumSpotifyProcessing": "Verarbeite Spotify Playlist... Dies kann einen Moment dauern."
+    "music.premiumSpotifyProcessing": "Verarbeite Spotify Playlist... Dies kann einen Moment dauern.",
+    "music.bassStatus": "Der Bass ist momentan auf `{{bass}}` eingestellt",
+    "music.bassHelp": "Stellt den Bass für die Musikwiedergabe ein. Gültige Optionen: none, weak, medium, strong, insane, wtf"
 }
