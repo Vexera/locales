@@ -81,5 +81,13 @@
     "admin.vckickPermissionError": "Нямате право да изритате този потребител от гласовия канал.",
     "admin.muteSetupError": "Нямам право да настроя ролята {{mutedRoleName}}, моля проверете дали имам правилните права.",
     "settings.prefixExample1": "Настройва префикса на `!`",
-    "autorole.autoroleTitle": "Автоматични роли"
+    "autorole.autoroleTitle": "Автоматични роли",
+    "generic.insufficientArg": "Не сте посочили аргумента {{arg}}.",
+    "generic.promptCancel": "Подканата беше отказана.",
+    "info.healthHelp": "Показва състоянието на частите на бота",
+    "info.healthTitle": "Състояние на частите и клъстерите",
+    "info.healthDown": "Неработещи",
+    "info.healthNodesDown": "Офлайн гласови сървъри",
+    "info.redeemExtended": "Успех! Вашият абонамент за Vexera Premium беше удължен с **{{days}}** ден(а).",
+    "perms.permsAddExists": "Това право вече е добавено"
 }
