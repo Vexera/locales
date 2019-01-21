@@ -315,5 +315,7 @@
     "modlog.line2": "**user**: {{username}}#{{discriminator}} ({{id}}) (<@{{id}}>)",
     "modlog.line3": "**reason**: {{reason}}",
     "modlog.line4": "**moderator**: {{username}}#{{discriminator}}",
-    "modlog.noReason": "_moderator, please🙏 type `{{prefix}}reason {{caseID}} <reason>`_"
+    "modlog.noReason": "_moderator, please🙏 type `{{prefix}}reason {{caseID}} <reason>`_",
+    "admin.unbanBotPermissionError": "unable to ban👼 the 👤user 👤.",
+    "music.queryNotFound": "no results found🔎."
 }
