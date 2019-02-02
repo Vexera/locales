@@ -89,5 +89,6 @@
     "info.healthDown": "Неработещи",
     "info.healthNodesDown": "Офлайн гласови сървъри",
     "info.redeemExtended": "Успех! Вашият абонамент за Vexera Premium беше удължен с **{{days}}** ден(а).",
-    "perms.permsAddExists": "Това право вече е добавено"
+    "perms.permsAddExists": "Това право вече е добавено",
+    "music.playerDuration": "Продължителност"
 }
