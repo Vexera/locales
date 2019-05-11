@@ -1,6 +1,4 @@
 {
-    "nativeName": "Български",
-    "languageNameEn": "Bulgarian",
     "generic.error": "Възникна неочаквана грешка.",
     "generic.errorCodeblock": "Възникна неочаквана грешка.\n```{{error}}```",
     "generic.processingTitle": "Обработва се",

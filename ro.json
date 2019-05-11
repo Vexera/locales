@@ -1,7 +1,5 @@
 {
     "generic.processingTitle": "Procesare",
-    "nativeName": "Română",
-    "languageNameEn": "Romanian",
     "generic.error": "A apărut o eroare neașteptată.",
     "generic.errorCodeblock": "A apărut o eroare neașteptată.\n```{{error}}```",
     "generic.errorID": "A apărut o eroare neașteptată. Dacă crezi că acest lucru nu ar fi trebuit să se întâmple te rog să raportezi eroarea pe serverul de suport. ID-ul erorii: `{{errorID}}`.",

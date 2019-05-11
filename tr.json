@@ -1,6 +1,4 @@
 {
-    "nativeName": "Türkçe",
-    "languageNameEn": "Türkçe",
     "generic.error": "Beklenmedik bir hata oluştu.",
     "generic.errorCodeblock": "Beklenmedik bir hata oluştu.\n```{{error}}```",
     "generic.errorID": "Beklenmedik bir hata oluştu. Bunun olmaması gerektiğini düşünüyorsanız, lütfen destek sunucusuna hata kimliğini bildirin: `{{errorID}}`.",

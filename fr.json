@@ -1,6 +1,4 @@
 {
-    "nativeName": "Français",
-    "languageNameEn": "French",
     "generic.error": "Une erreur inattendue s'est produite.",
     "generic.errorCodeblock": "Une erreur inattendue s'est produite.\n```{{error}}```",
     "generic.processingTitle": "Traitement",

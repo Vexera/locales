@@ -1,6 +1,4 @@
 {
-    "nativeName": "Čeština",
-    "languageNameEn": "Czech",
     "generic.error": "Stala se neočekávaná chyba.",
     "generic.errorCodeblock": "Stala se neočekávaná chyba.\n```{{error}}```",
     "generic.errorID": "Stala se neočekávaná chyba. Pokud si myslíte, že se toto nemělo stát, řekněte serveru podpory ID chyby: `{{errorID}}`.",

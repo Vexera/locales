@@ -1,6 +1,4 @@
 {
-    "nativeName": "English",
-    "languageNameEn": "English",
     "generic.error": "An unexpected error occurred.",
     "generic.errorCodeblock": "An unexpected error occurred.\n```{{error}}```",
     "generic.errorID": "An unexpected error occurred. If you believe this wasn't meant to happen, please tell the support server the error ID: `{{errorID}}`.",

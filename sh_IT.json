@@ -1,6 +1,4 @@
 {
-    "nativeName": "Shitpost🇬🇧",
-    "languageNameEn": "Shitpost🇬🇧",
     "generic.error": "an unexpected error🚨 occurred.",
     "generic.errorCodeblock": "an unexpected 🔴error🔴 occurred.\n```{{error}}```",
     "generic.errorID": "an unexpected error🚨 occurred. if you believe this wasn't meant 😏 to happen, 🙏please🙏 tell the support server the 🚨error🚨 id: `{{errorID}}`.",

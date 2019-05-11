@@ -1,6 +1,4 @@
 {
-    "languageNameEn": "Hungarian",
-    "nativeName": "Magyar",
     "generic.error": "Váratlan hiba lépett fel.",
     "generic.errorCodeblock": "Váratlan hiba lépett fel.\n```{{error}}```",
     "generic.errorID": "Váratlan hiba lépett fel. Ha úgy gondolod, ez nem történhetett volna meg, közöld a támogatási szerverünkkel a hiba azonosítóját: `{{errorID}}` .",
