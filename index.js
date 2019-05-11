@@ -1,5 +1,22 @@
 module.exports = {
   en:       { name: 'English', nameEn: 'English' },
+  ar:       { name: 'الأنجليزية', nameEn: 'Arabic', unlisted: true },
+  bg:       { name: 'Български', nameEn: 'Bulgarian' },
+  cs:       { name: 'Čeština', nameEn: 'Czech' },
+  de:       { name: 'Deutsch', nameEn: 'German' },
+  el:       { name: 'Ελληνικά', nameEn: 'Greek' },
+  es:       { name: 'Español', nameEn: 'Spanish' },
   fr:       { name: 'Français', nameEn: 'French' },
-  /*zh_Hans:  { name: '中文（简体', nameEn: 'Chinese (Simplified)', helpNeeded: true },*/
+  hu:       { name: 'Magyar', nameEn: 'Hungarian', unlisted: true },
+  it:       { name: 'Italiano', nameEn: 'Italiano' },
+  nb_NO:    { name: 'Norsk bokmål', nameEn: 'Norwegian Bokmål', unlisted: true },
+  nl_BE:    { name: 'België Nederlands', nameEn: 'Belgium Dutch' },
+  pt:       { name: 'Português', nameEn: 'Portuguese' },
+  ro:       { name: 'Română', nameEn: 'Romanian' },
+  ru:       { name: 'Русский', nameEn: 'Russian' },
+  sh_IT:    { name: 'Shitpost🇬🇧', nameEn: 'Shitpost🇬🇧', unlisted: true },
+  sv:       { name: 'Svenska', nameEn: 'Swedish', unlisted: true },
+  tr:       { name: 'Türkçe', nameEn: 'Turkish' },
+  uk:       { name: 'Українська', nameEn: 'Ukrainian' },
+  zh_Hans:  { name: '中文（简体）', nameEn: 'Chinese (Simplified)', unlisted: true },
 };
