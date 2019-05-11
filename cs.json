@@ -180,8 +180,8 @@
     "fun.asciiExample1": "Zobrazí `beep` v písmu `ghost`",
     "misc.wolframHelp": "Zeptá se wolframu.",
     "misc.wolframError": "Něco se stalo.. možná zkus něco jiného?",
-    "info.donatorsHelp": "Zobrazí top 10 přispěvatelů s přizpůsobenou zprávou nastavenou přispěvatelem. Přispěvatelé mohou nastavit jejich zprávu pomocí `{{prefix}}donators <zpráva>`",
-    "info.donatorsLimit": "Limit je 50 znaků.",
+    "premium.donatorsHelp": "Zobrazí top 10 přispěvatelů s přizpůsobenou zprávou nastavenou přispěvatelem. Přispěvatelé mohou nastavit jejich zprávu pomocí `{{prefix}}donators <zpráva>`",
+    "premium.donatorsLimit": "Limit je 50 znaků.",
     "music.playerQueueEnd": "Fronta uzavřena.",
     "music.playerInactive": "Kanál opuštěn z důvodu neaktivity.",
     "music.playerErrorDescription": "Při extrahování informací o této stopě se stala chyba.",
@@ -217,7 +217,7 @@
     "music.queueEmpty": "Fronta je prázdná!",
     "music.queuePageNotFound": "Stránka nenalezena!",
     "music.queueTrack": "{{index}}) {{title}} - Na žádost {{requester}}",
-    "music.volumeHelp": "Nastaví hlasitost přehrávané hudby.",
-    "music.volumeStatus": "Hlasitost je aktuálně {{percent}}%",
+    "premium.volumeHelp": "Nastaví hlasitost přehrávané hudby.",
+    "premium.volumeStatus": "Hlasitost je aktuálně {{percent}}%",
     "music.trackNotFound": "Tato stopa nebyla nalezena!"
 }
