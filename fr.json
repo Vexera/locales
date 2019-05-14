@@ -19,7 +19,7 @@
     "info.statsOwner": "Propriétaire",
     "info.statsGuilds": "Guildes",
     "info.statsUsers": "Utilisateurs",
-    "info.statsStreams": "Flux Vocaux",
+    "info.statsStreams": "Flux vocaux",
     "info.statsCluster": "Cluster",
     "info.statsShard": "Shard",
     "info.statsWebsite": "Site web",
@@ -367,6 +367,6 @@
     "music.premiumSpotifyProcessing": "Traitement de la playlist Spotify… cela peut prendre un peu de temps.",
     "premium.bassStatus": "La basse est actuellement réglée sur `{{bass}}`",
     "premium.bassHelp": "Ajuste les basses pour la musique en cours de lecture. Options valides: none, weak, medium, strong, insane, wtf",
-    "settings.localeNotComplete": "🚨La traduction de {{langname}} est seulement terminée à {{percentage}}%.\nVouloir aider? En savoir plus sur <{{url}}>.",
-    "info.statsUptime": "Disponibilité"
+    "settings.localeNotComplete": "🚨 La traduction en {{langname}} est terminée à seulement {{percentage}}%.\nEnvie d'aider ? En savoir plus sur <{{url}}>.",
+    "info.statsUptime": "Temps de fonctionnement"
 }
