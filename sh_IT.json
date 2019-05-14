@@ -310,7 +310,7 @@
     "modlog.line3": "**reason**: {{reason}}",
     "modlog.line4": "**moderator**: {{username}}#{{discriminator}}",
     "modlog.noReason": "_moderator, please🙏 type `{{prefix}}reason {{caseID}} <reason>`_",
-    "admin.unbanBotPermissionError": "Unable ❌ to ban👼 the 👤user 👤.",
+    "admin.unbanBotPermissionError": "Unable ❌ to un↩️ban👼 the 👤user 👤.",
     "music.queryNotFound": "no results found🔎.",
     "settings.localeNotComplete": "🚨 {{langname}}'s translation 🈺 is only {{percentage}}% completed.\nℹ️ Want to help 🆘? Learn more at <{{url}}> 🔗.",
     "settings.logExists": "📅 Event `{{event}}` has already ⚠️ been added ➕!",
