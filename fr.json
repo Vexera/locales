@@ -170,7 +170,7 @@
     "info.nodeinfoHelp": "Affiche des informations à propos des serveurs vocaux.",
     "meme.handicappedHelp": "Monsieur ! Cette place est réservée aux handicapés !",
     "generic.errorID": "Une erreur inattendue s'est produite. Si vous croyez qu'elle n'était pas censée se produire, merci de renvoyer l'ID de l'erreur au serveur de support : `{{errorID}}`.",
-    "generic.insufficientArgs": "Nombre d'arguments spécifiés incorrecte, pour plus d'information sur cette commande, voir {{prefix}}help {{command}}.",
+    "generic.insufficientArgs": "Nombre d'arguments spécifiés incorrecte, pour plus d'information sur cette commande, voir `{{prefix}}help {{command}}`.",
     "generic.guildOnlyError": "Cette commande ne peut être utilisée que dans les serveurs.",
     "generic.ratelimited": "Merci de patienter {{sec}} secondes.",
     "info.healthHelp": "Affiche l'état des « shards » du bot",
@@ -368,5 +368,6 @@
     "premium.bassStatus": "La basse est actuellement réglée sur `{{bass}}`",
     "premium.bassHelp": "Ajuste les basses pour la musique en cours de lecture. Options valides: none, weak, medium, strong, insane, wtf",
     "settings.localeNotComplete": "🚨 La traduction en {{langname}} est terminée à seulement {{percentage}}%.\nEnvie d'aider ? En savoir plus sur <{{url}}>.",
-    "info.statsUptime": "Temps de fonctionnement"
+    "info.statsUptime": "Temps de fonctionnement",
+    "generic.invalidArgValue": "Valeur `{{value}}` inconnue pour l'argument `{{arg}}`."
 }
