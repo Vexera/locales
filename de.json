@@ -4,7 +4,7 @@
     "generic.errorID": "Ein unerwarteter Fehler ist aufgetreten. Wenn du denkst, das hätte nicht passieren sollen, melde dich bitte bei unserem Support-Server mit der Error-ID: `{{errorID}}`.",
     "generic.processingTitle": "Wird verarbeitet",
     "generic.processingDescription": "Dieser Befehl wurde noch nicht vollständig verarbeitet.",
-    "generic.insufficientArgs": "Falsche Anzahl an Argumenten angegeben, für mehr Informationen über diesen Befehl, sieh' mal bei {{prefix}}help {{command}} nach.",
+    "generic.insufficientArgs": "Falsche Anzahl an Argumenten angegeben, für mehr Informationen über diesen Befehl, sieh' mal bei `{{prefix}}help {{command}}` nach.",
     "generic.insufficientArg": "Du hast nicht das `{{arg}}` Argument angegeben.",
     "generic.invalidArg": "Nicht imstande das `{{arg}}` Argument auszulesen.",
     "generic.guildOnlyError": "Dieser Befehl kann nur in Servern ausgeführt werden.",
@@ -250,7 +250,7 @@
     "premium.statusDeclined": "** Warnung: ** Die Zahlung für diese Zusage wurde abgelehnt. Die Premium-Funktionen des Benutzers werden am 5. dieses Monats deaktiviert.",
     "premium.statusExpiry": "Läuft Ab",
     "premium.statusType": "Typ",
-    "premium.statusNotDonator": "Benutzer ist kein Spender!",
+    "premium.statusNotDonator": "Dieser Benutzer ist kein Premium-Abonnent!",
     "music.seekHelp": "Springt zu einer gewissen Position im Track.",
     "music.seekInvalid": "Ungültige Länge!",
     "info.premiumExpiring": "Dein Vexera-Premium Abonnement läuft in {{expire}} ab. Um Vexera Premium beizubehalten, besuche bitte https://vexera.io/premium.",
@@ -370,5 +370,10 @@
     "music.premiumSpotifyAlternative": "Alternativ gibt es Webseiten, die [Spotify Playlists in Youtube Playlists](https://bfnt.io/spotify-converter) umwandeln können. Du kannst solche Webseiten benutzen, wenn du weiterhin kostenlos Vexera verwenden möchtest.",
     "music.premiumSpotifyProcessing": "Verarbeite Spotify Playlist... Dies kann einen Moment dauern.",
     "premium.bassStatus": "Der Bass ist momentan auf `{{bass}}` eingestellt",
-    "premium.bassHelp": "Stellt den Bass für die Musikwiedergabe ein. Gültige Optionen: none, weak, medium, strong, insane, wtf"
+    "premium.bassHelp": "Stellt den Bass für die Musikwiedergabe ein. Gültige Optionen: none, weak, medium, strong, insane, wtf",
+    "settings.localeNotComplete": "🚨 Die Übersetzung auf {{langname}} ist nur zu {{percentage}}% fertiggestellt.\nMöchtest Du helfen? Lerne mehr unter <{{url}}>.",
+    "generic.invalidArgValue": "Unbekannter Wert {{value}} für das Argument {{arg}}.",
+    "premium.statusTransferredFrom": "Dieser Benutzer hat sein Abonnement auf `{{tag}}` übertragen.",
+    "premium.statusTransferredTo": "Dieser Benutzer ist der Begünstigte des Abonnements von `{{tag}}`.",
+    "info.statsUptime": "Betriebszeit"
 }
