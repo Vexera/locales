@@ -243,7 +243,7 @@
     "premium.statusDeclined": "**Avertissement :** Le paiement pour cet utilisateur n'a pas été validé ce mois-ci. Les fonctionnalités premium de l'utilisateur seront désactivées le 5 de ce mois.",
     "premium.statusExpiry": "Expiration",
     "premium.statusType": "Type",
-    "premium.statusNotDonator": "L'utilisateur n'est pas un donateur !",
+    "premium.statusNotDonator": "Cet utilisateur n'est pas un abonné premium !",
     "music.seekHelp": "Va à une position dans une piste.",
     "music.seekInvalid": "Durée invalide !",
     "info.premiumExpiring": "Votre abonnement à Vexera Premium expire dans {{expire}}. Pour garder Vexera Premium, merci de visiter https://vexera.io/premium.",
@@ -369,5 +369,7 @@
     "premium.bassHelp": "Ajuste les basses pour la musique en cours de lecture. Options valides: none, weak, medium, strong, insane, wtf",
     "settings.localeNotComplete": "🚨 La traduction en {{langname}} est terminée à seulement {{percentage}}%.\nEnvie d'aider ? En savoir plus sur <{{url}}>.",
     "info.statsUptime": "Temps de fonctionnement",
-    "generic.invalidArgValue": "Valeur `{{value}}` inconnue pour l'argument `{{arg}}`."
+    "generic.invalidArgValue": "Valeur `{{value}}` inconnue pour l'argument `{{arg}}`.",
+    "premium.statusTransferredFrom": "Cet utilisateur a transféré son abonnement à `{{tag}}`.",
+    "premium.statusTransferredTo": "Cet utilisateur est le bénéficiaire d'un transfert d'abonnement de `{{tag}}`."
 }
