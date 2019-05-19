@@ -266,8 +266,6 @@
     "music.deleteHelp": "Видаляє пісню з черги.",
     "music.deletePlaying": "Я не можу видалити пісню, яку зараз граю.",
     "music.deleteRemoved": "`{{name}}` успішно видалена з черги.",
-    "owner.fetchsettingsNotfound": "Налаштування не знайдені.",
-    "owner.fetchsettingsSensitive": "Ця команда показує персональні дані користувача. Переконайтеся, що ви у приватному каналі. Напишіть 'yes' щоб продовжити.",
     "premium.transferHelp": "Передає преміум-підписку іншому користувачу. Введіть `{{prefix}}transfer disable` щоб відключити.",
     "premium.transferSubscriptionExists": "У цього користувача вже є преміум-підписка!",
     "premium.transferActive": "У вас вже є активний трансфер підписки!",
@@ -349,9 +347,6 @@
     "misc.serverinfoID": "ID",
     "misc.userinfoID": "ID",
     "misc.userinfoCreation": "Користувач створений",
-    "owner.evalHelp": "Оцінює речі",
-    "owner.globalevalHelp": "Оцінює речі по всім кластерам",
-    "owner.restartHelp": "Повністю перезапускає бота",
     "premium.bassStatus": "Бас зараз встановлено на `{{bass}}`",
     "premium.bassHelp": "Регулює бас для музики. Можливі опції: none, weak, medium, strong, insane, wtf"
 }
