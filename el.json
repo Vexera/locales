@@ -84,8 +84,6 @@
     "settings.farewellSet": "Ο αποχαιρετισμός ορίστηκε επιτυχώς.",
     "settings.farewellDisabled": "Ο αποχαιρετισμός απενεργοποιήθηκε επιτυχώς.",
     "settings.logHelp": "Ορίζει κανάλια στα οποία θα καταγράφονται συμβάντα.",
-    "settings.logDisabled": "Το κανάλι καταγραφής απενεργοποιήθηκε επιτυχώς.",
-    "settings.logSet": "Το κανάλι καταγραφής ορίστηκε επιτυχώς.",
     "settings.channeltoggleHelp": "Απενεργοποιεί όλες τις εντολές σε ένα κανάλι.",
     "settings.channeltoggleEnabled": "Η εντολές ενεργοποιήθηκαν σε αυτό το κανάλι.",
     "settings.channeltoggleDisabled": "Η εντολές απενεργοποιήθηκαν σε αυτό το κανάλι.",

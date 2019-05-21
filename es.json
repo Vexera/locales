@@ -110,8 +110,6 @@
     "settings.prefixDisable": "Se desactivó el prefijo con éxito. Ahora todos los comandos deberían usarse como `{{prefix}}ping`",
     "settings.prefixSet": "Se estableció el prefijo con éxito. Ahora todos los comandos deberían ser usados como `{{prefix}}ping`",
     "settings.logHelp": "Establece el canal al que se publicarán los eventos.",
-    "settings.logDisabled": "Canal de registros desactivado con éxito.",
-    "settings.logSet": "Canal de registros establecido con éxito.",
     "settings.modlogDisabled": "Canal de registros de moderación desactivado con éxito.",
     "settings.modlogSet": "Canal de registros de moderación establecido con éxito.",
     "settings.channeltoggleHelp": "Desactiva comandos en un canal.",

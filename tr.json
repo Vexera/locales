@@ -77,8 +77,6 @@
     "settings.prefixDisable": "Ön ek başarıyla devre dışı bırakıldı. Tüm komutlar artık şu şekilde kullanılmalıdır: `{{prefix}}ping`",
     "settings.prefixSet": "Ön ek başarıyla ayarlandı. Tüm komutlar artık şu şekilde kullanılmalıdır: `{{prefix}}ping`",
     "settings.logHelp": "Olay günlüğünün yazılacağı kanalı belirle.",
-    "settings.logDisabled": "Kayıt kanalı devre dışı bırakıldı.",
-    "settings.logSet": "Kayıt kanalı ayarlandı.",
     "settings.channeltoggleHelp": "Komutları bir kanalda devre dışı bırakır.",
     "settings.channeltoggleEnabled": "Bu kanalda komutlar aktif edildi.",
     "settings.channeltoggleDisabled": "Bu kanalda komutlar devre dışı bırakıldı.",

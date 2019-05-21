@@ -129,8 +129,6 @@
     "settings.prefixDisable": "successfully disabled the prefix. all commands should now be used like: `{{prefix}}ping`",
     "settings.prefixSet": "successfully set📐 the prefix. all commands should now be used like: `{{prefix}}ping`",
     "settings.logHelp": "sets📐channels that will📝have events posted📌in them.",
-    "settings.logDisabled": "successfully disabled the log channel.",
-    "settings.logSet": "successfully set📐 the log channel.",
     "settings.channeltoggleHelp": "disables commands in 🅰️a 🅰️ channel.",
     "settings.channeltoggleEnabled": "enabled commands in this channel.",
     "settings.channeltoggleDisabled": "disabled commands in this channel.",

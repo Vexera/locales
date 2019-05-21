@@ -131,8 +131,6 @@
     "settings.prefixDisable": "Desativei o prefixo com sucesso. Todos os comandos devem agora ser usados como: `{{prefix}}ping`",
     "settings.prefixSet": "Configurei o prefixo com sucesso. Todos os comandos devem agora ser usados como: `{{prefix}}ping`",
     "settings.logHelp": "Configura canais que terão eventos postados neles.",
-    "settings.logDisabled": "Desativei o canal de registos com sucesso.",
-    "settings.logSet": "Configurei o canal de registos com sucesso.",
     "settings.channeltoggleHelp": "Desativa os comandos num canal.",
     "settings.channeltoggleEnabled": "Ativei os comandos neste canal.",
     "settings.channeltoggleDisabled": "Desativei os comandos neste canal.",
