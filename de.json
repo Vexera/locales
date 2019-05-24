@@ -10,7 +10,6 @@
     "generic.guildOnlyError": "Dieser Befehl kann nur in Servern ausgeführt werden.",
     "generic.permissionError": "Du hast keine Berechtigung diesen Befehl auszuführen. (Du benötigst die `{{permission}}` Berechtigung)",
     "generic.discordPermissionError": "Du benötigst die `{{permission}}` Berechtigung, um diesen Befehl zu benutzen.",
-    "generic.guildJoin": "Hey! Vielen Dank schonmal für's Hinzufügen von mir, {{botName}}! Ich bin ein Bot, welcher mehrere Funktionen ausführen kann, darunter Musik-, Moderations-, \"Autorole\"- und andere nutzlose Befehle. Mach' einfach `{{prefix}}help` um meine Befehle zu sehen, und `{{prefix}}help <Befehl>`, um erweiterte Informationen zu einem bestimmten Befehl zu erhalten.",
     "generic.argNoResponse": "Keine Antwort in den letzten 30 Sekunden erhalten.",
     "generic.promptCancel": "Befehl abgebrochen.",
     "generic.ratelimited": "Bitte warte {{sec}} Sekunden.",

@@ -8,7 +8,6 @@
     "generic.insufficientArg": "A(z) `{{arg}}` argumentum hiányzik.",
     "generic.invalidArg": "A(z) `{{arg}}` argumentum nem meghatározható.",
     "generic.guildOnlyError": "Ez a parancs csak szervereken használható.",
-    "generic.guildJoin": "Hali! {{botName}} vagyok, egy többfunkciós bot zenével, moderációval, automatikus rangadással és még néhány egyéb értelmetlen funkcióval. Használd a `{{prefix}}help`-et, hogy megmutassam, mit tudok, és a `{{prefix}}help <parancs>`-ot, hogy bővebb információt találhass egy parancsomról.",
     "generic.argNoResponse": "Nincs válasz 30 másodpercig.",
     "generic.promptCancel": "Parancs megszakítva.",
     "generic.ratelimited": "Kérlek, várj {{sec}} másodpercig.",

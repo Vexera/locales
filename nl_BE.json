@@ -12,7 +12,6 @@
     "generic.guildOnlyError": "Dit command kan alleen in servers worden gebruikt.",
     "generic.permissionError": "Je heb geen toestemming om dit command te gebruiken (U hebt de `{{permission}}`toestemming nodig)",
     "generic.discordPermissionError": "U hebt de machtiging `{{permission}}` nodig om deze opdracht te gebruiken.",
-    "generic.guildJoin": "Hoi! Bedankt voor het toevoegen van {{botName}}! Ik ben een veelzijdige bot die muziek, moderatie, autorole en andere zinloze commando's kan doen. Doe `{{prefix}}help` om mijn opdrachten te zien, en`{{prefix}}help <command>`om uitgebreide informatie over een commando te zien.",
     "generic.argNoResponse": "Geen reactie voor 30 seconden.",
     "generic.promptCancel": "Opdracht Geannuleerd.",
     "generic.ratelimited": "Wacht a.u.b {{sec}} seconden.",

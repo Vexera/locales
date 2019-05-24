@@ -10,7 +10,6 @@
     "generic.guildOnlyError": "Bu komut yalnızca sunucularda kullanılabilir.",
     "generic.permissionError": "Bu komutu çalıştırma izniniz yok `({{permission}}` iznine ihtiyacınız var)",
     "generic.discordPermissionError": "Bu komutu kullanmak için `{{permission}}` iznine ihtiyacınız var.",
-    "generic.guildJoin": "Merhaba! {{botName}}'yı eklediğiniz için teşekkürler! Ben Müzik, Moderasyon, Otomatik Rol ve diğer amaçsız komutları yapabilen çok amaçlı bir botum. Komutları görmek için `{{prefix}}help` ve komut hakkında genişletilmiş bilgileri görmek için `{{prefix}}help <komut>` yazman yeterli.",
     "generic.argNoResponse": "30 saniye içinde cevap verilmedi.",
     "generic.promptCancel": "İşlem iptal edildi.",
     "generic.ratelimited": "Lütfen {{sec}} saniye bekleyin.",

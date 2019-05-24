@@ -10,7 +10,6 @@
     "generic.guildOnlyError": "Această comandă poate fi folosită doar servere.",
     "generic.permissionError": "Nu ai permisiunea de a executa această comandă. (Ai nevoie de permisiunea: `{{permission}}`)",
     "generic.discordPermissionError": "Ai nevoie de permisiunea `{{permission}}` pentru a folosi această comandă.",
-    "generic.guildJoin": "Salut! Mulțumesc pentru adăugarea lui {{botName}}! Sunt un robot cu mai multe scopuri, pot reda muzică, am comenzi pentru moderare, roluri automate, și multe alte comenzi inutile. Scrie `{{prefix}}` pentru a-mi vedea comenzile și `{{prefix}}help <comandă>` pentru a vedea mai multe informații despre o comandă.",
     "generic.argNoResponse": "Fără răspuns de 30 de secunde.",
     "generic.promptCancel": "Prompt anulat.",
     "generic.ratelimited": "Te rog așteaptă {{sec}} de secunde.",

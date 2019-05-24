@@ -10,7 +10,6 @@
     "generic.guildOnlyError": "Este comando somente pode ser usado em servidores.",
     "generic.permissionError": "Você não tem permissão para usar este comando (necessita da permissão `{{permission}}`)",
     "generic.discordPermissionError": "Você necessita da permissão `{{permission}}` para usar este comando.",
-    "generic.guildJoin": "Olá! Obrigado por adicionar `{{botName}}! Eu sou um bot multi-propósito que pode fazer Música, Moderação, Cargos Automáticos e outros comandos sem sentido. Faça `{{prefix}}help` para ver os meus comandos, e `{{prefix}}help <comando>` para ver uma informação mais extensa sobre o comando.",
     "generic.argNoResponse": "Sem resposta por 30 segundos.",
     "generic.promptCancel": "Comando cancelado.",
     "generic.ratelimited": "Por favor, aguarde {{sec}} segundos.",
