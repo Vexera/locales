@@ -258,7 +258,7 @@
     "premium.statusDeclined": "**Увага:** Оплата була відхилена. Преміум-можливості цього користувача будуть відключені 5-го числа цього місяця.",
     "premium.statusExpiry": "Підписка закінчується",
     "premium.statusType": "Тип",
-    "premium.statusNotDonator": "Цей користувач не донатер!",
+    "premium.statusNotDonator": "Цей користувач не є преміум підписником!",
     "music.seekHelp": "Стрибає на необхідну позицію у пісні.",
     "music.seekInvalid": "Вказано невірний час!",
     "info.premiumExpiring": "Ваша підписка на Vexera Premium закінчується {{expire}}. Щоб залишитись преміум-підписником, будь ласка, зайдіть на  https://vexera.io/premium.",
@@ -347,5 +347,10 @@
     "misc.userinfoID": "ID",
     "misc.userinfoCreation": "Користувач створений",
     "premium.bassStatus": "Бас зараз встановлено на `{{bass}}`",
-    "premium.bassHelp": "Регулює бас для музики. Можливі опції: none, weak, medium, strong, insane, wtf"
+    "premium.bassHelp": "Регулює бас для музики. Можливі опції: none, weak, medium, strong, insane, wtf",
+    "settings.localeNotComplete": "Переклад {{langname}} завершений тільки на {{percentage}}%.\nХочете допомогти? Подробиці на <{{url}}>.",
+    "generic.invalidArgValue": "Незнайома кількість `{{value}}` для аргументу `{{arg}}`.",
+    "premium.statusTransferredFrom": "Цей користувач змінив свою підписку на `{{tag}}`.",
+    "premium.statusTransferredTo": "Цей користувач є бенефіціаром підписки від `{{tag}}`.",
+    "info.statsUptime": "Час роботи"
 }
