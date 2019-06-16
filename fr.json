@@ -161,7 +161,7 @@
     "generic.guildOnlyError": "Cette commande ne peut être utilisée que dans les serveurs.",
     "generic.ratelimited": "Merci de patienter {{sec}} secondes.",
     "info.healthHelp": "Affiche l'état des « shards » du bot",
-    "info.healthTitle": "État des clusters et des shards",
+    "info.healthTitle": "État des shards",
     "info.healthDown": "Hors service",
     "info.helpPermNode": "Nœud de permission",
     "info.helpDescription": "Je suis un bot polyvalent qui peut faire de la musique, de la modération, et d'autres choses utiles et amusantes.\nFaites `{{prefix}}help <commande>` pour obtenir des informations précises sur une commande.\n\n**À la recherche de support ? [vexera.io/support](https://vexera.io/support)\nInvitation : [vexera.io/invite](https://vexera.io/invite)**",
@@ -350,5 +350,6 @@
     "info.statsUptime": "Temps de fonctionnement",
     "generic.invalidArgValue": "Valeur `{{value}}` inconnue pour l'argument `{{arg}}`.",
     "premium.statusTransferredFrom": "Cet utilisateur a transféré son abonnement à `{{tag}}`.",
-    "premium.statusTransferredTo": "Cet utilisateur est le bénéficiaire d'un transfert d'abonnement de `{{tag}}`."
+    "premium.statusTransferredTo": "Cet utilisateur est le bénéficiaire d'un transfert d'abonnement de `{{tag}}`.",
+    "info.healthUnknown": "Inconnu"
 }
