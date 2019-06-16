@@ -17,8 +17,6 @@
     "info.healthTitle": "Стан сегментів та кластерів",
     "info.healthDown": "Оффлайн",
     "info.healthStarting": "Запускається",
-    "info.healthUnhealthy": "Кластери із занадто низькою кількістю серверів",
-    "info.healthNodesDown": "Непрацюючі голосові ноди",
     "info.helpHelp": "Показує цю команду",
     "info.helpUsage": "Використання",
     "info.helpPermNode": "Нод прав",

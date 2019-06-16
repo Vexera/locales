@@ -17,8 +17,6 @@
     "info.healthTitle": "shard and cluster health 💉",
     "info.healthDown": "down⏬⏬",
     "info.healthStarting": "🆕starting🆕🆕",
-    "info.healthUnhealthy": "⚠️ Unhealthy 🤮 Guild 1️⃣Count 2️⃣3️⃣",
-    "info.healthNodesDown": "offline voice nodes",
     "info.helpHelp": "📺shows📺 this command",
     "info.helpUsage": "usage",
     "info.helpPermNode": "permission node",

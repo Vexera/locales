@@ -20,8 +20,6 @@
     "info.healthTitle": "Shard ve Küme Sağlığı",
     "info.healthDown": "Çökme",
     "info.healthStarting": "Başlama",
-    "info.healthUnhealthy": "Sağlıksız Sunucu Sayısı",
-    "info.healthNodesDown": "Çevrimdışı Ses Düğümleri",
     "info.helpDescription": "Ben müzik, moderasyon, diğer eğlenceli ve kullanışlı şeyleri yapabilen çok amaçlı bir Discord botuyum.\nKomut hakkında daha fazla bilgi için `{{prefix}}help <komut>` yazın.\n\n**Yardıma mı ihtiyacınız var? [Vexera.io/support](https://vexera.io/support)\nDavet: [vexera.io/invite](https://vexera.io/invite)**",
     "info.helpDM": "Komutların bir listesi için özel mesajlarınızı kontrol edin!",
     "info.statsHelp": "Bot hakkında istatistikleri gösterir",

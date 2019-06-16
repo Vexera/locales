@@ -183,8 +183,6 @@
     "misc.userinfoDiscriminator": "Diskriminator",
     "music.playerErrorTitle": "Fehler",
     "music.playerDuration": "Dauer",
-    "info.healthUnhealthy": "Ungesunde Gildenanzahl",
-    "info.healthNodesDown": "Offline Voice Nodes",
     "info.helpPermNode": "Berechtigungs-Node",
     "perms.permsNodesTitle": "Berechtigungs-Nodes",
     "music.queueLimit": "Die Warteschlange hat nur Platz für 2000 Tracks!",

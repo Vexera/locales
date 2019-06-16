@@ -15,8 +15,6 @@
     "info.healthTitle": "Shard- és Cluster-Egészség",
     "info.healthDown": "Offline",
     "info.healthStarting": "Indítás",
-    "info.healthUnhealthy": "Egészségtelen céhszám",
-    "info.healthNodesDown": "Offline hangcsomópontok",
     "info.helpHelp": "Megmutatja ezt a parancsot",
     "info.helpUsage": "Használat",
     "info.helpPermNode": "Jogcsoport",

@@ -17,8 +17,6 @@
     "info.healthTitle": "Zdraví shardů a clusterů",
     "info.healthDown": "Vypnuté",
     "info.healthStarting": "Spouštějící se",
-    "info.healthUnhealthy": "Počet nezdravých guild",
-    "info.healthNodesDown": "Hlasové nody offline",
     "info.helpHelp": "Zobrazuje tento příkaz",
     "info.helpUsage": "Použití",
     "info.helpPermNode": "Oprávnění",

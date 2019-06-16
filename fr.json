@@ -163,8 +163,6 @@
     "info.healthHelp": "Affiche l'état des « shards » du bot",
     "info.healthTitle": "État des clusters et des shards",
     "info.healthDown": "Hors service",
-    "info.healthUnhealthy": "Nombre anormal de guildes",
-    "info.healthNodesDown": "Nœuds vocaux hors-ligne",
     "info.helpPermNode": "Nœud de permission",
     "info.helpDescription": "Je suis un bot polyvalent qui peut faire de la musique, de la modération, et d'autres choses utiles et amusantes.\nFaites `{{prefix}}help <commande>` pour obtenir des informations précises sur une commande.\n\n**À la recherche de support ? [vexera.io/support](https://vexera.io/support)\nInvitation : [vexera.io/invite](https://vexera.io/invite)**",
     "info.clusterinfoHelp": "Affiche des informations à propos de tous les clusters",

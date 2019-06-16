@@ -17,8 +17,6 @@
     "info.healthTitle": "Saúde da Shard e da Cluster",
     "info.healthDown": "Em baixo",
     "info.healthStarting": "A começar",
-    "info.healthUnhealthy": "Número de servidores pouco saudáveis",
-    "info.healthNodesDown": "Servidores de voz offline",
     "info.helpHelp": "Mostra este comando",
     "info.helpUsage": "Uso",
     "info.helpPermNode": "Permissão necessária",
