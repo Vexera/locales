@@ -13,8 +13,8 @@
     "generic.argNoResponse": "Keine Antwort in den letzten 30 Sekunden erhalten.",
     "generic.promptCancel": "Befehl abgebrochen.",
     "generic.ratelimited": "Bitte warte {{sec}} Sekunden.",
-    "info.healthHelp": "Zeigt die Gesundheit für die Shards des Bots an",
-    "info.healthTitle": "Shard- und Cluster-Gesundheit",
+    "info.healthHelp": "Zeigt den Status der Shards an",
+    "info.healthTitle": "Shard-Status",
     "info.healthDown": "Offline",
     "info.healthStarting": "Startend",
     "info.helpHelp": "Zeigt diesen Befehl",
@@ -350,5 +350,6 @@
     "generic.invalidArgValue": "Unbekannter Wert {{value}} für das Argument {{arg}}.",
     "premium.statusTransferredFrom": "Dieser Benutzer hat sein Abonnement auf `{{tag}}` übertragen.",
     "premium.statusTransferredTo": "Dieser Benutzer ist der Begünstigte des Abonnements von `{{tag}}`.",
-    "info.statsUptime": "Betriebszeit"
+    "info.statsUptime": "Betriebszeit",
+    "info.healthUnknown": "Unbekannt"
 }

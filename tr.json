@@ -233,7 +233,7 @@
     "music.playerErrorTitle": "Hata",
     "music.playerDuration": "Süre",
     "misc.serverinfoID": "Kimlik",
-    "misc.userinfoID": "Kimlik",
+    "misc.userinfoID": "ID",
     "perms.permsExample1": "Müzik yetkilerini herkese verir",
     "perms.permsExample2": "`Moderators` rolünün cat komutunu kullanma yetkisini kaldırır",
     "perms.permsExample3": "`luke` kullanıcısının doge komutunu kullanma yetkisini kaldırır",
