@@ -345,5 +345,6 @@
     "settings.rowboatError": "İhlaller alınırken hata.",
     "admin.reasonHelp": "Mod log ihlali için bir sebep belirler.",
     "premium.bassHelp": "Çalınan müzik için bass seviyesini ayarlar. Seviyeler: yok, zayıf, orta, güçlü, çıldırmış, OHA",
-    "premium.bassStatus": "Bass seviyesi şu anda `{{bass}}`"
+    "premium.bassStatus": "Bass seviyesi şu anda `{{bass}}`",
+    "settings.localeNotComplete": "🚨 {{langname}} çevrisi {{percentage}} % faiz tamamlanmıştır.\nDil çevrisinde yardımcı olmak istiyorsanız: {{url}}"
 }
