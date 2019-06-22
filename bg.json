@@ -75,7 +75,7 @@
     "generic.insufficientArg": "Не сте посочили аргумента {{arg}}.",
     "generic.promptCancel": "Подканата беше отказана.",
     "info.healthHelp": "Показва състоянието на частите на бота",
-    "info.healthTitle": "Състояние на частите и клъстерите",
+    "info.healthTitle": "Състояние на частите",
     "info.healthDown": "Неработещи",
     "premium.redeemExtended": "Успех! Вашият абонамент за Vexera Premium беше удължен с **{{days}}** ден(а).",
     "perms.permsAddExists": "Това право вече е добавено",
@@ -93,5 +93,13 @@
     "music.joinHelp": "Влиза във гласов канал.",
     "music.leaveHelp": "Напуска гласовия канал.",
     "music.pauseHelp": "Паузира музиката.",
-    "music.resumeHelp": "Възобновява музиката."
+    "music.resumeHelp": "Възобновява музиката.",
+    "music.playerRequested": "Поискано от",
+    "music.playSearchResult": "Резултат от търсенето",
+    "music.noJoinPermission": "Нямам право да вляза във този гласов канал.",
+    "settings.localeTitle": "Езици",
+    "settings.localeCurrent": "Текущ език: {{locale}}",
+    "settings.userlocaleTitle": "Езици",
+    "settings.userlocaleCurrent": "Текущ език: {{locale}}",
+    "music.skipping": "Пропускане..."
 }
