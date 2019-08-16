@@ -14,7 +14,7 @@
     "generic.promptCancel": "Запит відмінено.",
     "generic.ratelimited": "Будь ласка, зачекайте {{sec}} секунд.",
     "info.healthHelp": "Показує стан сегментів бота",
-    "info.healthTitle": "Стан сегментів та кластерів",
+    "info.healthTitle": "Стан сегментів",
     "info.healthDown": "Оффлайн",
     "info.healthStarting": "Запускається",
     "info.helpHelp": "Показує цю команду",
@@ -350,5 +350,6 @@
     "generic.invalidArgValue": "Незнайома кількість `{{value}}` для аргументу `{{arg}}`.",
     "premium.statusTransferredFrom": "Цей користувач змінив свою підписку на `{{tag}}`.",
     "premium.statusTransferredTo": "Цей користувач є бенефіціаром підписки від `{{tag}}`.",
-    "info.statsUptime": "Час роботи"
+    "info.statsUptime": "Час роботи",
+    "info.healthUnknown": "Невідомо"
 }
