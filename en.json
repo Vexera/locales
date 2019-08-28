@@ -207,6 +207,7 @@
     "misc.wolframError": "Something went wrong.. maybe try something else?",
     "premium.donatorsHelp": "Shows the top 10 donators with a personalised message set by the donator. Donators can set their message using `{{prefix}}donators <message>`",
     "premium.donatorsLimit": "The limit is 50 characters.",
+    "premium.donatorsEmpty": "No messages to show!",
     "premium.premiumHelp": "Displays premium information.",
     "premium.statusHelp": "Displays premium status.",
     "music.playerQueueEnd": "Queue Concluded.",
