@@ -98,7 +98,7 @@
     "admin.softbanBotPermissionError": "Unable to ban the user.",
     "admin.vckickHelp": "Kicks a member from a voice channel",
     "admin.vckickPermissionError": "You do not have permission to voicekick this user.",
-    "admin.vckickBotPermissionError": "I do not have permission to Manage Channels (or Move Members)",
+    "admin.vckickBotPermissionError": "I do not have permission to Move Members.",
     "admin.muteHelp": "Mutes a user.",
     "admin.mutePermissionError": "You do not have permission to mute this user.",
     "admin.muteSetupError": "I do not have permission to set up the {{mutedRoleName}} role, please check I have the correct permissions.",
