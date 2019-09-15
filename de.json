@@ -48,7 +48,7 @@
     "admin.softbanBotPermissionError": "Nicht imstande den Benutzer zu verbannen.",
     "admin.vckickHelp": "Kickt einen Nutzer von einem Sprach-Kanal",
     "admin.vckickPermissionError": "Du hast keine Berechtigung, um diesen Benutzer aus dem Sprach-Kanal zu kicken.",
-    "admin.vckickBotPermissionError": "Ich habe nicht die Berechtigung, um Kanäle zu verwalten (oder um Nutzer zu verschieben)",
+    "admin.vckickBotPermissionError": "Ich habe nicht die Berechtigung, Nutzer zu verschieben.",
     "admin.muteHelp": "Schaltet einen Benutzer stumm.",
     "admin.mutePermissionError": "Du hast keine Berechtigung diesen Benutzer stummzuschalten.",
     "admin.muteSetupError": "Ich habe keine Berechtigung, um die {{mutedRoleName}}-Rolle zu verwalten, bitte sieh' nach, ob ich über die korrekten Berechtigungen verfüge.",
