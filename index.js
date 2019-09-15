@@ -9,7 +9,7 @@ module.exports = {
   fr:       { name: 'Français', nameEn: 'French' },
   hu:       { name: 'Magyar', nameEn: 'Hungarian', unlisted: true },
   it:       { name: 'Italiano', nameEn: 'Italiano' },
-  nb_NO:    { name: 'Norsk bokmål', nameEn: 'Norwegian Bokmål', unlisted: true },
+  nb_NO:    { name: 'Norsk bokmål', nameEn: 'Norwegian Bokmål' },
   nl_BE:    { name: 'België Nederlands', nameEn: 'Belgium Dutch' },
   pt:       { name: 'Português', nameEn: 'Portuguese' },
   ro:       { name: 'Română', nameEn: 'Romanian' },
