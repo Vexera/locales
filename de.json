@@ -351,5 +351,11 @@
     "premium.statusTransferredFrom": "Dieser Benutzer hat sein Abonnement auf `{{tag}}` übertragen.",
     "premium.statusTransferredTo": "Dieser Benutzer ist der Begünstigte des Abonnements von `{{tag}}`.",
     "info.statsUptime": "Betriebszeit",
-    "info.healthUnknown": "Unbekannt"
+    "info.healthUnknown": "Unbekannt",
+    "admin.warnHelp": "Erstellt einen Warnungs-Verstoss.",
+    "premium.donatorsEmpty": "Keine Nachrichten gefunden!",
+    "premium.premiumHelp": "Zeigt Premium-Informationen.",
+    "premium.statusHelp": "Zeigt den Premium-Status an.",
+    "music.debugHelp": "Zeigt Musik-Debug Informationen.",
+    "meme.penisHelp": "Zeigt Deine kalkulierte Penis-Grösse."
 }
