@@ -90,7 +90,7 @@
     "admin.softbanBotPermissionError": "Não consegui banir o utilizador.",
     "admin.vckickHelp": "Expulsa um membro de um canal de voz",
     "admin.vckickPermissionError": "Você não tem permissão para expulsar este utilizador do canal de voz.",
-    "admin.vckickBotPermissionError": "Eu não tenho permissão para Gerenciar Canais (ou Mover Membros)",
+    "admin.vckickBotPermissionError": "Eu não tenho permissão para Mover Membros.",
     "admin.muteHelp": "Silencia um utilizador.",
     "admin.mutePermissionError": "Você não tem permissão para silenciar este utilizador.",
     "admin.muteSetupError": "Eu não tenho permissão para configurar o cargo {{mutedRoleName}}. Por favor, veja se eu tenho as permissões corretas.",
@@ -308,7 +308,7 @@
     "settings.logList": "Eventos do canal #{{channel}}",
     "settings.logCleared": "Limpei todos os eventos do canal `#{{channel}}`.",
     "settings.logExample1": "Envia uma mensagem quando um utilizador entra ou sai",
-    "settings.logExample2": "Posta infrações (bans, kicks) no #mod-log",
+    "settings.logExample2": "Posta infrações (bans, expulsões) no #mod-log",
     "modlog.line5": "**Emitido**: {{date}}",
     "admin.reasonHelp": "Define a razão de uma infração do registo de moderação.",
     "admin.warn": "Avisa um utilizador.",
@@ -351,5 +351,11 @@
     "info.healthUnknown": "Desconhecido",
     "premium.statusTransferredFrom": "Este utilizador transferiu a sua subscrição para `{{tag}}`.",
     "premium.statusTransferredTo": "Este utilizador está a beneficiar de uma transferência de subscrição de `{{tag}}`.",
-    "info.statsUptime": "Tempo de Atividade"
+    "info.statsUptime": "Tempo de Atividade",
+    "admin.warnHelp": "Cria uma infração de aviso.",
+    "premium.donatorsEmpty": "Sem mensagens para mostrar!",
+    "premium.premiumHelp": "Mostra informação premium.",
+    "premium.statusHelp": "Mostra o status premium.",
+    "music.debugHelp": "Mostra informação de música (debug).",
+    "meme.penisHelp": "Mostra o tamanho calculado do seu pénis."
 }

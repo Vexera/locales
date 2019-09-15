@@ -44,7 +44,7 @@
     "admin.softbanBotPermissionError": "Не удалось заблокировать пользователя.",
     "admin.vckickHelp": "Выгоняет участника из голосового канала",
     "admin.vckickPermissionError": "У вас нету прав выгнать этого пользователя из голосового чата.",
-    "admin.vckickBotPermissionError": "У меня нет прав на управление каналами (или перемещение участников)",
+    "admin.vckickBotPermissionError": "У меня нет прав на Перемещение Пользователей.",
     "admin.muteHelp": "Заглушить пользователя.",
     "admin.mutePermissionError": "У вас нет прав заглушить этого пользователя.",
     "admin.muteBotPermissionError": "Невозможно замутить пользователя.",
@@ -351,5 +351,11 @@
     "generic.invalidArgValue": "Неизвестное значение `{{value}}` для аргумента `{{arg}}`.",
     "info.healthUnknown": "Неизвестно",
     "premium.statusTransferredFrom": "Этот пользователь передал свою подписку `{{tag}}`.",
-    "premium.statusTransferredTo": "Этот пользователь получает возможности подписки от `{{tag}}`."
+    "premium.statusTransferredTo": "Этот пользователь получает возможности подписки от `{{tag}}`.",
+    "admin.warnHelp": "Создает предупреждение.",
+    "premium.donatorsEmpty": "Нету сообщений для показа!",
+    "premium.premiumHelp": "Показывает информацию о премиум подписке.",
+    "premium.statusHelp": "Показывает статус Премиум подписки.",
+    "music.debugHelp": "Показывает информацию о музыке для отладки.",
+    "meme.penisHelp": "Отображает ваш рассчитанный размер пениса."
 }
