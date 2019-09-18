@@ -117,7 +117,7 @@
     "admin.cleanExample2": "Cleans 100 messages",
     "admin.cleanExample3": "Cleans 100 messages from the user `luke`",
     "admin.cleanPermissionError": "I do not have permission to manage messages.",
-    "admin.cleanTooOldError": "Some messages weren't deleted because they were too old.",
+    "admin.cleanTooOldError": "Some messages weren't deleted because they are too old.",
     "admin.warnHelp": "Creates a warn infraction.",
     "settings.greetingHelp": "Sets a welcome message for the server.",
     "settings.greetingExample1": "Sends `Welcome @luke to <your server name>!` to #general when luke joins your server.",
