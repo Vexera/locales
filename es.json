@@ -345,5 +345,18 @@
     "misc.remindSuccess": "Ok, te lo recordaré a {{text}}.",
     "music.playerLag": "¿Experimentando el retraso? ¡Obtenga recursos dedicados con [Vexera Premium](https://vexera.io/premium)!",
     "premium.bassStatus": "El bajo está configurado actualmente a `{{bass}}`",
-    "premium.bassHelp": "Ajusta los bajos para la reproducción de música. Opciones válidas: none, weak, medium, strong, insane, wtf"
+    "premium.bassHelp": "Ajusta los bajos para la reproducción de música. Opciones válidas: none, weak, medium, strong, insane, wtf",
+    "settings.localeNotComplete": "🚨 La traducción en {{langname}} solo está completada en un {{percentage}}%.\n¿Te gustaría ayudar? Aprende cómo en <{{url}}>.",
+    "generic.invalidArgValue": "Valor `{{value}}` desconocido para el argumento `{{arg}}`.",
+    "admin.cleanTooOldError": "Algunos mensajes no fueron eliminados por ser muy viejos.",
+    "premium.donatorsEmpty": "¡No hay mensajes que mostrar!",
+    "premium.premiumHelp": "Muestra información acerca del premium.",
+    "premium.statusHelp": "Muestra las estadísticas del premium.",
+    "music.debugHelp": "Muestra información de depuración de la música.",
+    "meme.penisHelp": "Muestra el tamaño de tu pene.",
+    "premium.statusTransferredFrom": "Este usuario transfirió su suscripción a `{{tag}}`.",
+    "info.healthUnknown": "Desconocido",
+    "admin.warnHelp": "Crea una infracción de advertencia.",
+    "premium.statusTransferredTo": "Este usuario es el beneficiario de una transferencia de suscripción de `{{tag}}`.",
+    "info.statsUptime": "Tiempo de actividad"
 }
