@@ -357,5 +357,6 @@
     "premium.premiumHelp": "Mostra informação premium.",
     "premium.statusHelp": "Mostra o status premium.",
     "music.debugHelp": "Mostra informação de música (debug).",
-    "meme.penisHelp": "Mostra o tamanho calculado do seu pénis."
+    "meme.penisHelp": "Mostra o tamanho calculado do seu pénis.",
+    "admin.cleanTooOldError": "Algumas mensagens não foram eliminadas visto que são muito antigas."
 }
