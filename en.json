@@ -305,7 +305,7 @@
     "premium.transferSubscriptionExists": "The user already has a subscription!",
     "premium.transferActive": "You already have an active transfer!",
     "premium.transferTransferred": "Successfully transferred the subscription to **{{user}}**!",
-    "premium.transferDisable": "Succesfully disabled the transfer!",
+    "premium.transferDisable": "Successfully disabled the transfer!",
     "games.fortniteError": "Error collecting stats: {{error}}",
     "games.fortniteHelp": "Looks up a user on fortnite.",
     "music.viewWebsite": "View on vexera.io",
