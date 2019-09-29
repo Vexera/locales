@@ -271,7 +271,7 @@
     "premium.transferSubscriptionExists": "Der Nutzer besitzt bereits ein Abonnement!",
     "premium.transferActive": "Es läuft bereits eine aktive Transferierung!",
     "premium.transferTransferred": "Das Abonnement wurde erfolgreich zu **{{user}}** transferiert!",
-    "premium.transferDisable": "Die Transferierung wurde erfolgreich angehalten!",
+    "premium.transferDisable": "Der Transfer wurde erfolgreich deaktiviert!",
     "info.statsUsersVC": "Verbundene Benutzer",
     "misc.userinfoCreation1": "Benutzer beigetreten am • {{dateJoined}} | Benutzer erstellt am",
     "admin.banExample1": "Verbannt den Benutzer 'luke' für eine Woche und zwei Tage mit der Begründung 'Advertising'",
@@ -357,5 +357,7 @@
     "premium.premiumHelp": "Zeigt Premium-Informationen.",
     "premium.statusHelp": "Zeigt den Premium-Status an.",
     "music.debugHelp": "Zeigt Musik-Debug Informationen.",
-    "meme.penisHelp": "Zeigt Deine kalkulierte Penis-Grösse."
+    "meme.penisHelp": "Zeigt Deine kalkulierte Penis-Grösse.",
+    "admin.cleanTooOldError": "Einige Nachrichten wurden nicht gelöscht, da diese zu alt sind.",
+    "meme.memeHelp": "Sendet ein Meme im aktuellen Kanal."
 }
