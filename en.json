@@ -359,5 +359,11 @@
     "music.playerLag": "Experiencing lag? Get dedicated resources with [Vexera Premium](https://vexera.io/premium)!",
     "premium.bassStatus": "The bass is currently set to `{{bass}}`",
     "premium.bassHelp": "Adjusts the bass for the music playing. Valid options: none, weak, medium, strong, insane, wtf",
-    "meme.memeHelp": "Sends a meme into the channel."
+    "meme.memeHelp": "Sends a meme into the channel.",
+    "games.osuNotFound": "User not found.",
+    "games.osuRecentNotFound": "No recent plays found!",
+    "games.osuJoined": "Joined",
+    "games.osuGames": "Games played",
+    "games.osuPp": "Performance Points",
+    "games.osuAccuracy": "Accuracy"
 }
