@@ -360,6 +360,7 @@
     "premium.bassStatus": "The bass is currently set to `{{bass}}`",
     "premium.bassHelp": "Adjusts the bass for the music playing. Valid options: none, weak, medium, strong, insane, wtf",
     "meme.memeHelp": "Sends a meme into the channel.",
+    "games.osuHelp": "Shows osu! stats for a user.",
     "games.osuNotFound": "User not found.",
     "games.osuRecentNotFound": "No recent plays found!",
     "games.osuJoined": "Joined",
