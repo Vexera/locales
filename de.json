@@ -359,5 +359,13 @@
     "music.debugHelp": "Zeigt Musik-Debug Informationen.",
     "meme.penisHelp": "Zeigt Deine kalkulierte Penis-Grösse.",
     "admin.cleanTooOldError": "Einige Nachrichten wurden nicht gelöscht, da diese zu alt sind.",
-    "meme.memeHelp": "Sendet ein Meme im aktuellen Kanal."
+    "meme.memeHelp": "Sendet ein Meme im aktuellen Kanal.",
+    "games.osuHelp": "Zeigt Dir osu! Statistiken für einen Spieler.",
+    "games.osuNotFound": "Spieler nicht gefunden.",
+    "games.osuRecentNotFound": "Keine neuen Spiele gefunden!",
+    "games.osuJoined": "Beigetreten",
+    "games.osuGames": "Spiele gespielt",
+    "games.osuPp": "Leistungspunkte",
+    "games.osuAccuracy": "Genauigkeit",
+    "fun.uwuHelp": "uwu-fiziere einen Zeichenfolge"
 }

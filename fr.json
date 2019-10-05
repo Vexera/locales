@@ -359,5 +359,12 @@
     "music.debugHelp": "Affiche des informations de débogage sur la musique.",
     "meme.penisHelp": "Affiche la taille de ton penis.",
     "admin.cleanTooOldError": "Certains messages n'ont pas été supprimés car ils sont trop anciens.",
-    "meme.memeHelp": "Envoie un même dans le salon."
+    "meme.memeHelp": "Envoie un même dans le salon.",
+    "games.osuHelp": "Affiche les statistiques d'un utilisateur sur osu!.",
+    "games.osuNotFound": "L'utilisateur n'a pas été trouvé.",
+    "games.osuRecentNotFound": "Aucune partie récente trouvée !",
+    "games.osuJoined": "Inscrit",
+    "games.osuGames": "Parties jouées",
+    "games.osuPp": "Points de Performance",
+    "games.osuAccuracy": "Précision"
 }
