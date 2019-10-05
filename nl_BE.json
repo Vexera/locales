@@ -22,7 +22,7 @@
     "info.helpHelp": "Laat dit Command zien",
     "info.helpUsage": "Gebruik",
     "info.helpPermNode": "Machtigings knooppunten",
-    "info.helpDescription": "Ik ben een multi-functionele discord-bot die muziek, moderatie en andere leuke en nuttige dingen doet.\nDoe `{{prefix}}help <command>` voor uitgebreide informatie over een opdracht.\n\n** Op zoek naar ondersteuning? [Vexera.io/support](https://vexera.io/support)\nInvite: [vexera.io/invite](https://vexera.io/invite)**",
+    "info.helpDescription": "Ik ben een multi-functionele discord-bot die muziek, moderatie en andere leuke en nuttige dingen doet.\nDoe `{{prefix}}help <command>` voor uitgebreide informatie over een opdracht.\n\n** Op zoek naar ondersteuning? {{support_url}}\nInvite: {{invite_url}}**",
     "info.helpDM": "Controleer je Prive berichten voor een lijst met opdrachten!",
     "info.statsHelp": "Laat statistieken zien van de bot",
     "info.clusterinfoHelp": "Laat informatie over alle clusters zien",

@@ -20,7 +20,7 @@
     "info.helpHelp": "Zobrazuje tento příkaz",
     "info.helpUsage": "Použití",
     "info.helpPermNode": "Oprávnění",
-    "info.helpDescription": "Jsem víceúčelový bot který zvládne muziku, moderaci a další zábavné a užitečné věci.\nNapiš `{{prefix}}help <command>` pro více informací o příkazu.\n\n**Hledáš podporu? [vexera.io/support](https://vexera.io/support)\nPozvánka: [vexera.io/invite](https://vexera.io/invite)**",
+    "info.helpDescription": "Jsem víceúčelový bot který zvládne muziku, moderaci a další zábavné a užitečné věci.\nNapiš `{{prefix}}help <command>` pro více informací o příkazu.\n\n**Hledáš podporu? {{support_url}}\nPozvánka: {{invite_url}}**",
     "info.helpDM": "Zkontroluj své přímé zprávy pro seznam příkazů!",
     "info.statsUsersVC": "Připojení uživatelé",
     "info.statsHelp": "Zobrazuje informace o botovi",

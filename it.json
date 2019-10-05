@@ -43,7 +43,7 @@
     "premium.donatorsLimit": "Il limite è di 50 lettere",
     "info.helpHelp": "Mostra questo comando",
     "info.helpPermNode": "Permesso",
-    "info.helpDescription": "Sono un bot Discord multiuso che fornisce musica, moderazione e altre cose utili e divertenti.\nDigita `{{prefix}}help <comando>` per maggiori informazioni su un comando specifico.\n\n**Hai bisogno di aiuto? [vexera.io/support](https://vexera.io/support)\nInvito: [vexera.io/invite](https://vexera.io/invite)**",
+    "info.helpDescription": "Sono un bot Discord multiuso che fornisce musica, moderazione e altre cose utili e divertenti.\nDigita `{{prefix}}help <comando>` per maggiori informazioni su un comando specifico.\n\n**Hai bisogno di aiuto? {{support_url}}\nInvito: {{invite_url}}**",
     "info.helpDM": "Controlla i tuoi messaggi privati per la lista dei comandi !",
     "info.statsUsersVC": "Utenti connessi",
     "info.statsHelp": "Mostra le statistiche del bot",

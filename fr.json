@@ -164,7 +164,7 @@
     "info.healthTitle": "État des shards",
     "info.healthDown": "Hors service",
     "info.helpPermNode": "Nœud de permission",
-    "info.helpDescription": "Je suis un bot polyvalent qui peut faire de la musique, de la modération, et d'autres choses utiles et amusantes.\nFaites `{{prefix}}help <commande>` pour obtenir des informations précises sur une commande.\n\n**À la recherche de support ? [vexera.io/support](https://vexera.io/support)\nInvitation : [vexera.io/invite](https://vexera.io/invite)**",
+    "info.helpDescription": "Je suis un bot polyvalent qui peut faire de la musique, de la modération, et d'autres choses utiles et amusantes.\nFaites `{{prefix}}help <commande>` pour obtenir des informations précises sur une commande.\n\n**À la recherche de support ? {{support_url}}\nInvitation : {{invite_url}}**",
     "info.clusterinfoHelp": "Affiche des informations à propos de tous les clusters",
     "perms.permsRemoveError": "Cette permission n'a pas été ajoutée, elle ne peut donc pas être retirée.",
     "perms.permsHelp": "Assigne des permissions à un rôle. Pour une liste des permissions, voyez {{prefix}}perms node\nPermissions gérées par SexyPEX",

@@ -33,7 +33,7 @@
     "info.healthUnknown": "Ukjent",
     "info.helpHelp": "Viser denne kommandoen",
     "info.helpUsage": "Bruk",
-    "info.helpDescription": "Jeg er en flerformåls Discord bot som har musikk, moderering, og andre gøye og nyttige ting.\nSkriv `{{prefix}}help <kommando>` for mer informasjon om en kommando.\n\n**Trenger du hjelp?** [vexera.io/support](https://vexera.io/support)\n**Invitasjon** [vexeria.io/invite](https://vexera.io/invite)",
+    "info.helpDescription": "Jeg er en flerformåls Discord bot som har musikk, moderering, og andre gøye og nyttige ting.\nSkriv `{{prefix}}help <kommando>` for mer informasjon om en kommando.\n\n**Trenger du hjelp?** {{support_url}}\n**Invitasjon** [vexeria.io/invite](https://vexera.io/invite)",
     "info.helpDM": "Sjekk dine direktemeldinger for å se en liste av kommandoer!",
     "info.statsUsersVC": "Tilkoblede brukere",
     "info.statsHelp": "Viser statistikk om boten",

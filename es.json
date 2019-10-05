@@ -19,7 +19,7 @@
     "info.helpHelp": "Muestra este comando",
     "info.helpUsage": "Uso",
     "info.helpPermNode": "Nodo de Permiso",
-    "info.helpDescription": "Soy un bot de Discord multipropósito con comandos de música, moderación y otras cosas útiles y divertidas.\nUsa `{{prefix}}help <comando>` para obtener información extendida de un comando.\n\n**¿Buscas ayuda? [vexera.io/support](https://vexera.io/support)\nInvitación: [vexera.io/invite](https://vexera.io/invite)**",
+    "info.helpDescription": "Soy un bot de Discord multipropósito con comandos de música, moderación y otras cosas útiles y divertidas.\nUsa `{{prefix}}help <comando>` para obtener información extendida de un comando.\n\n**¿Buscas ayuda? {{support_url}}\nInvitación: {{invite_url}}**",
     "info.helpDM": "¡Revisa tus mensajes directos para ver una lista de comandos!",
     "info.statsUsersVC": "Usuarios conectados",
     "info.statsHelp": "Muestra estadísticas acerca del bot",

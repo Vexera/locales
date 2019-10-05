@@ -18,7 +18,7 @@
     "info.helpHelp": "Megmutatja ezt a parancsot",
     "info.helpUsage": "Használat",
     "info.helpPermNode": "Jogcsoport",
-    "info.helpDescription": "Egy többfunkciós bot vagyok zenével, moderációval és még néhány egyéb vicces és hasznos funkcióval. Használd a `{{prefix}}help <parancs>`-ot, hogy bővebb információt találhass egy parancsomról.\n\n**Segítségre van szükséged? [vexera.io/support](https://vexera.io/support)\nBot meghívása: [vexera.io/invite](https://vexera.io/invite)**",
+    "info.helpDescription": "Egy többfunkciós bot vagyok zenével, moderációval és még néhány egyéb vicces és hasznos funkcióval. Használd a `{{prefix}}help <parancs>`-ot, hogy bővebb információt találhass egy parancsomról.\n\n**Segítségre van szükséged? {{support_url}}\nBot meghívása: {{invite_url}}**",
     "info.helpDM": "Hesszeld a privát üzeneteid közt a parancsok listáját!",
     "info.statsUsersVC": "Csatlakoztatott felhasználók",
     "info.statsHelp": "Infó a botról",

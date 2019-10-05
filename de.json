@@ -19,7 +19,7 @@
     "info.healthStarting": "Startend",
     "info.helpHelp": "Zeigt diesen Befehl",
     "info.helpUsage": "Verwendung",
-    "info.helpDescription": "Ich bin ein Bot, welcher mehrere Funktionen ausführen kann, darunter Musik-, Moderations-, Autorole- und andere nutzvolle und spassige Befehle.\nMach' einfach `{{prefix}}help <Befehl>`, um erweiterte Informationen zu einem bestimmten Befehl zu erhalten.\n\n**Du brauchst Hilfe? [vexera.io/support](https://vexera.io/support)\nAuf deinen Server einladen: [vexera.io/invite](https://vexera.io/invite)**",
+    "info.helpDescription": "Ich bin ein Bot, welcher mehrere Funktionen ausführen kann, darunter Musik-, Moderations-, Autorole- und andere nutzvolle und spassige Befehle.\nMach' einfach `{{prefix}}help <Befehl>`, um erweiterte Informationen zu einem bestimmten Befehl zu erhalten.\n\n**Du brauchst Hilfe? {{support_url}}\nAuf deinen Server einladen: {{invite_url}}**",
     "info.helpDM": "Sieh' in deinen Privatnachrichten für eine Liste von Befehlen nach!",
     "info.statsHelp": "Zeigt die Statistiken des Bots",
     "info.clusterinfoHelp": "Zeigt Informationen über alle Cluster an",
