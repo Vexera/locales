@@ -360,11 +360,13 @@
     "meme.penisHelp": "Отображает ваш рассчитанный размер пениса.",
     "admin.cleanTooOldError": "Некоторые сообщения не были удалены потому что  они слишком старые.",
     "meme.memeHelp": "Отправляет мем в канал.",
-    "games.osuHelp": "Показывает статистику пользователя в osu!",
+    "games.osuHelp": "Показывает статистику osu! для игрока.",
     "games.osuNotFound": "Пользователь не найден.",
     "games.osuRecentNotFound": "Не найдено недавних игр!",
     "games.osuJoined": "Зашел",
     "games.osuGames": "Сыграно игр",
     "games.osuPp": "Очки производительности",
-    "games.osuAccuracy": "Аккуратность"
+    "games.osuAccuracy": "Точность",
+    "info.helpCheckoutPremium": "Подробнее на {{url}}",
+    "fun.uwuHelp": "за-UwU-фить ствочку"
 }

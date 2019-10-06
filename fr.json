@@ -366,5 +366,7 @@
     "games.osuJoined": "Inscrit",
     "games.osuGames": "Parties jouées",
     "games.osuPp": "Points de Performance",
-    "games.osuAccuracy": "Précision"
+    "games.osuAccuracy": "Précision",
+    "info.helpCheckoutPremium": "Découvrez Vexera Premium sur {{url}}",
+    "fun.uwuHelp": "uwu-fie unye phwase"
 }

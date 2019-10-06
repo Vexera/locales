@@ -359,5 +359,14 @@
     "music.debugHelp": "Показує інформацію про музику для відладки.",
     "meme.penisHelp": "Відображає ваш розрахований розмір пеніса.",
     "admin.cleanTooOldError": "Деякі повідомлення не були видалені тому що вони занадто старі.",
-    "meme.memeHelp": "Відправляє мем в цей канал."
+    "meme.memeHelp": "Відправляє мем в цей канал.",
+    "info.helpCheckoutPremium": "Подробиці на {{url}}",
+    "games.osuHelp": "Показує статистику osu! для гравця.",
+    "games.osuNotFound": "Користувач не знайдений.",
+    "games.osuRecentNotFound": "Недавніх ігор не знайдено!",
+    "games.osuJoined": "Приєднався",
+    "games.osuGames": "Зіграно ігор",
+    "games.osuPp": "Бали продуктивності",
+    "games.osuAccuracy": "Точність",
+    "fun.uwuHelp": "UwU-фікувати рядок"
 }
