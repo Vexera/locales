@@ -358,5 +358,15 @@
     "info.healthUnknown": "Desconocido",
     "admin.warnHelp": "Crea una infracción de advertencia.",
     "premium.statusTransferredTo": "Este usuario es el beneficiario de una transferencia de suscripción de `{{tag}}`.",
-    "info.statsUptime": "Tiempo de actividad"
+    "info.statsUptime": "Tiempo de actividad",
+    "info.helpCheckoutPremium": "Mira premium en {{url}}",
+    "meme.memeHelp": "Envía un meme al canal.",
+    "games.osuHelp": "Muestra las estadísticas de osu! de un jugador.",
+    "games.osuNotFound": "Usuario no encontrado.",
+    "games.osuRecentNotFound": "Partidas recientes no encontradas.",
+    "games.osuJoined": "Se unió",
+    "games.osuGames": "Partidas jugadas",
+    "games.osuPp": "Puntos de Performance",
+    "games.osuAccuracy": "Precisión",
+    "fun.uwuHelp": "uwu-fica una fwase"
 }
