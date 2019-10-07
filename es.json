@@ -345,7 +345,7 @@
     "misc.remindSuccess": "Ok, te lo recordaré a {{text}}.",
     "music.playerLag": "¿Experimentando el retraso? ¡Obtenga recursos dedicados con [Vexera Premium](https://vexera.io/premium)!",
     "premium.bassStatus": "El bajo está configurado actualmente a `{{bass}}`",
-    "premium.bassHelp": "Ajusta los bajos para la reproducción de música. Opciones válidas: none, weak, medium, strong, insane, wtf",
+    "premium.bassHelp": "Ajusta los bajos para la reproducción de música.\nOpciones válidas: `none`, `weak`, `medium`, `strong`, `insane`, `wtf`.",
     "settings.localeNotComplete": "🚨 La traducción en {{langname}} solo está completada en un {{percentage}}%.\n¿Te gustaría ayudar? Aprende cómo en <{{url}}>.",
     "generic.invalidArgValue": "Valor `{{value}}` desconocido para el argumento `{{arg}}`.",
     "admin.cleanTooOldError": "Algunos mensajes no fueron eliminados por ser muy viejos.",

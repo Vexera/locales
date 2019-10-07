@@ -345,7 +345,7 @@
     "music.premiumSpotifyAlternative": "Alternativ gibt es Webseiten, die [Spotify Playlists in Youtube Playlists](https://bfnt.io/spotify-converter) umwandeln können. Du kannst solche Webseiten benutzen, wenn du weiterhin kostenlos Vexera verwenden möchtest.",
     "music.premiumSpotifyProcessing": "Verarbeite Spotify Playlist... Dies kann einen Moment dauern.",
     "premium.bassStatus": "Der Bass ist momentan auf `{{bass}}` eingestellt",
-    "premium.bassHelp": "Stellt den Bass für die Musikwiedergabe ein. Gültige Optionen: none, weak, medium, strong, insane, wtf",
+    "premium.bassHelp": "Stellt den Bass für die Musikwiedergabe ein.\nGültige Optionen: `none`, `weak`, `medium`, `strong`, `insane`, `wtf`.",
     "settings.localeNotComplete": "🚨 Die Übersetzung auf {{langname}} ist nur zu {{percentage}}% fertiggestellt.\nMöchtest Du helfen? Lerne mehr unter <{{url}}>.",
     "generic.invalidArgValue": "Unbekannter Wert {{value}} für das Argument {{arg}}.",
     "premium.statusTransferredFrom": "Dieser Benutzer hat sein Abonnement auf `{{tag}}` übertragen.",

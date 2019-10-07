@@ -359,7 +359,7 @@
     "misc.remindSuccess": "Ok, I'll remind you to {{text}}.",
     "music.playerLag": "Experiencing lag? Get dedicated resources with [Vexera Premium](https://vexera.io/premium)!",
     "premium.bassStatus": "The bass is currently set to `{{bass}}`",
-    "premium.bassHelp": "Adjusts the bass for the music playing. Valid options: none, weak, medium, strong, insane, wtf",
+    "premium.bassHelp": "Adjusts the bass for the music playing.\nValid options: `none`, `weak`, `medium`, `strong`, `insane`, `wtf`.",
     "meme.memeHelp": "Sends a meme into the channel.",
     "games.osuHelp": "Shows osu! stats for a user.\nValid options are: `best`, `recent` and `user`.\nValid modes are: `standard`, `taiko`, `ctb` and `mania`.",
     "games.osuNotFound": "User not found.",

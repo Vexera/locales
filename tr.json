@@ -344,7 +344,7 @@
     "settings.rowboatNoURL": "URL belirtilmedi!",
     "settings.rowboatError": "İhlaller alınırken hata.",
     "admin.reasonHelp": "Mod günlüğü ihlali için bir neden belirler.",
-    "premium.bassHelp": "Çalınan müzik için bass seviyesini ayarlar. Seviyeler: none, weak, medium, strong, insane, wtf",
+    "premium.bassHelp": "Çalınan müzik için bass seviyesini ayarlar.\nSeviyeler: `none`, `weak`, `medium`, `strong`, `insane`, `wtf`.",
     "premium.bassStatus": "Bass seviyesi şu anda `{{bass}}`",
     "settings.localeNotComplete": "🚨 {{langname}} çevirisi {{percentage}} % tamamlanmış.\nDil çevirisine yardım mı etmek istiyorsun, daha fazlası için tıkla <{{url}}>.",
     "generic.invalidArgValue": "{{arg}} argümanı için bilinmeyen değer {{value}}.",

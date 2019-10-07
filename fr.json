@@ -345,7 +345,7 @@
     "music.premiumSpotifyAlternative": "Alternativement, il y a des sites web qui peuvent [convertir des playlists Spotify en playlists YouTube](https://bfnt.io/spotify-converter) que vous pouvez visiter si vous voulez rester en gratuit.",
     "music.premiumSpotifyProcessing": "Traitement de la playlist Spotify… cela peut prendre un peu de temps.",
     "premium.bassStatus": "La basse est actuellement réglée sur `{{bass}}`",
-    "premium.bassHelp": "Ajuste les basses pour la musique en cours de lecture. Options valides: none, weak, medium, strong, insane, wtf",
+    "premium.bassHelp": "Ajuste les basses pour la musique en cours de lecture.\nOptions valides: `none`, `weak`, `medium`, `strong`, `insane`, `wtf`.",
     "settings.localeNotComplete": "🚨 La traduction en {{langname}} est terminée à seulement {{percentage}}%.\nEnvie d'aider ? En savoir plus sur <{{url}}>.",
     "info.statsUptime": "Temps de fonctionnement",
     "generic.invalidArgValue": "Valeur `{{value}}` inconnue pour l'argument `{{arg}}`.",
