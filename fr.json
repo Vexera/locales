@@ -356,8 +356,6 @@
     "premium.donatorsEmpty": "Pas de message à montrer !",
     "premium.premiumHelp": "Affiche une information à propos de Vexera Premium.",
     "premium.statusHelp": "Affiche le statut de l’abonnement premium.",
-    "music.debugHelp": "Affiche des informations de débogage sur la musique.",
-    "meme.penisHelp": "Affiche la taille de ton penis.",
     "admin.cleanTooOldError": "Certains messages n'ont pas été supprimés car ils sont trop anciens.",
     "meme.memeHelp": "Envoie un même dans le salon.",
     "games.osuHelp": "Affiche les statistiques d'un utilisateur sur osu!.",

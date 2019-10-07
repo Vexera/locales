@@ -352,8 +352,6 @@
     "premium.donatorsEmpty": "¡No hay mensajes que mostrar!",
     "premium.premiumHelp": "Muestra información acerca del premium.",
     "premium.statusHelp": "Muestra las estadísticas del premium.",
-    "music.debugHelp": "Muestra información de depuración de la música.",
-    "meme.penisHelp": "Muestra el tamaño de tu pene.",
     "premium.statusTransferredFrom": "Este usuario transfirió su suscripción a `{{tag}}`.",
     "info.healthUnknown": "Desconocido",
     "admin.warnHelp": "Crea una infracción de advertencia.",
