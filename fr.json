@@ -87,7 +87,7 @@
     "settings.localeTitle": "Langues",
     "settings.localeCurrent": "Langue actuelle : {{locale}}",
     "settings.localeSet": "Langue correctement définie.",
-    "settings.userlocaleHelp": "Définit une langue pour l'utilisateur. Voir `{{prefix}}userlocale list` pour la liste des langues disponibles.",
+    "settings.userlocaleHelp": "Définit une langue pour l'utilisateur. Voir `{{prefix}}userlocale list` pour la liste des langues disponibles.\nUtilisez `{{prefix}}userlocale disable` pour utiliser la langue du serveur.",
     "settings.userlocaleTitle": "Langues",
     "settings.userlocaleCurrent": "Langue actuelle : {{locale}}",
     "settings.userlocaleSet": "Langue correctement définie pour l'utilisateur.",
@@ -354,7 +354,7 @@
     "premium.statusHelp": "Affiche le statut de l’abonnement premium.",
     "admin.cleanTooOldError": "Certains messages n'ont pas été supprimés car ils sont trop anciens.",
     "meme.memeHelp": "Envoie un même dans le salon.",
-    "games.osuHelp": "Affiche les statistiques d'un utilisateur sur osu!.",
+    "games.osuHelp": "Affiche les statistiques d'un utilisateur sur osu!.\nLes options valides sont : `best`, `recent` et `user`.\nLes modes valides sont : `standard`, `taiko`, `ctb` et `mania`.",
     "games.osuNotFound": "L'utilisateur n'a pas été trouvé.",
     "games.osuRecentNotFound": "Aucune partie récente trouvée !",
     "games.osuJoined": "Inscrit",
@@ -362,5 +362,7 @@
     "games.osuPp": "Points de Performance",
     "games.osuAccuracy": "Précision",
     "info.helpCheckoutPremium": "Découvrez Vexera Premium sur {{url}}",
-    "fun.uwuHelp": "uwu-fie unye phwase"
+    "fun.uwuHelp": "uwu-fie unye phwase",
+    "settings.localeExample1": "Définit la langue sur français.",
+    "settings.userlocaleExample1": "Désactive votre langue personnelle, et utilise à la place la langue du serveur."
 }

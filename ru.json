@@ -81,7 +81,7 @@
     "settings.localeTitle": "Локализации",
     "settings.localeCurrent": "Текущий язык: {{locale}}",
     "settings.localeSet": "Локализация успешно установлена.",
-    "settings.userlocaleHelp": "Устанавливает локализацию для пользователя. Напишите `{{prefix}}userlocale list` для списка локализаций.",
+    "settings.userlocaleHelp": "Устанавливает локализацию для пользователя. Напишите `{{prefix}}userlocale list` для списка локализаций.\nВведите `{{prefix}}userlocale disable` что бы использовать язык сервера.",
     "settings.userlocaleTitle": "Локализации",
     "settings.userlocaleCurrent": "Текущий язык: {{locale}}",
     "settings.userlocaleSet": "Локализация для пользователя успешно установлена.",
@@ -354,7 +354,7 @@
     "premium.statusHelp": "Показывает статус Премиум подписки.",
     "admin.cleanTooOldError": "Некоторые сообщения не были удалены потому что  они слишком старые.",
     "meme.memeHelp": "Отправляет мем в канал.",
-    "games.osuHelp": "Показывает статистику osu! для игрока.",
+    "games.osuHelp": "Показывает статистику osu! для игрока.\nВозможные опции: `best`, `recent` and `user`.\nВозможные режимы: `standard`, `taiko`, `ctb` и `mania`.",
     "games.osuNotFound": "Пользователь не найден.",
     "games.osuRecentNotFound": "Не найдено недавних игр!",
     "games.osuJoined": "Зашел",
@@ -362,5 +362,7 @@
     "games.osuPp": "Очки производительности",
     "games.osuAccuracy": "Точность",
     "info.helpCheckoutPremium": "Подробнее на {{url}}",
-    "fun.uwuHelp": "за-UwU-фить ствочку"
+    "fun.uwuHelp": "за-UwU-фить ствочку",
+    "settings.localeExample1": "Устанавливает французскую локализацию.",
+    "settings.userlocaleExample1": "Отключает вашу персональную локализацию и использует язык сервера вместо неё."
 }

@@ -85,7 +85,7 @@
     "settings.localeTitle": "Sprachen",
     "settings.localeCurrent": "Aktuelle Sprache: {{locale}}",
     "settings.localeSet": "Die Sprache wurde erfolgreich gesetzt.",
-    "settings.userlocaleHelp": "Setzt die Sprache für einen Benutzer. Siehe `{{prefix}}userlocale list` für eine Liste aller verfügbaren Sprachen.",
+    "settings.userlocaleHelp": "Setzt die Sprache für einen Benutzer. Siehe `{{prefix}}userlocale list` für eine Liste aller verfügbaren Sprachen.\nBenutze `{{prefix}}userlocale disable`, um die Sprache des Servers zu benutzen.",
     "settings.userlocaleTitle": "Sprachen",
     "settings.userlocaleCurrent": "Aktuelle Sprache: {{locale}}",
     "settings.userlocaleSet": "Die Benutzer-Sprache wurde erfolgreich gesetzt.",
@@ -354,12 +354,15 @@
     "premium.statusHelp": "Zeigt den Premium-Status an.",
     "admin.cleanTooOldError": "Einige Nachrichten wurden nicht gelöscht, da diese zu alt sind.",
     "meme.memeHelp": "Sendet ein Meme im aktuellen Kanal.",
-    "games.osuHelp": "Zeigt Dir osu! Statistiken für einen Spieler.",
+    "games.osuHelp": "Zeigt Dir osu! Statistiken für einen Spieler.\nOptionen: `best`, `recent` und `user`.\nModi: `standard`, `taiko`, `ctb` und `mania`.",
     "games.osuNotFound": "Spieler nicht gefunden.",
     "games.osuRecentNotFound": "Keine neuen Spiele gefunden!",
     "games.osuJoined": "Beigetreten",
     "games.osuGames": "Spiele gespielt",
     "games.osuPp": "Leistungspunkte",
     "games.osuAccuracy": "Genauigkeit",
-    "fun.uwuHelp": "uwu-fiziere einen Zeichenfolge"
+    "fun.uwuHelp": "uwu-fiziere einen Zeichenfolge",
+    "info.helpCheckoutPremium": "Schau Dir mehr zu Premium an unter {{url}}",
+    "settings.localeExample1": "Setzt die Sprache auf Französisch.",
+    "settings.userlocaleExample1": "Deaktiviert Deine gesetzte Sprache, und benutzt die Serversprache stattdessen."
 }

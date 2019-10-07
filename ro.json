@@ -125,5 +125,8 @@
     "settings.channeltoggleDisabled": "Comenzile dezactivate din acest canal.",
     "settings.accessroleHelp": "Setează un rol pentru a folosi botul. Folosește `{{prefix}}accessrole disable` pentru a dezactiva această funcție",
     "settings.accessroleDisabled": "Rolul de acces s-a dezactivat cu succes.",
-    "settings.accessroleSet": "Rolul de acces a fost setat cu succes."
+    "settings.accessroleSet": "Rolul de acces a fost setat cu succes.",
+    "music.playerDuration": "Durată",
+    "music.playerRequested": "Cerută de",
+    "music.playSearchResult": "Rezultatul Căutării"
 }

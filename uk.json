@@ -130,7 +130,7 @@
     "settings.localeTitle": "Локалізації",
     "settings.localeCurrent": "Поточна мова: {{locale}}",
     "settings.localeSet": "Локалізація успішно встановлена.",
-    "settings.userlocaleHelp": "Встановлює локалізацію для користувача. Введіть `{{prefix}}userlocale list`для списку локалізацій.",
+    "settings.userlocaleHelp": "Встановлює локалізацію для користувача. Введіть `{{prefix}}userlocale list`для списку локалізацій.\nНапишіть `{{prefix}}userlocale disable` щоб використати мову сервера.",
     "settings.userlocaleTitle": "Локалізації",
     "settings.userlocaleCurrent": "Поточна локалізація: {{locale}}",
     "settings.userlocaleSet": "Локалізація для користувача успішно встановлена.",
@@ -355,12 +355,14 @@
     "admin.cleanTooOldError": "Деякі повідомлення не були видалені тому що вони занадто старі.",
     "meme.memeHelp": "Відправляє мем в цей канал.",
     "info.helpCheckoutPremium": "Подробиці на {{url}}",
-    "games.osuHelp": "Показує статистику osu! для гравця.",
+    "games.osuHelp": "Показує статистику osu! для гравця.\nМожливі опції: `best`, `recent` and `user`.\nМожливі режими: `standard`, `taiko`, `ctb` та `mania`.",
     "games.osuNotFound": "Користувач не знайдений.",
     "games.osuRecentNotFound": "Недавніх ігор не знайдено!",
     "games.osuJoined": "Приєднався",
     "games.osuGames": "Зіграно ігор",
     "games.osuPp": "Бали продуктивності",
     "games.osuAccuracy": "Точність",
-    "fun.uwuHelp": "UwU-фікувати рядок"
+    "fun.uwuHelp": "UwU-фікувати рядок",
+    "settings.localeExample1": "Встановлює французську локалізацію.",
+    "settings.userlocaleExample1": "Виключає вашу персональну локалізацію та переключає на мову сервера."
 }
