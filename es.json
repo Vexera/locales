@@ -119,7 +119,7 @@
     "settings.localeTitle": "Idiomas",
     "settings.localeCurrent": "Idioma actual: {{locale}}",
     "settings.localeSet": "Idioma establecido con éxito.",
-    "settings.userlocaleHelp": "Establece el idioma para el usuario. Usa `{{prefix}}userlocale list` para ver la lista de idiomas.",
+    "settings.userlocaleHelp": "Establece el idioma para el usuario. Usa `{{prefix}}userlocale list` para ver la lista de idiomas.\nUsa `{{prefix}}userlocale disable` para usar el idioma del servidor.",
     "settings.userlocaleTitle": "Idiomas",
     "settings.userlocaleCurrent": "Idioma actual: {{locale}}",
     "settings.userlocaleSet": "Idioma para usuarios establecido con éxito.",
@@ -355,12 +355,14 @@
     "info.statsUptime": "Tiempo de actividad",
     "info.helpCheckoutPremium": "Mira premium en {{url}}",
     "meme.memeHelp": "Envía un meme al canal.",
-    "games.osuHelp": "Muestra las estadísticas de osu! de un jugador.",
+    "games.osuHelp": "Muestra las estadísticas de osu! de un jugador.\nLas opciones válidas son: `best` (mejores jugadas), `recent` (partidas recientes) y `user` (usuario).\nLos modos válidos son: `standard`, `taiko`, `ctb` y `mania`.",
     "games.osuNotFound": "Usuario no encontrado.",
     "games.osuRecentNotFound": "Partidas recientes no encontradas.",
     "games.osuJoined": "Se unió",
     "games.osuGames": "Partidas jugadas",
     "games.osuPp": "Puntos de Performance",
     "games.osuAccuracy": "Precisión",
-    "fun.uwuHelp": "uwu-fica una fwase"
+    "fun.uwuHelp": "uwu-fica una fwase",
+    "settings.localeExample1": "Establece el idioma a francés.",
+    "settings.userlocaleExample1": "Desactiva tu idioma personal y usa el idioma del servidor en su lugar."
 }
