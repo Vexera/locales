@@ -354,7 +354,7 @@
     "premium.statusHelp": "Zeigt den Premium-Status an.",
     "admin.cleanTooOldError": "Einige Nachrichten wurden nicht gelöscht, da diese zu alt sind.",
     "meme.memeHelp": "Sendet ein Meme im aktuellen Kanal.",
-    "games.osuHelp": "Zeigt Dir osu! Statistiken für einen Spieler.\nOptionen: `best`, `recent` und `user`.\nModi: `standard`, `taiko`, `ctb` und `mania`.",
+    "games.osuHelp": "Zeigt Dir osu! Statistiken für einen Spieler.\nOptionen: `best` (Beste), `recent` (Zuletzt) und `user` (Benutzer).\nModi: `standard` (Standard), `taiko`, `ctb` und `mania`.",
     "games.osuNotFound": "Spieler nicht gefunden.",
     "games.osuRecentNotFound": "Keine neuen Spiele gefunden!",
     "games.osuJoined": "Beigetreten",
