@@ -206,7 +206,7 @@
     "image.catHelp": "Laat een schattige kat zien!",
     "image.dogHelp": "Laat een schattige hond zien!",
     "image.dogeHelp": "Laat een schattige doge zien!",
-    "image.poweredBy": "Mogelijk gemaakt door {{url}}",
+    "generic.poweredBy": "Mogelijk gemaakt door {{url}}",
     "image.weebHelp": "Toont enkele weeb-afbeeldingen. Zie `{{prefix}}weeb-types` voor een lijst met soorten.",
     "image.weebTypes": "Geldige soorten: {{types}}",
     "image.weebError": "Plaatje niet gevonden!",

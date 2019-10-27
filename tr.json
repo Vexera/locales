@@ -115,7 +115,7 @@
     "image.catHelp": "Tatlı bir kedi gösterir!",
     "image.dogHelp": "Tatlı bir köpek gösterir!",
     "image.dogeHelp": "Tatlı bir köpek yavrusu gösterir!",
-    "image.poweredBy": "{{url}} Tarafından desteklenmektedir",
+    "generic.poweredBy": "{{url}} Tarafından desteklenmektedir",
     "image.weebHelp": "Weeb görüntüleri gösterir. Türlerin listesini görmek için `{{prefix}}weeb types` yazın.",
     "image.weebTypes": "Geçerli türler: {{types}}",
     "image.weebError": "Görüntü bulunamadı!",

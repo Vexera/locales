@@ -163,7 +163,7 @@
     "image.catHelp": "Mostra um gato fofo!",
     "image.dogHelp": "Mostra um cão fofo!",
     "image.dogeHelp": "Mostra um doge fofo!",
-    "image.poweredBy": "Distribuído por {{url}}",
+    "generic.poweredBy": "Distribuído por {{url}}",
     "image.weebHelp": "Mostra umas imagens weeb. Veja `{{prefix}}weeb types` para uma lista de tipos.",
     "image.weebTypes": "Tipos válidos: {{types}}",
     "image.weebError": "Imagem não encontrada!",

@@ -155,7 +155,7 @@
     "image.catHelp": "Показує милого кота!",
     "image.dogHelp": "Показує милу собаку!",
     "image.dogeHelp": "Показує милу Doge!",
-    "image.poweredBy": "Джерело: {{url}}",
+    "generic.poweredBy": "Джерело: {{url}}",
     "image.weebHelp": "Відправляє weeb-картинки. Для списку типів див. `{{prefix}}weeb types`.",
     "image.weebTypes": "Дійсні типи: {{types}}",
     "image.weebError": "Зображення не знайдено!",

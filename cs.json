@@ -154,7 +154,7 @@
     "image.catHelp": "Zobrazí roztomilou kočičku!",
     "image.dogHelp": "Zobrazí roztomilého pejska!",
     "image.dogeHelp": "Zobrazí roztomilou dogu!",
-    "image.poweredBy": "Poháněno {{url}}",
+    "generic.poweredBy": "Poháněno {{url}}",
     "image.weebHelp": "Ukáže nějaké weeb obrázky. Pro seznam typů viz. `{{prefix}}weeb types`.",
     "image.weebTypes": "Platné typy: {{types}}",
     "image.weebError": "Obrázek nenalezen!",

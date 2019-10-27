@@ -161,7 +161,7 @@
     "image.catHelp": "shows📺 a🅰️🅰️ cute 🙀cat 🙀!",
     "image.dogHelp": "shows📺 a🅰️🅰️ cute dog🐕!",
     "image.dogeHelp": "📺shows📺 🅰️a🅰️ cute doge🐕!",
-    "image.poweredBy": "🔌powered🔌 by {{url}}",
+    "generic.poweredBy": "🔌powered🔌 by {{url}}",
     "image.weebHelp": "shows📺📺 some weeb images. see🙈🙈 `{{prefix}}weeb types` for a 🅰️ list of types.",
     "image.weebTypes": "valid types: {{types}}",
     "image.weebError": "image not found🔎!",

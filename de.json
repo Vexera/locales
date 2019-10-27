@@ -206,7 +206,7 @@
     "image.catHelp": "Zeigt eine süße Katze!",
     "image.dogHelp": "Zeigt einen süßen Hund!",
     "image.dogeHelp": "Zeigt eine süße Doge!",
-    "image.poweredBy": "Bereitgestellt von {{url}}",
+    "generic.poweredBy": "Bereitgestellt von {{url}}",
     "image.weebHelp": "Zeigt ein paar Weeb-Bilder. Siehe `{{prefix}}weeb types` für eine Liste von Typen.",
     "image.weebTypes": "Geltende Typen: {{types}}",
     "image.weebError": "Bild nicht gefunden!",

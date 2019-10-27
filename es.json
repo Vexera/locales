@@ -325,7 +325,7 @@
     "misc.serverinfoID": "ID",
     "misc.userinfoID": "ID",
     "misc.userinfoCreation": "Usuario creado en",
-    "image.poweredBy": "Generado por {{url}}",
+    "generic.poweredBy": "Generado por {{url}}",
     "music.queryNotFound": "No se han encontrado resultados.",
     "music.premiumSpotifyError": "¡Solo los suscriptores de Vexera Premium pueden cargar listas de reproducción de Spotify! Para obtener más información, consulte <https://vexera.io/premium>.",
     "music.premiumSpotifyAlternative": "Alternativamente, hay sitios web que pueden [convertir las listas de reproducción de Spotify en listas de reproducción de Youtube](https://bfnt.io/spotify-converter) que puede visitar si desea mantenerse en libertad.",

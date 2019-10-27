@@ -196,7 +196,7 @@
     "image.catHelp": "Montre un chat tout mignon !",
     "image.dogHelp": "Montre un chien tout mignon !",
     "image.dogeHelp": "Montre un doge tout mignon !",
-    "image.poweredBy": "Propulsé par {{url}}",
+    "generic.poweredBy": "Propulsé par {{url}}",
     "image.weebHelp": "Montre une image weeb. Voyez `{{prefix}}weeb types` pour une liste des types.",
     "image.weebTypes": "Types valides : {{types}}",
     "image.weebError": "Image non trouvée !",

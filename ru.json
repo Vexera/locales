@@ -162,7 +162,7 @@
     "autorole.getroleRemoveNoPermission": "Невозможно удалить эту роль, недостаточно прав.",
     "autorole.autoroleNoPermission": "Вы не можете управлять ролями выше ваших по приоритету.",
     "image.dogeHelp": "Показывает милую Сибу!",
-    "image.poweredBy": "Источник: {{url}}",
+    "generic.poweredBy": "Источник: {{url}}",
     "image.weebHelp": "Отправляет виабушные картинки. Используйте команду `{{prefix}}weeb types` чтобы увидеть список типов картинок.",
     "image.weebTypes": "Действительные типы: {{types}}",
     "image.weebError": "Изображение не найдено!",
