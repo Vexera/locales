@@ -274,7 +274,7 @@
     "music.jumpHelp": "Jumps to a specific place in the queue.",
     "premium.dumpHelp": "Creates a URL with information about the music queue, which can be loaded with {{prefix}}play. Use {{prefix}}dump all to dump the whole queue.",
     "premium.dumpCreated": "Dump created! {{url}} - Use {{prefix}}play to load it.",
-    "music.lyricsHelp": "Gets lyrics for a track / the track currently playing",
+    "music.lyricsHelp": "Gets lyrics for a track / the track currently playing.\nPowered by KSoft.Si",
     "music.lyricsNoQuery": "Track not specified!",
     "music.lyricsNotFound": "Lyrics not found!",
     "info.nodeinfoHelp": "Shows information about the voice nodes.",
