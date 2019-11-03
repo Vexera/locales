@@ -55,7 +55,7 @@
     "perms.permsExample6": "Quita todos los permisos del rol `Moderators`",
     "perms.permsNodesTitle": "Nodos de permisos",
     "perms.permsNodesDescription": "Agrega un `-` al frente de un permiso para denegarlo a un usuario.",
-    "admin.banHelp": "Banea a un miembro",
+    "admin.banHelp": "Banea a un miembro y elimina sus mensajes de las ultimas 24 horas",
     "admin.banPermissionError": "No tienes permiso para banear a este usuario.",
     "admin.banBotPermissionError": "No se pudo banear al usuario.",
     "admin.banExample1": "Banea al usuario 'luke' por una semana y dos días con la razón 'Advertising'",
