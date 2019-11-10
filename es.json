@@ -230,7 +230,7 @@
     "music.lyricsNoQuery": "Pista no especificada!",
     "music.lyricsNotFound": "¡Letra no encontrada!",
     "info.nodeinfoHelp": "Muestra información sobre los nodos de voz.",
-    "meme.drakeHelp": "Hace un meme de drake.",
+    "meme.drakeHelp": "Hace un meme de Drake. Los argumentos pueden ser un usuario o la URL de una imagen.",
     "meme.mistakeHelp": "Para grandes errores.",
     "meme.whodidthisHelp": "¿QUIEN HIZO ESTO? :joy: :joy: :joy:.",
     "meme.magikHelp": "El mejor comando del planeta.",
@@ -364,5 +364,6 @@
     "games.osuAccuracy": "Precisión",
     "fun.uwuHelp": "uwu-fica una fwase",
     "settings.localeExample1": "Establece el idioma a francés.",
-    "settings.userlocaleExample1": "Desactiva tu idioma personal y usa el idioma del servidor en su lugar."
+    "settings.userlocaleExample1": "Desactiva tu idioma personal y usa el idioma del servidor en su lugar.",
+    "meme.drakeExample1": "Drake meme, pero Tatsu malo y Vexera bueno."
 }
