@@ -152,7 +152,7 @@
     "music.jumpHelp": "Springt an eine bestimmte Stelle in der Warteschlange.",
     "premium.dumpHelp": "Erstellt eine URL mit Informationen über die Musik-Warteschlange, welche über {{prefix}}play geladen werden kann. Nutze {{prefix}}dump all, um die ganze Warteschlange zu speichern.",
     "premium.dumpCreated": "Warteschlange gespeichert! {{url}} - Benutze {{prefix}}play, um die Warteschlange abzuspielen.",
-    "music.lyricsHelp": "Holt den Tracktext zu einen Track / zum derzeit spielenden Song.\nPowered by KSoft.Si",
+    "music.lyricsHelp": "Holt den Tracktext zu einen Track / zum derzeit spielenden Song.",
     "music.lyricsNoQuery": "Track nicht angegeben!",
     "music.lyricsNotFound": "Tracktext konnte nicht gefunden werden!",
     "info.nodeinfoHelp": "Zeigt Informationen über die Voice Nodes.",

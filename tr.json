@@ -183,7 +183,7 @@
     "music.jumpHelp": "Şarkı kuyruğundaki belirli bir konuma atlar.",
     "premium.dumpHelp": "`{{prefix}}play` ile yüklenilebilecek, şarkı kuyruğu ile ilgili bir bağlantı oluşturur. Tüm şarkı kuyruğunu liste olarak kaydetmek için `{{prefix}}dump` yazabilirsiniz.",
     "premium.dumpCreated": "Liste oluşturuldu! {{url}} - `{{prefix}}play` <URL> ile listeyi oynatabilirsiniz.",
-    "music.lyricsHelp": "Bir şarkının / şu an çalan şarkının sözlerini gösterir.\nKSoft.Si Tarafından geliştirildi.",
+    "music.lyricsHelp": "Bir şarkının / şu an çalan şarkının sözlerini gösterir.",
     "music.lyricsNoQuery": "Şarkı belirtilmedi!",
     "music.lyricsNotFound": "Şarkı sözleri bulunamadı!",
     "info.nodeinfoHelp": "Ses düğümleriyle ilgili bilgileri gösterir.",

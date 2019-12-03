@@ -240,7 +240,7 @@
     "music.jumpHelp": "jumps to 🅰️a🅰️ specific place⭐️ in the queue.",
     "premium.dumpHelp": "creates 🅰️a🅰️ 🔗url 🔗 with information 📄 about the 🎸music🎸 queue, which can be loaded📂 with {{prefix}}play. use {{prefix}}dump all to dump the whole queue.",
     "premium.dumpCreated": "dump created! {{url}} - use {{prefix}}play to 📂load📂 it🇮🇹🇮🇹.",
-    "music.lyricsHelp": "gets 🉐 lyrics for a🅰️ track / the track currently playing▶️.\nPowered by KSoft.Si",
+    "music.lyricsHelp": "gets 🉐 lyrics for a🅰️ track / the track currently playing▶️.",
     "music.lyricsNoQuery": "track not specified!",
     "music.lyricsNotFound": "lyrics not 🔍found🔍!",
     "info.nodeinfoHelp": "shows📺 informationℹ️ℹ️ about the voice nodes.",

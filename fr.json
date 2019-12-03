@@ -151,7 +151,7 @@
     "music.donationMessage": "Si vous appréciez la fonctionnalité musicale de Vexera, achetez Vexera Premium pour obtenir le meilleur de Vexera. <https://vexera.io/premium>",
     "music.jumpHelp": "Saute à une position précise dans la file d'attente.",
     "premium.dumpCreated": "Dump créé ! {{url}} - Utilisez {{prefix}}play pour le charger.",
-    "music.lyricsHelp": "Obtient les paroles pour une piste / la piste actuellement en cours de lecture.\nPropulsé par KSoft.Si",
+    "music.lyricsHelp": "Obtient les paroles pour une piste / la piste actuellement en cours de lecture.",
     "music.lyricsNoQuery": "Piste non spécifié !",
     "music.lyricsNotFound": "Paroles non trouvées !",
     "info.nodeinfoHelp": "Affiche des informations à propos des serveurs vocaux.",
