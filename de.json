@@ -19,7 +19,7 @@
     "info.healthStarting": "Startend",
     "info.helpHelp": "Zeigt diesen Befehl",
     "info.helpUsage": "Verwendung",
-    "info.helpDescription": "Ich bin ein Bot, welcher mehrere Funktionen ausführen kann, darunter Musik-, Moderations-, Autorole- und andere nutzvolle und spassige Befehle.\nMach' einfach `{{prefix}}help <Befehl>`, um erweiterte Informationen zu einem bestimmten Befehl zu erhalten.\n\n**Du brauchst Hilfe? {{support_url}}\nAuf deinen Server einladen: {{invite_url}}**",
+    "info.helpDescription": "Ich bin ein Bot, welcher mehrere Funktionen ausführen kann, darunter Musik-, Moderations-, Autorole- und andere nutzvolle und spassige Befehle.\nMach' einfach `{{prefix}}help <Befehl>`, um erweiterte Informationen zu einem bestimmten Befehl zu erhalten.\n\n**Du brauchst Hilfe? {{support_url}}\nAuf deinen Server einladen: {{invite_url}}**\n\n**Tipp!** Du kannst Dir alle Befehle auf unserer Webseite anschauen: **{{commands_url}}**",
     "info.helpDM": "Sieh' in deinen Privatnachrichten für eine Liste von Befehlen nach!",
     "info.statsHelp": "Zeigt die Statistiken des Bots",
     "info.clusterinfoHelp": "Zeigt Informationen über alle Cluster an",
@@ -365,5 +365,7 @@
     "info.helpCheckoutPremium": "Schau Dir mehr zu Premium an unter {{url}}",
     "settings.localeExample1": "Setzt die Sprache auf Französisch.",
     "settings.userlocaleExample1": "Deaktiviert Deine gesetzte Sprache, und benutzt die Serversprache stattdessen.",
-    "meme.drakeExample1": "Drake meme, aber Tatsu schlecht und Vexera gut"
+    "meme.drakeExample1": "Drake meme, aber Tatsu schlecht und Vexera gut",
+    "info.helpConfigure": "Konfiguriere den Bot online auf {{url}}",
+    "meme.nukeHelp": "Nuke ein Bild"
 }
