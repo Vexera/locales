@@ -20,7 +20,7 @@
     "info.helpHelp": "Mostra este comando",
     "info.helpUsage": "Uso",
     "info.helpPermNode": "Permissão necessária",
-    "info.helpDescription": "Eu sou um bot de discord multi-propósito que pode fazer música, moderação e outras coisas divertidas e úteis.\nFaça `{{prefix}}help <comando>` para uma informação mais extensa sobre um comando.\n\n**À procura de ajuda? {{support_url}}\nConvite: {{invite_url}}**",
+    "info.helpDescription": "Eu sou um bot de discord multi-propósito que pode fazer música, moderação e outras coisas divertidas e úteis.\nUse `{{prefix}}help <comando>` para uma informação mais extensa sobre um comando.\n\n**À procura de ajuda? {{support_url}}\nAdicione-me: {{invite_url}}**\n\n**Dica!** Pode ver os comandos no nosso website: **{{commands_url}}**",
     "info.helpDM": "Veja as suas mensagens privadas para a lista dos comandos!",
     "info.statsHelp": "Mostra estatísticas acerca do bot",
     "info.clusterinfoHelp": "Mostra informação sobre todas as clusters",
@@ -365,5 +365,8 @@
     "games.osuGames": "Jogos jogados",
     "games.osuPp": "Pontos de Desempenho",
     "games.osuAccuracy": "Precisão",
-    "fun.uwuHelp": "uwu uma fwase"
+    "fun.uwuHelp": "uwu uma fwase",
+    "generic.tipDashboard": "**Dica!** Isto pode ser configurado em {{url}}",
+    "info.helpConfigure": "Configure o bot online em {{url}}",
+    "meme.nukeHelp": "Exploda uma imagem"
 }
