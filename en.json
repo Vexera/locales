@@ -325,6 +325,8 @@
     "premium.playlistExample2": "Loads the tracks from playlist 'Dubstep' into the queue.",
     "premium.playlistExample3": "Deletes the playlist 'Dubstep'",
     "premium.playlistExample4": "Creates a dump URL for the playlist 'Dubstep'",
+    "premium.playlistNoneFound": "No playlists found!",
+    "premium.playlistLoadHelp": "Use `{{prefix}}playlist load` to load a playlist.",
     "modlog.none": "You do not have a moderation log set!",
     "modlog.invalidCase": "Invalid case!",
     "modlog.line1": "**{{type}}** | Case {{caseID}}",
