@@ -367,5 +367,9 @@
     "settings.userlocaleExample1": "Отключает вашу персональную локализацию и использует язык сервера вместо неё.",
     "meme.drakeExample1": "Мем с Дрейком, но Тацу осёл, а Вексера - бобёр",
     "info.helpConfigure": "Настройте бота онлайн на {{url}}",
-    "meme.nukeHelp": "Разбомбить изображение"
+    "meme.nukeHelp": "Разбомбить изображение",
+    "generic.tipDashboard": "**Совет!** Это может быть настроено на {{url}}",
+    "premium.playlistExample5": "Отображает все плейлисты этого сервера.",
+    "premium.playlistNoneFound": "Плейлисты не найдены!",
+    "premium.playlistLoadHelp": "Используйте `{{prefix}}playlist load` чтобы загрузить плейлист."
 }
