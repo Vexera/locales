@@ -20,7 +20,7 @@
     "info.helpHelp": "📺shows📺 this command",
     "info.helpUsage": "usage",
     "info.helpPermNode": "permission node",
-    "info.helpDescription": "i'm a🅰️ multi-purpose discord bot that does music🎻, moderation and other 🎳fun🎳🎳 and useful things.\ndo `{{prefix}}help <command>` for extended information📄 on🔛 🅰️a🅰️ command.\n\n**looking for support? {{support_url}}\ninvite: {{invite_url}}**",
+    "info.helpDescription": "i'm a🅰️ multi-purpose discord bot that does music🎻, moderation and other 🎳fun🎳🎳 and useful things.\ndo `{{prefix}}help <command>` for extended information📄 on🔛 🅰️a🅰️ command.\n\n**looking for support? {{support_url}}\ninvite: {{invite_url}}**\n\nℹ️**tip!** you can view👀👀 the commands on our website: **{{commands_url}}**",
     "info.helpDM": "check ☑️☑️ your direct 💬messages💬 for 🅰️a 🅰️ list of commands!",
     "info.pingHelp": "pong!",
     "info.statsVersion": "version",
@@ -365,5 +365,11 @@
     "games.osuAccuracy": "accuracy🎯🎯",
     "fun.uwuHelp": "🇯🇵uwu-ify🇯🇵 a stwing",
     "info.statsUptime": "✅ uptime✅",
-    "meme.drakeExample1": "Badsumaki 😠 👎 versus Vexerad 💯 🎉"
+    "meme.drakeExample1": "Badsumaki 😠 👎 versus Vexerad 💯 🎉",
+    "generic.tipDashboard": "**tip!** this can be configured⚙️ at {{url}}",
+    "info.helpConfigure": "⚙️configure the bot🤖 🌐online🌐 at {{url}}",
+    "meme.nukeHelp": "nuke☢️☢️ an image🖼️",
+    "premium.playlistExample5": "lists all playlists🎵 for this server.",
+    "premium.playlistNoneFound": "❌no playlists🎵 found!",
+    "premium.playlistLoadHelp": "use `{{prefix}}playlist load` to load a playlist🎵."
 }

@@ -367,5 +367,9 @@
     "settings.userlocaleExample1": "Deaktiviert Deine gesetzte Sprache, und benutzt die Serversprache stattdessen.",
     "meme.drakeExample1": "Drake meme, aber Tatsu schlecht und Vexera gut",
     "info.helpConfigure": "Konfiguriere den Bot online auf {{url}}",
-    "meme.nukeHelp": "Nuke ein Bild"
+    "meme.nukeHelp": "Nuke ein Bild",
+    "generic.tipDashboard": "**Hinweis!** Du kannst dies auch auf unserer Webseite konfigurieren: {{url}}",
+    "premium.playlistExample5": "Listet alle Playlists dieses Servers.",
+    "premium.playlistNoneFound": "Keine Playlist gefunden!",
+    "premium.playlistLoadHelp": "Benutze `{{prefix}}playlist load`, um eine Playlist zu laden."
 }
