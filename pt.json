@@ -368,5 +368,8 @@
     "fun.uwuHelp": "uwu uma fwase",
     "generic.tipDashboard": "**Dica!** Isto pode ser configurado em {{url}}",
     "info.helpConfigure": "Configure o bot online em {{url}}",
-    "meme.nukeHelp": "Exploda uma imagem"
+    "meme.nukeHelp": "Exploda uma imagem",
+    "premium.playlistExample5": "Lista todas as playlists do servidor.",
+    "premium.playlistNoneFound": "Nenhuma playlist encontrada!",
+    "premium.playlistLoadHelp": "Use `{{prefix}}playlist load` para carregar uma playlist."
 }
