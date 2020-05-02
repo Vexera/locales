@@ -102,5 +102,7 @@
     "admin.cleanHelp": "Cancella messaggi da un canale.",
     "admin.cleanExample1": "Elimina 10 messaggi",
     "admin.cleanExample2": "Elimina 100 messaggi",
-    "admin.cleanExample3": "Elimina 100 messaggi dell'utente `luke`"
+    "admin.cleanExample3": "Elimina 100 messaggi dell'utente `luke`",
+    "settings.localeNotComplete": "🚨 La traduzione in {{langname}} è completa solo al {{percentage}}%.\nVuoi aiutarci? Per più informazioni visita <{{url}}>.",
+    "music.playerRequested": "Richiesto Da"
 }
