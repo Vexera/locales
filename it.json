@@ -131,5 +131,11 @@
     "info.healthDown": "Offline",
     "info.healthStarting": "Inizializzando",
     "admin.roleHelp": "Gestisci i ruoli",
-    "admin.cleanPermissionError": "Io non ho il permesso per gestire i messaggi."
+    "admin.cleanPermissionError": "Non ho il permesso per gestire i messaggi.",
+    "admin.cleanTooOldError": "Qualche messaggio non è stato cancellato perché troppo vecchio.",
+    "admin.warnHelp": "Crea un' avviso di infrazione.",
+    "settings.greetingExample2": "Da il benvenuto ad un utente nei messaggi diretti.",
+    "settings.greetingExample3": "Disattiva i saluti.",
+    "settings.greetingHelp": "Aggiunge un messaggio di benvenuto al server.",
+    "settings.greetingExample1": "Manda `Benvenuto @luke in <nome del tuo server> !` nella chat #general quando `luke` entra nel tuo server."
 }
