@@ -20,7 +20,7 @@
     "info.helpHelp": "Zobrazuje tento příkaz",
     "info.helpUsage": "Použití",
     "info.helpPermNode": "Oprávnění",
-    "info.helpDescription": "Jsem více-účelový bot který zvládne muziku, moderaci a jiné vtipné a užitečné věci.\nNapiš `{{prefix}}help <command>` pro více informací o příkazu.\n\n**Hledáš podporu? {{support_url}}\nPozvánka: {{invite_url}}**\n\n**Tip!** Příkazy jsou na stránkách: **{{commands_url}}**",
+    "info.helpDescription": "Jsem víceúčelový bot který zvládne muziku, moderaci a další zábavné a užitečné věci.\nNapiš `{{prefix}}help <command>` pro více informací o příkazu.\n\n**Hledáš podporu? {{support_url}}\nPozvánka: {{invite_url}}**\n\n**Tip!** Příkazy si můžeš zobrazit na našem webu: **{{commands_url}}**",
     "info.helpDM": "Zkontroluj své přímé zprávy pro seznam příkazů!",
     "info.statsUsersVC": "Připojení uživatelé",
     "info.statsHelp": "Zobrazuje informace o botovi",
