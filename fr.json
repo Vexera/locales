@@ -368,7 +368,7 @@
     "meme.drakeExample1": "Un meme drake, mais Tatsu mauvais et Vexera bon",
     "generic.tipDashboard": "**Conseil !** Ceci est configurable à l'adresse {{url}}",
     "info.helpConfigure": "Configurer le bot en ligne sur {{url}}",
-    "meme.nukeHelp": "« Détruit » une image",
+    "meme.nukeHelp": "Atomise une image",
     "premium.playlistExample5": "Liste toutes les playlists de ce serveur.",
     "premium.playlistNoneFound": "Aucune playlist trouvée !",
     "premium.playlistLoadHelp": "Utilisez `{{prefix}}playlist load` pour charger une playlist."
