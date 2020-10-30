@@ -40,5 +40,6 @@
     "music.skipping": "Izlaižu...",
     "music.skipAlreadyVoted": "Jūs jau esat nobalsojis par izlaišanu!",
     "music.skipVoted": "Nobalsots! 👍 {{votes}}/{{total}}",
-    "music.joinHelp": "Pievienojas balss kanālam."
+    "music.joinHelp": "Pievienojas balss kanālam.",
+    "music.leaveHelp": "Atstāj balss kanālu."
 }
