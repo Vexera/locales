@@ -36,5 +36,7 @@
     "music.enqueueMultiple": "Pievienotas `{{resultLength}}` dziesmas mūzikas listam (processed in `{{timeTaken}}` seconds)",
     "music.botNoVoiceChannel": "Es šobrīd nespēlēju mūziku!",
     "music.joinError": "Radās kļūda, pievienojoties balss kanālam.",
-    "music.skipHelp": "Voteskips. Lietotāji ar atļauju music.forceskip var uzreiz izlaist."
+    "music.skipHelp": "Izlaist mūziku. Lietotāji ar atļauju `music.forceskip` var uzreiz izlaist.",
+    "music.skipping": "Izlaižu...",
+    "music.skipAlreadyVoted": "Jūs jau esat nobalsojis par izlaišanu!"
 }
