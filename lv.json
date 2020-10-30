@@ -33,5 +33,6 @@
     "info.statsHelp": "Parāda statistiku par botu",
     "info.inviteInvite": "Uzaicinājums: {{url}}",
     "info.inviteSupport": "Palīdzība: {{url}}",
-    "music.enqueueMultiple": "Pievienotas `{{resultLength}}` dziesmas mūzikas listam (processed in `{{timeTaken}}` seconds)"
+    "music.enqueueMultiple": "Pievienotas `{{resultLength}}` dziesmas mūzikas listam (processed in `{{timeTaken}}` seconds)",
+    "music.botNoVoiceChannel": "es šobrīd nespēlēju mūziku!"
 }
