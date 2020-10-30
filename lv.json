@@ -41,5 +41,7 @@
     "music.skipAlreadyVoted": "Jūs jau esat nobalsojis par izlaišanu!",
     "music.skipVoted": "Nobalsots! 👍 {{votes}}/{{total}}",
     "music.joinHelp": "Pievienojas balss kanālam.",
-    "music.leaveHelp": "Atstāj balss kanālu."
+    "music.leaveHelp": "Pamet balss kanālu.",
+    "music.pauseHelp": "Nopauzē mūziku.",
+    "music.resumeHelp": "Atsāk mūziku."
 }
