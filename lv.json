@@ -43,5 +43,12 @@
     "music.joinHelp": "Pievienojas balss kanālam.",
     "music.leaveHelp": "Pamet balss kanālu.",
     "music.pauseHelp": "Nopauzē mūziku.",
-    "music.resumeHelp": "Atsāk mūziku."
+    "music.resumeHelp": "Atsāk spēlēt mūziku.",
+    "music.clearHelp": "Notīra mūziku rindu.",
+    "music.shuffleHelp": "Sajauc mūziku rindu.",
+    "music.npHelp": "Parāda to, kas pašlaik tiek atskaņots.",
+    "music.npNotPlaying": "Pašlaik nekas netiek atskaņots.",
+    "music.backHelp": "Pāriet uz pēdējo atskaņoto dziesmu.",
+    "music.queueHelp": "Parāda pašreizējo dziesmu rindu.",
+    "music.queueHeader": "Rindas Lapa 1{{page}}/2{{num}}"
 }
