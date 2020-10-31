@@ -34,7 +34,7 @@
     "info.inviteInvite": "Uzaicinājums: {{url}}",
     "info.inviteSupport": "Palīdzība: {{url}}",
     "music.enqueueMultiple": "Pievienotas `{{resultLength}}` dziesmas mūzikas listam (processed in `{{timeTaken}}` seconds)",
-    "music.botNoVoiceChannel": "Es šobrīd nespēlēju mūziku!",
+    "music.botNoVoiceChannel": "Es pašlaik nespēlēju mūziku!",
     "music.joinError": "Radās kļūda, pievienojoties balss kanālam.",
     "music.skipHelp": "Izlaist mūziku. Lietotāji ar atļauju `music.forceskip` var uzreiz izlaist.",
     "music.skipping": "Izlaižu...",
@@ -60,5 +60,10 @@
     "music.premiumSpotifyError": "Tikai Vexera Premium abonenti var ielādēt Spotify atskaņošanas sarakstus! Plašāku informāciju skatiet <https://vexera.io/premium>.",
     "music.premiumSpotifyAlternative": "Alternatīvi, ir vietnes, kas var [pārveidot Spotify atskaņošanas sarakstus Youtube atskaņošanas sarakstos](https://bfnt.io/spotify-converter) kuru jūs varat apmeklēt, ja vēlaties palikt bez maksas.",
     "music.premiumSpotifyProcessing": "Notiek Spotify atskaņošanas saraksta apstrāde .. tas var aizņemt kādu laiku.",
-    "premium.volumeLimit": "Skaļuma iestatīšana uz 150%. Es vēlos aizsargāt jūsu bungādiņas!"
+    "premium.volumeLimit": "Skaļuma iestatīšana uz 150%. Es vēlos aizsargāt jūsu bungādiņas!",
+    "music.repeatHelp": "Atkārto mūziku.",
+    "music.repeatExample1": "Izslēdz atkārtošanu.",
+    "music.playerErrorTitle": "Kļūda",
+    "misc.serverinfoID": "ID",
+    "misc.userinfoID": "ID"
 }
