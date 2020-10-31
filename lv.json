@@ -37,7 +37,7 @@
     "music.botNoVoiceChannel": "Es pašlaik neatskaņoju mūziku!",
     "music.joinError": "Radās kļūda, pievienojoties balss kanālam.",
     "music.skipHelp": "Izlaist mūziku. Lietotāji ar atļauju `music.forceskip` var uzreiz izlaist.",
-    "music.skipping": "Izlaist...",
+    "music.skipping": "Izlaižam...",
     "music.skipAlreadyVoted": "Jūs jau esat nobalsojis par izlaišanu!",
     "music.skipVoted": "Nobalsots! 👍 {{votes}}/{{total}}",
     "music.joinHelp": "Pievienojas balss kanālam.",
