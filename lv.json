@@ -52,5 +52,11 @@
     "music.queueHelp": "Parāda pašreizējo dziesmu rindu.",
     "music.queueHeader": "Rindas Lapa {{page}}/{{num}}",
     "music.queueEmpty": "Rinda ir tukša!",
-    "music.queuePageNotFound": "Lapa nav atrasta!"
+    "music.queuePageNotFound": "Lapa netika atrasta!",
+    "premium.volumeHelp": "Uzstāda pašreizējās mūzikas skaļumu.",
+    "premium.volumeStatus": "Skaļums pašlaik ir {{percent}}%",
+    "music.queryNotFound": "Nav rezultātu.",
+    "music.commandDonator": "Tikai augstākās klases abonenti var izmantot šo komandu! Plašāku informāciju skatiet <https://vexera.io/premium>",
+    "music.premiumSpotifyError": "Tikai Vexera Premium abonenti var ielādēt Spotify atskaņošanas sarakstus! Plašāku informāciju skatiet <https://vexera.io/premium>.",
+    "music.premiumSpotifyAlternative": "Alternatīvi, ir vietnes, kas to var [pārveidot Spotify atskaņošanas sarakstus Youtube atskaņošanas sarakstos](https://bfnt.io/spotify-converter) kuru jūs varat apmeklēt, ja vēlaties palikt bez maksas."
 }
