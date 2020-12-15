@@ -281,5 +281,14 @@
     "misc.userinfoCreation": "Gebruiker aangemaakt op",
     "music.playerErrorTitle": "Fout",
     "misc.serverinfoID": "ID",
-    "misc.userinfoID": "ID"
+    "misc.userinfoID": "ID",
+    "settings.logRemove": "Gebeurtenis(sen) {{events}} van kanaal `{{channel}}` verwijderd",
+    "settings.logExample2": "Plaatst overtredingen (bans, kicks) in #mod-log",
+    "settings.modlogSet": "Succesvol het moderatie log kanaal ingesteld.",
+    "settings.accessroleHelp": "Stelt een rol in die mensen moeten hebben om de bot te gebruiken. Gebruik `{{prefix}}accessrole disable` om uit te schakelen",
+    "settings.accessroleDisabled": "De toegangsrol is met succes uitgeschakeld.",
+    "settings.accessroleSet": "De toegangsrol is met succes ingesteld.",
+    "settings.userlocaleSet": "Gebruikers taal is met succes ingesteld.",
+    "autorole.autoroleHelp": "Toekennen van rollen. Zorg ervoor dat de rol voor mij boven de rol is die je wilt geven, anders heb ik geen toestemming.",
+    "autorole.autoroleExample1": "Geef de rol `Humans` aan gebruikers bij het joinen."
 }
