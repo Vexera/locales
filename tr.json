@@ -20,7 +20,7 @@
     "info.healthTitle": "Parçaların Sağlıkları",
     "info.healthDown": "Kapalı",
     "info.healthStarting": "Başlıyor",
-    "info.helpDescription": "Ben müzik, moderasyon, diğer eğlenceli ve kullanışlı şeyleri yapabilen çok amaçlı bir Discord botuyum.\nKomut hakkında daha fazla bilgi için `{{prefix}}help <komut>` yazın.\n\n**Yardıma mı ihtiyacınız var? Destek Sunucusu: {{support_url}}\nDavet: {{invite_url}}**\n\n**Öneri!** Tüm komutlara websitemiz üzerinden göz atabilirsiniz: **4{{commands_url}}**",
+    "info.helpDescription": "Ben müzik, moderasyon, diğer eğlenceli ve kullanışlı şeyleri yapabilen çok amaçlı bir Discord botuyum.\nKomut hakkında daha fazla bilgi için `{{prefix}}help <komut>` yazın.\n\n**Yardıma mı ihtiyacınız var? Destek Sunucusu: {{support_url}}\nDavet: {{invite_url}}**\n\n**Öneri!** Tüm komutlara websitemiz üzerinden göz atabilirsiniz: **{{commands_url}}**",
     "info.helpDM": "Komutların listesi için özel mesajlarınızı kontrol edin!",
     "info.statsHelp": "Bot hakkında istatistikleri gösterir",
     "info.clusterinfoHelp": "Tüm kümeler hakkında bilgileri gösterir",
