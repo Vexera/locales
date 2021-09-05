@@ -234,6 +234,7 @@
     "music.playSearchResult": "Search Result",
     "music.playSearchUsage": "Say the number of the track you wish to play (e.g '1') or say 'cancel' to cancel.",
     "music.noVoiceChannel": "You are not in a voice channel!",
+    "music.notSameChannel": "You need to be in the `{{channel}}` channel to use this command!",
     "music.botNoVoiceChannel": "I'm currently not playing music!",
     "music.noJoinPermission": "I do not have permission to join your voice channel.",
     "music.joinError": "An error occured while joining your voice channel.",
