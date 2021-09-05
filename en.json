@@ -189,6 +189,7 @@
     "autorole.getroleNoPermission": "Unable to give that role.",
     "autorole.getroleRemoveNoPermission": "Unable to remove that role.",
     "autorole.autoroleNoPermission": "You cannot manage roles above yours.",
+    "autorole.autoroleNoEntries": "There are currently no autoroles set up.\nSee `{{prefix}}help autorole` for more information.",
     "fun.chucknorrisHelp": "Responds with a chuck norris joke.",
     "image.catHelp": "Shows a cute cat!",
     "image.dogHelp": "Shows a cute dog!",
