@@ -64,7 +64,7 @@
     "misc.serverinfoFeatures": "Features",
     "misc.serverinfoCreation": "Server created on",
     "misc.userinfoHelp": "Shows info about a user.",
-    "misc.userinfoOwner": "**{{username}}** is the **{{servername}}** server's owner.",
+    "misc.userinfoOwner": "**{{username}}** is the server owner of **{{servername}}**.",
     "misc.userinfoUsername": "Username",
     "misc.userinfoDiscriminator": "Discriminator",
     "misc.userinfoID": "ID",
