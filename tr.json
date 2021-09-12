@@ -357,5 +357,16 @@
     "generic.tipDashboard": "**Öneri!** Buradan özelleştirebilirsiniz: {{url}}",
     "info.helpConfigure": "Botu buradan özelleştirebilirsiniz: {{url}}",
     "meme.nukeHelp": "Fotoğrafı bombala",
-    "fun.uwuHelp": "uwu-ify a stwing"
+    "fun.uwuHelp": "uwu-ify a stwing",
+    "misc.serverinfoSubscription": "Bu sunucu aktif bir aboneliğe sahip: **{{sub}}**",
+    "misc.serverinfoFeatures": "Özellikler",
+    "misc.serverinfoCreation": "Sunucu oluşturulma tarihi",
+    "misc.userinfoOwner": "**{{username}}**, **{{servername}}** sunucusunun sahibi.",
+    "misc.userinfoJoined": "Katılma",
+    "misc.userinfoBoosted": "Boosted",
+    "admin.banBotPermissionError": "Üyeleri Yasaklama yetkim yok.",
+    "admin.kickBotPermissionError": "Üyeleri Atma yetkim yok.",
+    "admin.vckickError": "Sesli kanaldan üye atılamadı.",
+    "admin.roleBotPermissionError": "Rolleri Yönet yetkim yok.",
+    "admin.roleBotPositionError": "`{{role}}` rolünü yonetme yetkim yok, lütfen rolümün belirtilen rolden üstte olduğundan emin olun."
 }
