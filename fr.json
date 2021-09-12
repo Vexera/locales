@@ -34,7 +34,6 @@
     "misc.serverinfoMembersValue": "{{members}} ({{bots}} bots)",
     "misc.serverinfoID": "ID",
     "misc.serverinfoVerification": "Niveau de vérification",
-    "misc.serverinfoEmojis": "Émojis",
     "misc.serverinfoChannels": "Canaux",
     "misc.userinfoHelp": "Affiche des informations à propos d'un utilisateur.",
     "misc.userinfoUsername": "Nom d'utilisateur",

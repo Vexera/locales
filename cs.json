@@ -360,7 +360,6 @@
     "misc.serverinfoMembers": "Uživatelé",
     "misc.serverinfoMembersValue": "{{members}} ({{bots}} bot(i/ů))",
     "misc.serverinfoVerification": "Úroveň zabezpečení",
-    "misc.serverinfoEmojis": "Smajlíci",
     "misc.serverinfoChannels": "Kanály",
     "misc.userinfoUsername": "Uživatelské jméno",
     "misc.userinfoDiscriminator": "Diskriminátor",

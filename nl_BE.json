@@ -185,7 +185,6 @@
     "misc.serverinfoMembers": "Gebruikers",
     "misc.serverinfoMembersValue": "{{members}}{{bots}}bots)",
     "misc.serverinfoVerification": "Verificatie Level",
-    "misc.serverinfoEmojis": "Emojis",
     "misc.serverinfoChannels": "Kanalen",
     "misc.userinfoUsername": "Gebruikersnaam",
     "misc.userinfoDiscriminator": "ID Tag",

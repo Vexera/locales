@@ -59,7 +59,6 @@
     "misc.serverinfoMembersValue": "{{members}} ({{bots}} bots)",
     "misc.serverinfoID": "ID",
     "misc.serverinfoVerification": "Verification Level",
-    "misc.serverinfoEmojis": "Emojis",
     "misc.serverinfoChannels": "Channels",
     "misc.serverinfoRoles": "Roles",
     "misc.serverinfoFeatures": "Features",

@@ -327,7 +327,6 @@
     "misc.serverinfoMembers": "Учасники",
     "misc.serverinfoMembersValue": "{{members}} ({{bots}} ботів)",
     "misc.serverinfoVerification": "Рівень веріфікації",
-    "misc.serverinfoEmojis": "Кількість емодзі",
     "misc.serverinfoChannels": "Кількість каналів",
     "misc.userinfoUsername": "Ім'я користувача",
     "misc.userinfoDiscriminator": "Унікальний номер",

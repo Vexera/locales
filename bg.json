@@ -21,7 +21,6 @@
     "misc.serverinfoMembers": "Членове",
     "misc.serverinfoMembersValue": "{{members}} ({{bots}} бота)",
     "misc.serverinfoVerification": "Ниво на верификация",
-    "misc.serverinfoEmojis": "Емоджита",
     "misc.serverinfoChannels": "Канали",
     "misc.userinfoUsername": "Потребителско име",
     "music.playerErrorTitle": "Грешка",

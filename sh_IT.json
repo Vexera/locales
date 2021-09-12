@@ -50,7 +50,6 @@
     "misc.serverinfoMembersValue": "{{members}} ({{bots}} bots)",
     "misc.serverinfoID": "id🆔",
     "misc.serverinfoVerification": "verification level 🎚🎚",
-    "misc.serverinfoEmojis": "emojis",
     "misc.serverinfoChannels": "channels",
     "misc.serverinfoRoles": "roles",
     "misc.userinfoHelp": "shows 📺 🚮info🚮 about 🅰️a🅰️ user👤.",

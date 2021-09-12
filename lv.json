@@ -363,7 +363,6 @@
     "misc.serverinfoMembers": "Lietotāji",
     "misc.serverinfoMembersValue": "{{members}} ({{bots}} boti)",
     "misc.serverinfoVerification": "Verifikācijas līmenis",
-    "misc.serverinfoEmojis": "Emoji",
     "misc.serverinfoChannels": "Kanāli",
     "misc.userinfoUsername": "Lietotājvārds",
     "misc.userinfoDiscriminator": "Unikālais numurs",

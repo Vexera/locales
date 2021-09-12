@@ -332,7 +332,6 @@
     "info.statsInvite": "Пригласить",
     "misc.serverinfoMembersValue": "{{members}} ({{bots}} ботов)",
     "misc.serverinfoVerification": "Уровень верификации",
-    "misc.serverinfoEmojis": "Количество эмодзи",
     "misc.serverinfoChannels": "Количество каналов",
     "misc.userinfoUsername": "Имя пользователя",
     "misc.userinfoDiscriminator": "Уникальный номер",

@@ -223,7 +223,6 @@
     "misc.serverinfoMembers": "Üyeler",
     "misc.serverinfoMembersValue": "{{members}} ({{bots}} bot)",
     "misc.serverinfoVerification": "Doğrulama Seviyesi",
-    "misc.serverinfoEmojis": "Emojiler",
     "misc.serverinfoChannels": "Kanallar",
     "misc.userinfoUsername": "Kullanıcı Adı",
     "misc.userinfoDiscriminator": "Etiket",

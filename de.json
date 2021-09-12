@@ -177,7 +177,6 @@
     "misc.serverinfoMembers": "Mitglieder",
     "misc.serverinfoMembersValue": "{{members}} ({{bots}} Bots)",
     "misc.serverinfoVerification": "Verifizierungs-Level",
-    "misc.serverinfoEmojis": "Emojis",
     "misc.serverinfoChannels": "Kanäle",
     "misc.userinfoUsername": "Benutzername",
     "misc.userinfoDiscriminator": "Diskriminator",

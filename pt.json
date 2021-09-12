@@ -60,7 +60,6 @@
     "misc.serverinfoMembers": "Membros",
     "misc.serverinfoMembersValue": "{{members}} ({{bots}} bots)",
     "misc.serverinfoVerification": "Nível de Verificação",
-    "misc.serverinfoEmojis": "Emojis",
     "misc.serverinfoChannels": "Canais",
     "misc.userinfoUsername": "Nome de Utilizador",
     "misc.userinfoDiscriminator": "Discriminador",

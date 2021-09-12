@@ -312,7 +312,6 @@
     "misc.serverinfoMembers": "Miembros",
     "misc.serverinfoMembersValue": "{{members}} ({{bots}} bots)",
     "misc.serverinfoVerification": "Nivel de verificación",
-    "misc.serverinfoEmojis": "Emojis",
     "misc.serverinfoChannels": "Canales",
     "misc.userinfoUsername": "Nombre de usuario",
     "misc.userinfoDiscriminator": "Tag de Discord",

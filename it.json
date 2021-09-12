@@ -27,7 +27,6 @@
     "misc.serverinfoMembers": "Membri",
     "misc.serverinfoMembersValue": "{{members}} ({{bots}} bot)",
     "misc.serverinfoVerification": "Livello di Verifica",
-    "misc.serverinfoEmojis": "Emoji",
     "misc.serverinfoChannels": "Canali",
     "misc.userinfoUsername": "Nome utente",
     "music.playerErrorTitle": "Errore",

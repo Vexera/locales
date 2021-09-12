@@ -204,7 +204,6 @@
     "misc.serverinfoMembers": "Μέλη",
     "misc.serverinfoMembersValue": "{{members}} (εκ των οποίων {{bots}} bot)",
     "misc.serverinfoVerification": "Επίπεδο Πιστοποίησης",
-    "misc.serverinfoEmojis": "Emojis",
     "misc.serverinfoChannels": "Κανάλια",
     "misc.userinfoUsername": "Όνομα χρήστη",
     "misc.userinfoDiscriminator": "Διαχωριστικό",
