@@ -368,5 +368,10 @@
     "misc.userinfoJoined": "Rejoint",
     "misc.userinfoBoosted": "Boosté",
     "autorole.autoroleNoEntries": "Il n'y a actuellement aucun autorole configuré.\nVoir `{{prefix}}help autorole` pour plus d'informations.",
-    "music.notSameChannel": "Vous devez être dans le salon `{{channel}}` pour utiliser cette commande !"
+    "music.notSameChannel": "Vous devez être dans le salon `{{channel}}` pour utiliser cette commande !",
+    "admin.banBotPermissionError": "Je n'ai pas la permission de bannir des membres.",
+    "admin.kickBotPermissionError": "Je n'ai pas la permission d'expulser des membres.",
+    "admin.vckickError": "Impossible d'expulser l'utilisateur du canal vocal.",
+    "admin.roleBotPermissionError": "Je n'ai pas la permission de gérer les rôles.",
+    "admin.roleBotPositionError": "Je n'ai pas la permission de gérer le rôle `{{role}}`, merci de vérifier que mon rôle le plus élevé est au-dessus de celui-ci."
 }

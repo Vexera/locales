@@ -360,5 +360,10 @@
     "generic.tipDashboard": "**Hinweis!** Du kannst dies auch auf unserer Webseite konfigurieren: {{url}}",
     "premium.playlistExample5": "Listet alle Playlists dieses Servers.",
     "premium.playlistNoneFound": "Keine Playlist gefunden!",
-    "premium.playlistLoadHelp": "Benutze `{{prefix}}playlist load`, um eine Playlist zu laden."
+    "premium.playlistLoadHelp": "Benutze `{{prefix}}playlist load`, um eine Playlist zu laden.",
+    "misc.serverinfoSubscription": "Dieser Server hat ein aktives **{{sub}}** Abonnement.",
+    "misc.serverinfoFeatures": "Funktionen",
+    "misc.serverinfoCreation": "Server erstellt am",
+    "misc.userinfoJoined": "Beigetreten",
+    "misc.userinfoBoosted": "Boosted"
 }
