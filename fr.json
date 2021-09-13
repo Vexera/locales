@@ -246,7 +246,7 @@
     "autorole.autoroleExample4": "Enlève `Humans` de la liste des rôles ajoutés automatiquement aux nouveaux membres.",
     "autorole.autoroleExample5": "Liste tous les rôles automatiques.",
     "fun.asciiExample1": "Affiche `beep` dans la police de caractère `ghost`",
-    "music.playExample1": "Recherche `marble soda` sur Youtube",
+    "music.playExample1": "Recherche 'marble soda' sur Youtube",
     "music.playExample2": "Lit une piste de Soundcloud, en utilisant l’URL directe",
     "music.playExample3": "Joue une vidéo de YouTube, en utilisant l’URL directe",
     "music.repeatExample1": "Désactive la répétition.",

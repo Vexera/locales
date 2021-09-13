@@ -109,7 +109,7 @@
     "autorole.getroleNoConditon": "Diese Rolle hat nicht die `get` Bedingung, der Besitzer kann sie durch ausführen von `{{prefix}}autorole add get {{role}}` hinzufügen.",
     "music.playEnqueued": "`{{title}}` wurde in die Warteschlange mit der Position `{{position}}` eingereiht.",
     "music.playSearchResult": "Such-Ergebnisse",
-    "music.playSearchUsage": "Sag die Nummer, welche Musik Du spielen möchtest (z.B. '1') oder sag einfach `cancel`, um den Vorgang abzubrechen.",
+    "music.playSearchUsage": "Sag die Nummer, welche Musik Du spielen möchtest (z.B. '1') oder sag einfach 'cancel', um den Vorgang abzubrechen.",
     "music.noVoiceChannel": "Du bist in keinem Sprach-Kanal!",
     "music.botNoVoiceChannel": "Ich spiele derzeit keine Musik!",
     "music.noJoinPermission": "Ich habe keine Berechtigung, um deinem Sprach-Kanal beizutreten.",
@@ -372,5 +372,6 @@
     "admin.roleBotPermissionError": "Ich habe keine Berechtigungen, um Rollen zu verwalten.",
     "admin.roleBotPositionError": "Ich habe keine Berechtigungen, um die `{{role}}` Rolle zu verwalten, bitte vergewissere Dich, dass meine höchste Rolle über Dieser ist.",
     "autorole.autoroleNoEntries": "Im Moment sind keine Autorollen vorhanden.\nSiehe `{{prefix}}help autorole`, um mehr zu erfahren.",
-    "music.notSameChannel": "Du musst im `{{channel}}` Kanal sein, um diesen Befehl zu benutzen!"
+    "music.notSameChannel": "Du musst im `{{channel}}` Kanal sein, um diesen Befehl zu benutzen!",
+    "misc.userinfoOwner": "**{{username}}** ist der Besitzer des Servers **{{servername}}**."
 }
