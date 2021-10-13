@@ -293,7 +293,7 @@
     "settings.logExists": "O evento `{{event}}` já foi adicionado!",
     "settings.logAdd": "Adicionado(s) o(s) evento(s) {{events}} ao canal `{{channel}}`",
     "settings.logRemoveError": "O evento `{{event}}` ainda não foi adicionado, portanto, não pode ser removido.",
-    "settings.logRemove": "Removido(s) o(s) evento(s) {{events}} do canal ´{{channel}}`",
+    "settings.logRemove": "Removido(s) o(s) evento(s) {{events}} do canal `{{channel}}`",
     "settings.logList": "Eventos do canal #{{channel}}",
     "settings.logCleared": "Limpei todos os eventos do canal `#{{channel}}`.",
     "settings.logExample1": "Envia uma mensagem quando um utilizador entra ou sai",
@@ -360,5 +360,18 @@
     "meme.nukeHelp": "Exploda uma imagem",
     "premium.playlistExample5": "Lista todas as playlists do servidor.",
     "premium.playlistNoneFound": "Nenhuma playlist encontrada!",
-    "premium.playlistLoadHelp": "Use `{{prefix}}playlist load` para carregar uma playlist."
+    "premium.playlistLoadHelp": "Use `{{prefix}}playlist load` para carregar uma playlist.",
+    "misc.serverinfoSubscription": "Este servidor tem 1 subscrição **{{sub}}** ativa.",
+    "misc.serverinfoFeatures": "Características",
+    "misc.serverinfoCreation": "Servidor criado a",
+    "misc.userinfoOwner": "**{{username}}** é o dono do servidor de **{{servername}}**.",
+    "misc.userinfoJoined": "Juntou-se",
+    "misc.userinfoBoosted": "Impulsionou",
+    "admin.banBotPermissionError": "Eu não tenho permissão para Banir Membros.",
+    "admin.kickBotPermissionError": "Eu não tenho permissão para Expulsar Membros.",
+    "admin.vckickError": "Não pude expulsar o utilizador do canal de voz.",
+    "admin.roleBotPermissionError": "Eu não tenho permissão para Gerir Cargos.",
+    "admin.roleBotPositionError": "Eu não tenho permissão para gerir o cargo `{{role}}`, por favor confirme se o meu cargo mais alto está acima desse.",
+    "autorole.autoroleNoEntries": "De momento não há autocargos definidos.\nVeja `{{prefix}}help autorole` para mais informação.",
+    "music.notSameChannel": "Você precisa de estar no canal `{{channel}}` para usar este comando!"
 }
