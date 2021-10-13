@@ -197,7 +197,6 @@
     "image.weebError": "Image not found!",
     "fun.8ballHelp": "Cannot predict now",
     "fun.8ballReply": "The magic 8ball says... {{result}}",
-    "fun.emotifyHelp": "Turns some text into an emoji",
     "fun.yomammaHelp": "Responds with yo mamma jokes, they will probably be insulting!",
     "fun.urbanHelp": "Searches the urban dictionary.",
     "fun.urbanError": "Unable to find that term!",

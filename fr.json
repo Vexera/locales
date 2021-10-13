@@ -192,7 +192,6 @@
     "image.weebError": "Image non trouvée !",
     "fun.8ballHelp": "Impossible de prédire maintenant",
     "fun.8ballReply": "La 8ball magique dit... {{result}}",
-    "fun.emotifyHelp": "Transforme du texte en émojis",
     "fun.yomammaHelp": "Répond avec des blagues sur ta mère, elles seront probablement insultantes (en anglais) !",
     "fun.urbanHelp": "Recherche sur l'Urban Dictionary.",
     "fun.urbanError": "Impossible de trouver ce terme !",

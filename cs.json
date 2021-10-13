@@ -150,7 +150,6 @@
     "image.weebError": "Obrázek nenalezen!",
     "fun.8ballHelp": "Teď nelze předpovídat",
     "fun.8ballReply": "Magický 8ball říká... {{result}}",
-    "fun.emotifyHelp": "Převede text do emotikony",
     "autorole.getroleHelp": "Získá roli s podmínkou `get` z {{prefix}}autorole",
     "fun.yomammaHelp": "Odpoví se vtipy yo mamma, pravděpodobně budou urážející!",
     "fun.urbanHelp": "Prohledá urban dictionary.",
