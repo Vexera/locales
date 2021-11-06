@@ -188,6 +188,7 @@
     "autorole.getroleHelp": "Gets a role with the `get` condition from {{prefix}}autorole",
     "autorole.getroleNoConditon": "This role doesn't have the `get` condition, the owner can add it by doing `{{prefix}}autorole add get {{role}}`.",
     "autorole.autoroleNoPermission": "You cannot manage roles above yours.",
+    "autorole.autoroleTooManyRoles": "You cannot configure more than {{max}} autoroles for type `{{type}}`",
     "autorole.autoroleNoEntries": "There are currently no autoroles set up.\nSee `{{prefix}}help autorole` for more information.",
     "fun.chucknorrisHelp": "Responds with a chuck norris joke.",
     "image.catHelp": "Shows a cute cat!",
