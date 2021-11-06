@@ -30,10 +30,10 @@
     "info.helpDescription": "Vexera是个多功能的 Discord 机器人，可用于播放音乐、协助管理以及其他娱乐性和实用性的功能。\n输入`{{prefix}}help <指令>`以获取该指令的详情。\n\n**需要协助? {{support_url}}\n邀请链接: {{invite_url}}**\n\n**小提示** 前往**{{commands_url}}**查看所有指令。",
     "music.playerErrorTitle": "错误",
     "misc.serverinfoID": "ID",
-    "info.helpDM": "指令列表已发给你，请查阅私信。",
+    "info.helpDM": "指令列表已发给你，请查阅私信!",
     "info.inviteInvite": "邀请链接：{{url}}",
     "info.inviteSupport": "客服：{{url}}",
     "info.inviteHelp": "获取Vexera机器人的邀请链接。",
     "premium.redeemInvalid": "兑换码错误！请输入正确的兑换码。",
-    "premium.redeemSuccess": "成功！您的所有伺服器都能享有 Vexera Premium 服务。（剩余天数：{{days}}天）"
+    "premium.redeemSuccess": "成功！您的所有伺服器都能享有 Vexera Premium 服务（剩余天数：**{{days}}**天）。"
 }

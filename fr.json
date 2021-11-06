@@ -372,5 +372,6 @@
     "admin.kickBotPermissionError": "Je n'ai pas la permission d'expulser des membres.",
     "admin.vckickError": "Impossible d'expulser l'utilisateur du canal vocal.",
     "admin.roleBotPermissionError": "Je n'ai pas la permission de gérer les rôles.",
-    "admin.roleBotPositionError": "Je n'ai pas la permission de gérer le rôle `{{role}}`, merci de vérifier que mon rôle le plus élevé est au-dessus de celui-ci."
+    "admin.roleBotPositionError": "Je n'ai pas la permission de gérer le rôle `{{role}}`, merci de vérifier que mon rôle le plus élevé est au-dessus de celui-ci.",
+    "admin.roleManagedError": "Impossible d'ajouter ou retirer manuellement des membres dans un rôle géré."
 }
