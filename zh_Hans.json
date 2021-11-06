@@ -22,5 +22,10 @@
     "music.playSearchUsage": "说你想要翻的曲目的号码（如 ‘1’）或说 ‘cancel’ 来取消。",
     "music.noVoiceChannel": "您不是在一个语音频道!",
     "music.noJoinPermission": "我没有权限加入你的语音频道。",
-    "music.queueTrack": "{{index}}{{title}} - 要求者： {{requester}}"
+    "music.queueTrack": "{{index}}) {{title}} - 要求者： {{requester}}",
+    "music.trackNotFound": "那个歌没有找到!",
+    "info.healthStarting": "启动中",
+    "info.healthUnknown": "不明",
+    "info.helpHelp": "显示该指令",
+    "info.helpDescription": "Vexera是个多功能的 Discord 机器人，可用于播放音乐、协助管理以及其他娱乐性和实用性的功能。\n输入`{{prefix}}help <指令>`以获取该指令的详情。\n\n**需要协助? {{support_url}}\n邀请链接: {{invite_url}}**\n\n**小提示** 前往**{{commands_url}}**查看所有指令。\n\n"
 }
