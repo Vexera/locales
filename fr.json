@@ -366,7 +366,7 @@
     "misc.userinfoOwner": "**{{username}}** est le propriétaire du serveur **{{servername}}**.",
     "misc.userinfoJoined": "Rejoint",
     "misc.userinfoBoosted": "Boosté",
-    "autorole.autoroleNoEntries": "Il n'y a actuellement aucun autorole configuré.\nVoir `{{prefix}}help autorole` pour plus d'informations.",
+    "autorole.autoroleNoEntries": "Il n'y a actuellement aucun rôle automatique configuré.\nVoir `{{prefix}}help autorole` pour plus d'informations.",
     "music.notSameChannel": "Vous devez être dans le salon `{{channel}}` pour utiliser cette commande !",
     "admin.banBotPermissionError": "Je n'ai pas la permission de bannir des membres.",
     "admin.kickBotPermissionError": "Je n'ai pas la permission d'expulser des membres.",
