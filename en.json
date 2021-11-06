@@ -117,6 +117,7 @@
     "admin.rolePermissionError": "You do not have permission to manage that role.",
     "admin.roleBotPermissionError": "I do not have permission to Manage Roles.",
     "admin.roleBotPositionError": "I do not have permission to manage the `{{role}}` role, please check that my highest role is above it.",
+    "admin.roleManagedError": "Cannot manually add or remove members from a managed role.",
     "admin.roleAddError": "Unable to add that role.",
     "admin.roleRemoveError": "Unable to remove that role.",
     "admin.roleAddMass": "Adding that role to `{{count}}` members, This may take a while...",
