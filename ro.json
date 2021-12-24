@@ -132,5 +132,8 @@
     "generic.tipDashboard": "**Sfat!** Poate fi configurat la {{url}}",
     "info.healthUnknown": "Necunoscut",
     "info.helpConfigure": "Configurează botul online la {{url}}",
-    "info.helpCheckoutPremium": "Verifică premium la {{url}}"
+    "info.helpCheckoutPremium": "Verifică premium la {{url}}",
+    "music.playerErrorTitle": "Eroare",
+    "misc.serverinfoID": "ID",
+    "misc.userinfoID": "ID"
 }
