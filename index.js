@@ -1,7 +1,7 @@
 module.exports = {
   en:       { name: 'English', nameEn: 'English' },
   ar:       { name: 'الأنجليزية', nameEn: 'Arabic', unlisted: true },
-  bg:       { name: 'Български', nameEn: 'Bulgarian' },
+  bg:       { name: 'Български', nameEn: 'Bulgarian', unlisted: true },
   cs:       { name: 'Čeština', nameEn: 'Czech' },
   de:       { name: 'Deutsch', nameEn: 'German' },
   el:       { name: 'Ελληνικά', nameEn: 'Greek' },
@@ -9,7 +9,8 @@ module.exports = {
   fr:       { name: 'Français', nameEn: 'French' },
   hu:       { name: 'Magyar', nameEn: 'Hungarian', unlisted: true },
   it:       { name: 'Italiano', nameEn: 'Italian' },
-  nb_NO:    { name: 'Norsk bokmål', nameEn: 'Norwegian Bokmål' },
+  lv:       { name: 'Latviešu', nameEn: 'Latvian' },
+  nb_NO:    { name: 'Norsk bokmål', nameEn: 'Norwegian Bokmål', unlisted: true },
   nl:       { name: 'Nederlands', nameEn: 'Dutch' },
   nl_BE:    { name: 'België Nederlands', nameEn: 'Belgium Dutch', unlisted: true },
   pt:       { name: 'Português', nameEn: 'Portuguese' },
