@@ -372,5 +372,6 @@
     "admin.roleBotPositionError": "Ich habe keine Berechtigungen, um die `{{role}}` Rolle zu verwalten, bitte vergewissere Dich, dass meine höchste Rolle über Dieser ist.",
     "autorole.autoroleNoEntries": "Im Moment sind keine Autorollen vorhanden.\nSiehe `{{prefix}}help autorole`, um mehr zu erfahren.",
     "music.notSameChannel": "Du musst im `{{channel}}` Kanal sein, um diesen Befehl zu benutzen!",
-    "misc.userinfoOwner": "**{{username}}** ist der Besitzer des Servers **{{servername}}**."
+    "misc.userinfoOwner": "**{{username}}** ist der Besitzer des Servers **{{servername}}**.",
+    "meme.botNoAttachFilesPermission": "Ich benötige die **Dateien anhängen** Berechtigung in diesem Kanal um den Befehl zu benutzen."
 }
