@@ -360,6 +360,6 @@
     "music.playerErrorTitle": "Chyba",
     "misc.serverinfoID": "ID",
     "misc.userinfoID": "ID",
-    "misc.userinfoOwner": "**{{username}}** je majitelem serveru **{{servername}}**",
+    "misc.userinfoOwner": "**{{username}}** je majitelem serveru **{{servername}}**.",
     "misc.serverinfoCreation": "Server vytvořen dne"
 }
