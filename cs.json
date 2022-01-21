@@ -365,8 +365,13 @@
     "admin.banBotPermissionError": "Nemám oprávnění zabanovat uživatele.",
     "misc.userinfoBoosted": "Vylepšil/a",
     "misc.userinfoJoined": "Připojil/a se",
-    "admin.roleBotPositionError": "Nemám oprávnění upravovat roli `{{role}}`, ujisti se že má role je vyšší než tato role.",
+    "admin.roleBotPositionError": "Nemám oprávnění upravovat roli `{{role}}`, ujistěte se, že má role je vyšší než tato role.",
     "admin.roleBotPermissionError": "Nemám oprávnění upravovat role.",
     "admin.vckickError": "Nelze vyhodit uživatele z hlasového kanálu.",
-    "admin.kickBotPermissionError": "Nemám oprávnění vyhazovat uživatele."
+    "admin.kickBotPermissionError": "Nemám oprávnění vyhazovat uživatele.",
+    "meme.botNoAttachFilesPermission": "Pro použití tohoto příkazu potřebuji oprávnění **Přiložit soubory** v tomto kanálu.",
+    "music.notSameChannel": "Pro použití tohoto příkazu musíte být v kanálu `{{channel}}`!",
+    "autorole.autoroleNoEntries": "Aktuálně nejsou nastavené žádné autorole.\nPro více informací viz `{{prefix}}help autorole`.",
+    "autorole.autoroleTooManyRoles": "Pro typ `{{type}}` nelze nastavit více než {{max}} autorolí.",
+    "admin.roleManagedError": "Nelze ručně přidat nebo odebrat členy ze spravované role."
 }
