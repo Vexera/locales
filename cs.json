@@ -361,5 +361,8 @@
     "misc.serverinfoID": "ID",
     "misc.userinfoID": "ID",
     "misc.userinfoOwner": "**{{username}}** je majitelem serveru **{{servername}}**.",
-    "misc.serverinfoCreation": "Server vytvořen dne"
+    "misc.serverinfoCreation": "Server vytvořen dne",
+    "admin.banBotPermissionError": "Nemám oprávnění zabanovat uživatele.",
+    "misc.userinfoBoosted": "Vylepšil/a",
+    "misc.userinfoJoined": "Připojil/a se"
 }
