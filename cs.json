@@ -364,5 +364,9 @@
     "misc.serverinfoCreation": "Server vytvořen dne",
     "admin.banBotPermissionError": "Nemám oprávnění zabanovat uživatele.",
     "misc.userinfoBoosted": "Vylepšil/a",
-    "misc.userinfoJoined": "Připojil/a se"
+    "misc.userinfoJoined": "Připojil/a se",
+    "admin.roleBotPositionError": "Nemám oprávnění upravovat roli `{{role}}`, ujisti se že má role je vyšší než tato role.",
+    "admin.roleBotPermissionError": "Nemám oprávnění upravovat role.",
+    "admin.vckickError": "Nelze vyhodit uživatele z hlasového kanálu.",
+    "admin.kickBotPermissionError": "Nemám oprávnění vyhazovat uživatele."
 }
