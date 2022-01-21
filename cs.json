@@ -356,8 +356,10 @@
     "misc.serverinfoChannels": "Kanály",
     "misc.userinfoUsername": "Uživatelské jméno",
     "misc.userinfoDiscriminator": "Diskriminátor",
-    "misc.userinfoCreation": "Uživatel vytvořen dne",
+    "misc.userinfoCreation": "Účet vytvořen dne",
     "music.playerErrorTitle": "Chyba",
     "misc.serverinfoID": "ID",
-    "misc.userinfoID": "ID"
+    "misc.userinfoID": "ID",
+    "misc.userinfoOwner": "**{{username}}** je majitelem serveru **{{servername}}**",
+    "misc.serverinfoCreation": "Server vytvořen dne"
 }
