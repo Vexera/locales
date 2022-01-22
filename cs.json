@@ -374,5 +374,5 @@
     "autorole.autoroleNoEntries": "Aktuálně nejsou nastavené žádné autorole.\nPro více informací viz `{{prefix}}help autorole`.",
     "autorole.autoroleTooManyRoles": "Pro typ `{{type}}` nelze nastavit více než {{max}} autorolí.",
     "admin.roleManagedError": "Nelze ručně přidat nebo odebrat členy ze spravované role.",
-    "misc.serverinfoSubscription": "Tento server má již aktivní **{{sub}}** předplatné."
+    "misc.serverinfoSubscription": "Tento server již má aktivní **{{sub}}** předplatné."
 }
