@@ -16,7 +16,7 @@
     "generic.ratelimited": "Please wait {{sec}} seconds.",
     "generic.poweredBy": "Powered by {{url}}",
     "generic.tipDashboard": "**Tip!** This can be configured at {{url}}",
-    "generic.actionDisabled": "This action has been disabled. Please contact the server owner for more information.",
+    "generic.actionDisabled": "This action has been disabled. Please contact server administrators for more information.",
     "generic.actionExpired": "The action you are trying to execute has expired. Please try again.",
     "info.healthHelp": "Shows health of the bot's shards",
     "info.healthTitle": "Shard Health",
