@@ -194,6 +194,7 @@
     "autorole.autoroleNoEntries": "There are currently no autoroles set up.\nSee `{{prefix}}help autorole` for more information.",
     "autorole.getSucess": "You have been granted the {{role}} role.",
     "autorole.removeConfirm": "You already have the {{role}} role. Please click the button below to remove it.",
+    "autorole.removeConfirmButton": "Remove Role",
     "autorole.removeSucess": "The {{role}} role has been removed.",
     "fun.chucknorrisHelp": "Responds with a chuck norris joke.",
     "image.catHelp": "Shows a cute cat!",
