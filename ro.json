@@ -149,5 +149,6 @@
     "generic.actionExpired": "Acțiunea pe care încerci să o execuți a expirat. Te rog încearcă din nou.",
     "generic.actionDisabled": "Această acțiune a fost dezactivată. Te rog contactează administratorii server-ului pentru mai multe informații.",
     "music.trackNotFound": "Această piesă nu a fost găsită!",
-    "music.playEnqueued": "`{{title}}` a fost adăugat în lista de așteptare în poziția `{{position}}`."
+    "music.playEnqueued": "`{{title}}` a fost adăugat în lista de așteptare în poziția `{{position}}`.",
+    "music.playSearchUsage": "Spune numărul melodiei pe care dorești să o redai (ex. '1') sau spune 'cancel' pentru a anula."
 }
