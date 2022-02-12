@@ -135,5 +135,6 @@
     "info.helpCheckoutPremium": "Verifică premium la {{url}}",
     "music.playerErrorTitle": "Eroare",
     "misc.serverinfoID": "ID",
-    "misc.userinfoID": "ID"
+    "misc.userinfoID": "ID",
+    "music.playHelp": "Pornește o piesă. Redarea de pe mai multe site-uri este suportată."
 }
