@@ -1,7 +1,8 @@
 {
     "generic.error": "An unexpected error occurred.",
     "generic.errorCodeblock": "An unexpected error occurred.\n```{{error}}```",
-    "generic.errorID": "An unexpected error occurred. If you believe this wasn't meant to happen, please tell the support server the error ID: `{{errorID}}`.",
+    "generic.errorID": "An unexpected error occurred. If you believe this wasn't meant to happen, please tell the [support server]({{url}}) the error ID: `{{errorID}}`.",
+    "generic.killswitched": "This command has been globally disabled due to an ongoing issue. Please refer to the [support server]({{url}}) for more information.",
     "generic.processingTitle": "Processing",
     "generic.processingDescription": "This command has not finished processing.",
     "generic.insufficientArgs": "Incorrect amount of arguments specified, for more information on this command, see `{{prefix}}help {{command}}`.",
