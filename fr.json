@@ -149,7 +149,7 @@
     "music.lyricsNotFound": "Paroles non trouvées !",
     "info.nodeinfoHelp": "Affiche des informations à propos des serveurs vocaux.",
     "meme.handicappedHelp": "Monsieur ! Cette place est réservée aux handicapés !",
-    "generic.errorID": "Une erreur inattendue s'est produite. Si vous croyez qu'elle n'était pas censée se produire, merci de renvoyer l'ID de l'erreur au serveur de support : `{{errorID}}`.",
+    "generic.errorID": "Une erreur inattendue s'est produite. Si vous croyez qu'elle n'était pas censée se produire, merci de renvoyer l'ID de l'erreur au [serveur de support]({{url}}) : `{{errorID}}`.",
     "generic.insufficientArgs": "Nombre d'arguments spécifiés incorrecte, pour plus d'information sur cette commande, voir `{{prefix}}help {{command}}`.",
     "generic.guildOnlyError": "Cette commande ne peut être utilisée que dans les serveurs.",
     "generic.ratelimited": "Merci de patienter {{sec}} secondes.",
@@ -375,5 +375,12 @@
     "admin.roleBotPositionError": "Je n'ai pas la permission de gérer le rôle `{{role}}`, merci de vérifier que mon rôle le plus élevé est au-dessus de celui-ci.",
     "admin.roleManagedError": "Impossible d'ajouter ou retirer manuellement des membres dans un rôle géré.",
     "autorole.autoroleTooManyRoles": "Vous ne pouvez pas configurer plus de {{max}} rôles automatiques pour le type `{{type}}`.",
-    "meme.botNoAttachFilesPermission": "J'ai besoin de la permission de **Joindre des fichiers** dans ce salon pour utiliser cette commande."
+    "meme.botNoAttachFilesPermission": "J'ai besoin de la permission de **Joindre des fichiers** dans ce salon pour utiliser cette commande.",
+    "autorole.removeSucess": "Le rôle {{role}} a été retiré.",
+    "autorole.removeConfirmButton": "Retirer le Rôle",
+    "autorole.removeConfirm": "Vous avez déjà le rôle {{role}}. Veuillez cliquer sur le bouton ci-dessous pour le retirer.",
+    "autorole.getSucess": "Vous avez obtenu le rôle {{role}}.",
+    "generic.actionExpired": "L'action que vous essayez d'exécuter a expirée. Merci de réessayer.",
+    "generic.actionDisabled": "Cette action a été désactivée. Veuillez contacter les administrateurs du serveur pour plus d'informations.",
+    "generic.killswitched": "Cette commande a été désactivée globalement en raison d'un incident en cours. Veuillez vous référer au [serveur de support]({{url}}) pour plus d'informations."
 }
