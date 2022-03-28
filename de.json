@@ -1,7 +1,7 @@
 {
     "generic.error": "Ein unerwarteter Fehler ist aufgetreten.",
     "generic.errorCodeblock": "Ein unerwarteter Fehler ist aufgetreten.\n```{{error}}```",
-    "generic.errorID": "Ein unerwarteter Fehler ist aufgetreten. Wenn du denkst, das hätte nicht passieren sollen, melde dich bitte bei unserem Support-Server mit der Error-ID: `{{errorID}}`.",
+    "generic.errorID": "Ein unerwarteter Fehler ist aufgetreten. Wenn du denkst, das hätte nicht passieren sollen, melde dich bitte bei unserem [Support-Server]({{url}}) mit der Error-ID: `{{errorID}}`.",
     "generic.processingTitle": "Wird verarbeitet",
     "generic.processingDescription": "Dieser Befehl wurde noch nicht vollständig verarbeitet.",
     "generic.insufficientArgs": "Falsche Anzahl an Argumenten angegeben, für mehr Informationen über diesen Befehl, sieh' mal bei `{{prefix}}help {{command}}` nach.",
@@ -375,5 +375,6 @@
     "misc.userinfoOwner": "**{{username}}** ist der Besitzer des Servers **{{servername}}**.",
     "meme.botNoAttachFilesPermission": "Ich benötige die **Dateien anhängen** Berechtigung in diesem Kanal, um den Befehl zu benutzen.",
     "admin.roleManagedError": "Nicht imstande Benutzer manuell von einer verwalteten Rolle zu entfernen oder hinzuzufügen.",
-    "autorole.autoroleTooManyRoles": "Du kannst nicht mehr als {{max}} Autoroles des Typs `{{type}}` zuweisen."
+    "autorole.autoroleTooManyRoles": "Du kannst nicht mehr als {{max}} Autoroles des Typs `{{type}}` zuweisen.",
+    "generic.killswitched": "Dieser Befehl wurde aufgrund eines anhaltenden Problems global deaktiviert. Weitere Informationen finden Sie auf dem [Support-Server]({{url}})."
 }
