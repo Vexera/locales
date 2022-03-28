@@ -379,5 +379,8 @@
     "generic.killswitched": "Dieser Befehl wurde aufgrund eines anhaltenden Problems global deaktiviert. Weitere Informationen findest Du auf dem [Support-Server]({{url}}).",
     "generic.actionExpired": "Die Aktion, die Du versuchst auszuführen, ist abgelaufen. Bitte versuche es noch einmal.",
     "generic.actionDisabled": "Diese Aktion wurde deaktiviert. Bitte kontaktiere einen Server Admin für mehr Information.",
-    "autorole.removeConfirmButton": "Rolle entfernen"
+    "autorole.removeConfirmButton": "Rolle entfernen",
+    "autorole.removeSucess": "Die Rolle {{role}} wurde entfernt.",
+    "autorole.removeConfirm": "Du hast bereits die Rolle {{role}}. Bitte klicke auf den Button unten, um sie zu entfernen.",
+    "autorole.getSucess": "Dir wurde die Rolle {{role}} zugeteilt."
 }
