@@ -376,5 +376,7 @@
     "meme.botNoAttachFilesPermission": "Ich benötige die **Dateien anhängen** Berechtigung in diesem Kanal, um den Befehl zu benutzen.",
     "admin.roleManagedError": "Nicht imstande Benutzer manuell von einer verwalteten Rolle zu entfernen oder hinzuzufügen.",
     "autorole.autoroleTooManyRoles": "Du kannst nicht mehr als {{max}} Autoroles des Typs `{{type}}` zuweisen.",
-    "generic.killswitched": "Dieser Befehl wurde aufgrund eines anhaltenden Problems global deaktiviert. Weitere Informationen finden Sie auf dem [Support-Server]({{url}})."
+    "generic.killswitched": "Dieser Befehl wurde aufgrund eines anhaltenden Problems global deaktiviert. Weitere Informationen finden Sie auf dem [Support-Server]({{url}}).",
+    "generic.actionExpired": "Die Aktion die du versuchst auszuführen, ist abgelaufen. Bitte versuche es noch einmal.",
+    "generic.actionDisabled": "Diese Aktion wurde deaktiviert. Bitte kontaktiere einen Server Admin für mehr Information."
 }
