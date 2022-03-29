@@ -2,6 +2,7 @@ module.exports = {
   en:       { name: 'English', nameEn: 'English' },
   ar:       { name: 'الأنجليزية', nameEn: 'Arabic', unlisted: true },
   bg:       { name: 'Български', nameEn: 'Bulgarian', unlisted: true },
+  ckb:      { name: 'کوردی', nameEn: 'Kurdish Sorani' },
   cs:       { name: 'Čeština', nameEn: 'Czech' },
   de:       { name: 'Deutsch', nameEn: 'German' },
   el:       { name: 'Ελληνικά', nameEn: 'Greek' },
