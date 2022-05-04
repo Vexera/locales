@@ -315,7 +315,7 @@
     "admin.unbanHelp": "Entbannt einen Nutzer.",
     "settings.modlogHelp": "Setzt einen Kanal, der alle Verstöße protokolliert.",
     "modlog.line6": "**Länge**: {{duration}}",
-    "automod.triggered": "[Auto] Der Filter {{filterName}} wurde ausgelöst.",
+    "automod.triggered": "[Auto] Filter ausgelöst: {{filterName}}",
     "automod.warnings": "[Auto] Der Nutzer hat {{warns}} Warnungen in 24 Stunden erhalten.",
     "meme.logoHelp": "Erstellt ein Vexera-Logo mit maßgeschneidertem Text!",
     "misc.remindHelp": "Setzt eine Erinnerung.",
