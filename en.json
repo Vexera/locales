@@ -301,6 +301,7 @@
     "music.lyricsNoQuery": "Track not specified!",
     "music.lyricsNotFound": "Lyrics not found!",
     "info.nodeinfoHelp": "Shows information about the voice nodes.",
+    "meme.boyfriendHelp": "For distracted boyfriends!\n\nArguments can be a user or an image URL.",
     "meme.drakeHelp": "Makes a drake meme. Arguments can be a user or an image URL.",
     "meme.drakeExample1": "Drake meme, but Tatsu bad and Vexera good tbh",
     "meme.mistakeHelp": "For big mistakes.",
