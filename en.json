@@ -15,6 +15,7 @@
     "generic.argNoResponse": "No response for 30 seconds.",
     "generic.promptCancel": "Prompt cancelled.",
     "generic.ratelimited": "Please wait {{sec}} seconds.",
+    "generic.lockedTooFast": "Whoa! You're too fast! The previous command hasn't finished yet.\nPlease try again in a few seconds.",
     "generic.poweredBy": "Powered by {{url}}",
     "generic.tipDashboard": "**Tip!** This can be configured at {{url}}",
     "generic.actionDisabled": "This action has been disabled. Please contact server administrators for more information.",
