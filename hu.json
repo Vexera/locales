@@ -50,5 +50,6 @@
     "perms.permsExample6": "Jogok megvonása a `Moderators` rangtól",
     "perms.permsNodesTitle": "Jogcsoportok",
     "generic.permissionError": "Nincs jogod a parancs használatához (`{{permission}}` jog szükséges)",
-    "generic.discordPermissionError": "A parancs használatához a `{{permission}}` jog szükséges."
+    "generic.discordPermissionError": "A parancs használatához a `{{permission}}` jog szükséges.",
+    "settings.localeNotComplete": "A Vexera {{langname}} nyelvre fordítása csak {{percentage}}%-ban van kész. Szeretnél közreműködni? Tudj meg többet itt: <{{url}}>."
 }
