@@ -393,5 +393,12 @@
     "misc.userinfoIntentPresence": "Этот бот имеет информацию о статусе участников",
     "misc.userinfoAppCommands": "Это приложение использует [команды приложения]({{url}})",
     "misc.userinfoBotVerified": "Этот пользователь - [верифицированный]({{url}}) бот",
-    "misc.userinfoBoosted": "Забустил"
+    "misc.userinfoBoosted": "Забустил",
+    "music.notSameChannel": "Вам нужно быть в канале `{{channel}}` чтобы использовать эти команды! ",
+    "autorole.removeSucess": "Роль {{role}} была убрана. ",
+    "autorole.removeConfirm": "У вас уже есть роль {{role}}. Пожалуйста, нажмите на кнопку ниже чтобы убрать её.",
+    "autorole.getSucess": "Вы получили роль {{role}}. ",
+    "misc.userinfoBot": "Этот пользователь - бот",
+    "misc.userinfoApplication": "Информация о приложении",
+    "misc.userinfoJoined": "Зашёл"
 }
