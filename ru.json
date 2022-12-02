@@ -400,5 +400,8 @@
     "autorole.getSucess": "Вы получили роль {{role}}. ",
     "misc.userinfoBot": "Этот пользователь - бот",
     "misc.userinfoApplication": "Информация о приложении",
-    "misc.userinfoJoined": "Зашёл"
+    "misc.userinfoJoined": "Зашёл",
+    "autorole.removeConfirmButton": "Снять роль",
+    "misc.userinfoIntentMessagesDisabled": "Этот бот не имеет доступа к содержимому сообщений",
+    "misc.userinfoIntentMessages": "Этот бот имеет доступ к содержимому сообщений"
 }
