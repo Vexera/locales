@@ -373,5 +373,6 @@
     "generic.continue": "Продолжить",
     "generic.confirm": "Подтвердить",
     "misc.serverinfoFeatures": "Особенности",
-    "misc.serverinfoCreation": "Сервер был создан"
+    "misc.serverinfoCreation": "Сервер был создан",
+    "misc.userinfoOwner": "**{{username}}** является создателем сервера **{{servername}}**."
 }
