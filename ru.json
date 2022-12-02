@@ -372,5 +372,6 @@
     "generic.cancel": "Отменить",
     "generic.continue": "Продолжить",
     "generic.confirm": "Подтвердить",
-    "misc.serverinfoFeatures": "Особенности"
+    "misc.serverinfoFeatures": "Особенности",
+    "misc.serverinfoCreation": "Сервер был создан"
 }
