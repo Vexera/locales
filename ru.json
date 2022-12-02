@@ -1,7 +1,7 @@
 {
     "generic.error": "Произошла непредвиденная ошибка.",
     "generic.errorCodeblock": "Произошла непредвиденная ошибка.\n```{{error}}```",
-    "generic.errorID": "Произошла непредвиденная ошибка. Если это показалось вам странным, сообщите в поддержку следующий ID: `{{errorID}}`.",
+    "generic.errorID": "Произошла непредвиденная ошибка. Если это показалось вам странным, сообщите в [сервер поддержки]({{url}}) идентификатор ошибки: `{{errorID}}`.",
     "generic.processingTitle": "Обработка",
     "generic.processingDescription": "Эта команда не была обработана.",
     "generic.insufficientArgs": "Неправильное количество заданных аргументов, для получения дополнительной информации об этой команде см. `{{prefix}}help {{command}}`.",
@@ -359,5 +359,8 @@
     "generic.tipDashboard": "**Совет!** Это может быть настроено на {{url}}",
     "premium.playlistExample5": "Отображает все плейлисты этого сервера.",
     "premium.playlistNoneFound": "Плейлисты не найдены!",
-    "premium.playlistLoadHelp": "Используйте `{{prefix}}playlist load` чтобы загрузить плейлист."
+    "premium.playlistLoadHelp": "Используйте `{{prefix}}playlist load` чтобы загрузить плейлист.",
+    "generic.actionNoRollback": "Это нельзя отменить.",
+    "generic.actionConfirm": "Вы уверены что хотите выполнить это действие?",
+    "generic.lockedTooFast": "Воу! Слишком быстро! Предыдущая команда еще не была завершена.\nПожалуйста, попробуйте еще раз через несколько секунд."
 }
