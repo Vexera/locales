@@ -371,5 +371,6 @@
     "generic.yes": "Да",
     "generic.cancel": "Отменить",
     "generic.continue": "Продолжить",
-    "generic.confirm": "Подтвердить"
+    "generic.confirm": "Подтвердить",
+    "misc.serverinfoFeatures": "Особенности"
 }
