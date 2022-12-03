@@ -382,5 +382,14 @@
     "autorole.getSucess": "Vous avez obtenu le rôle {{role}}.",
     "generic.actionExpired": "L'action que vous essayez d'exécuter a expirée. Merci de réessayer.",
     "generic.actionDisabled": "Cette action a été désactivée. Veuillez contacter les administrateurs du serveur pour plus d'informations.",
-    "generic.killswitched": "Cette commande a été désactivée globalement en raison d'un incident en cours. Veuillez vous référer au [serveur de support]({{url}}) pour plus d'informations."
+    "generic.killswitched": "Cette commande a été désactivée globalement en raison d'un incident en cours. Veuillez vous référer au [serveur de support]({{url}}) pour plus d'informations.",
+    "misc.userinfoApplication": "Informations sur l'application",
+    "generic.no": "Non",
+    "generic.yes": "Oui",
+    "generic.confirm": "Confirmer",
+    "generic.cancel": "Annuler",
+    "generic.continue": "Continuer",
+    "generic.actionNoRollback": "Cela ne peut-être annulé.",
+    "generic.actionConfirm": "Es-tu sûr de vouloir exécuter cette action ?",
+    "generic.lockedTooFast": "Holà ! Tu va trop vite ! La commande précédente ne s'est pas encore terminée.\nEssaie de nouveau dans quelques secondes."
 }
