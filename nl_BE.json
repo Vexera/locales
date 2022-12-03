@@ -137,7 +137,7 @@
     "music.queueHeader": "Wachtrijpagina {{page}}/{{num}}",
     "music.queueEmpty": "De Wachtrij is leeg!",
     "music.queuePageNotFound": "Pagina niet gevonden!",
-    "music.queueTrack": "{{index}}){{title}} - Aangevraagd door {{requester}}",
+    "music.queueTrack": "{{index}}) {{title}} - Aangevraagd door {{requester}}",
     "premium.volumeHelp": "Stelt het volume van de muziek in.",
     "premium.volumeStatus": "Het volume is momenteel {{percent}}%",
     "music.trackNotFound": "Dat liedje is niet gevonden!",

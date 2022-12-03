@@ -15,7 +15,7 @@
     "music.noVoiceChannel": "Du er ikke i en voice channel!",
     "music.noJoinPermission": "Jeg har ikke tillatelse til å bli med i din voice channel.",
     "music.enqueueMultiple": "La {{resultLength}} sanger til køen (brukte {{timeTaken}} sekunder på å bearbeide)",
-    "music.queueTrack": "{{index}}{{title}} - Lagt til av {{requester}}",
+    "music.queueTrack": "{{index}}) {{title}} - Lagt til av {{requester}}",
     "music.trackNotFound": "Den låten vart ikke funnet!",
     "music.viewWebsite": "Se på vexera.io",
     "generic.invalidArg": "Klarte ikke å løse `{{arg}}` argumentet.",

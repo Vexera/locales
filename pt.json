@@ -210,7 +210,7 @@
     "music.queueHeader": "Página da lista {{page}}/{{num}}",
     "music.queueEmpty": "A lista está vazia!",
     "music.queuePageNotFound": "Página não encontrada!",
-    "music.queueTrack": "{{index}} {{title}} - Pedida por {{requester}}",
+    "music.queueTrack": "{{index}}) {{title}} - Pedida por {{requester}}",
     "premium.volumeHelp": "Configura o volume da música que está a tocar.",
     "premium.volumeStatus": "O volume está a {{percent}}% neste momento",
     "music.trackNotFound": "Essa música não foi encontrada!",

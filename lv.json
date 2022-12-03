@@ -8,7 +8,7 @@
     "music.playSearchUsage": "Uzraksti skaitli no mūziku saraksta, kuru jūs vēlaties atskaņot (piem. '1') vai rakstiet 'atcelt' lai atceltu.",
     "music.noVoiceChannel": "Tu neatrodies balss kanālā!",
     "music.noJoinPermission": "Man nav pieeju pievienoties tavam balss kanālam.",
-    "music.queueTrack": "{{index}} {{title}} - Pieprasīts no {{requester}}",
+    "music.queueTrack": "{{index}}) {{title}} - Pieprasīts no {{requester}}",
     "music.trackNotFound": "Šāda mūzika netika atrasta!",
     "music.viewWebsite": "Klausīties iekš vexera.io",
     "generic.error": "Notika neparedzēta kļūda.",
