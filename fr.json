@@ -391,5 +391,6 @@
     "generic.continue": "Continuer",
     "generic.actionNoRollback": "Cela ne peut-être annulé.",
     "generic.actionConfirm": "Es-tu sûr de vouloir exécuter cette action ?",
-    "generic.lockedTooFast": "Holà ! Tu va trop vite ! La commande précédente ne s'est pas encore terminée.\nEssaie de nouveau dans quelques secondes."
+    "generic.lockedTooFast": "Holà ! Tu va trop vite ! La commande précédente ne s'est pas encore terminée.\nEssaie de nouveau dans quelques secondes.",
+    "misc.userinfoBot": "Cet utilisateur est un robot"
 }
