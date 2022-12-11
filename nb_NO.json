@@ -37,7 +37,6 @@
     "info.helpDM": "Sjekk dine direktemeldinger for å se en liste av kommandoer!",
     "info.statsUsersVC": "Tilkoblede brukere",
     "info.statsHelp": "Viser statistikk om boten",
-    "info.clusterinfoHelp": "Viser informasjon om alle klustrene",
     "info.inviteInvite": "Invitasjon: {{url}}",
     "info.inviteSupport": "Støtte: {{url}}",
     "info.inviteHelp": "Får tak i linken for å invitere boten.",

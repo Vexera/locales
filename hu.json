@@ -22,7 +22,6 @@
     "info.helpDM": "Hesszeld a privát üzeneteid közt a parancsok listáját!",
     "info.statsUsersVC": "Csatlakoztatott felhasználók",
     "info.statsHelp": "Infó a botról",
-    "info.clusterinfoHelp": "Infó az összes cluster-ről",
     "info.inviteInvite": "Bot meghívása: {{url}}",
     "info.inviteSupport": "Discord szerverünk: {{url}}",
     "info.inviteHelp": "Ad egy URL-t, hogy meghívhasd a botot.",
