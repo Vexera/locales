@@ -251,7 +251,7 @@
     "music.playerErrorPlayingDescription": "An error occurred while trying to play this track.",
     "music.playerDuration": "Duration",
     "music.playerRequested": "Requested By",
-    "music.playHelp": "Plays a track. A range of sites are supported.",
+    "music.playHelp": "Plays a track. A range of sites are supported. You can add `-next` at the end of the command to add the track on the next position of the queue.",
     "music.playExample1": "Searches youtube for 'marble soda'",
     "music.playExample2": "Plays a soundcloud track, using the direct URL",
     "music.playExample3": "Plays a youtube video, using the direct URL",
