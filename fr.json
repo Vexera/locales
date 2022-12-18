@@ -105,7 +105,7 @@
     "music.playerErrorPlayingDescription": "Une erreur est survenue en essayant de lire cette piste.",
     "music.playerDuration": "Durée",
     "music.playerRequested": "Demandé par",
-    "music.playHelp": "Lit une piste. Un certain nombre de sites sont supportés.",
+    "music.playHelp": "Lit une piste. Un certain nombre de sites sont supportés. Vous pouvez ajouter `-next` à la fin de la commande pour ajouter la piste à la position suivante de la file d'attente.",
     "music.playEnqueued": "`{{title}}` ajouté à la file d'attente à la position `{{position}}`.",
     "music.playSearchResult": "Résultats de recherche",
     "music.playSearchUsage": "Dit le numéro de la piste que tu souhaites lire (par ex. « 1 ») ou « cancel » pour annuler.",
