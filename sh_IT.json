@@ -306,7 +306,7 @@
     "premium.donatorsEmpty": "no⛔⛔ messages✉️ to show!",
     "premium.premiumHelp": "displays🖥️ 💲premium💲 informationℹ️ℹ️.",
     "premium.statusHelp": "🖥️displays 💲premium💲 status.",
-    "music.premiumSpotifyAlternative": "alternatively, there are websites that can [convert 🎵spotify 🎵playlists into 🎵youtube🎵 playlists](https://bfnt.io/spotify-converter) which you can visit👀👀 if you want to stay 🆓free🆓.",
+    "music.premiumSpotifyAlternative": "alternatively, there are websites that can [convert 🎵spotify 🎵playlists into 🎵youtube🎵 playlists]({{url}}) which you can visit👀👀 if you want to stay 🆓free🆓.",
     "music.premiumSpotifyProcessing": "processing spotify🎵 🎵playlist.. this may take some time⏱️⏱️.",
     "premium.statusTransferredFrom": "this user👤👤 transferred their subscription💲 to `{{tag}}`.",
     "premium.statusTransferredTo": "this 👤user👤 is the beneficiary of a 💲subscription💲 transfer from `{{tag}}`.",

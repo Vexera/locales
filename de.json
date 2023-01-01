@@ -321,7 +321,7 @@
     "misc.remindSuccess": "Okay, ich werde dich über {{text}} erinnern.",
     "music.queryNotFound": "Keine Ergebnisse gefunden.",
     "music.premiumSpotifyError": "Nur Vexera Premium Abonnenten können Spotify Playlists hören. Für mehr Informationen besuche <https://vexera.io/premium>.",
-    "music.premiumSpotifyAlternative": "Alternativ gibt es Webseiten, die [Spotify Playlists in Youtube Playlists](https://bfnt.io/spotify-converter) umwandeln können. Du kannst solche Webseiten benutzen, wenn du weiterhin kostenlos Vexera verwenden möchtest.",
+    "music.premiumSpotifyAlternative": "Alternativ gibt es Webseiten, die [Spotify Playlists in Youtube Playlists]({{url}}) umwandeln können. Du kannst solche Webseiten benutzen, wenn du weiterhin kostenlos Vexera verwenden möchtest.",
     "music.premiumSpotifyProcessing": "Verarbeite Spotify Playlist... Dies kann einen Moment dauern.",
     "premium.bassStatus": "Der Bass ist momentan auf `{{bass}}` eingestellt",
     "premium.bassHelp": "Stellt den Bass für die Musikwiedergabe ein.\nGültige Optionen: `none`, `weak`, `medium`, `strong`, `insane`, `wtf`.",

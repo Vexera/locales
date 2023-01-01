@@ -239,7 +239,7 @@
     "music.queryNotFound": "Nessun risultato trovato.",
     "music.commandDonator": "Solo i premium possono usare questo comando! Per più informazioni, vai su <https://vexera.io/premium>",
     "music.premiumSpotifyError": "Solo i premium possono caricare le playlist Spotify! Per più informazioni, vai su <https://vexera.io/premium>.",
-    "music.premiumSpotifyAlternative": "Oppure, ci sono siti che possono [convertire playlist Spotify in playlist Youtube](https://bfnt.io/spotify-converter) che puoi visitare gratuitamente.",
+    "music.premiumSpotifyAlternative": "Oppure, ci sono siti che possono [convertire playlist Spotify in playlist Youtube]({{url}}) che puoi visitare gratuitamente.",
     "music.premiumSpotifyProcessing": "Processando la playlist di Spotify.. potrebbe impiegarci parecchio tempo.",
     "premium.volumeLimit": "Impostando il volume al 150%. Voglio proteggere i tuoi timpani!",
     "music.repeatHelp": "Ripete una canzone.",

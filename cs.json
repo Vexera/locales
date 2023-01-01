@@ -215,7 +215,7 @@
     "music.queryNotFound": "Žádné výsledky nebyly nalezeny.",
     "music.commandDonator": "Jen odběratelé prémia mohou používat tento příkaz! Pro více informací viz. <https://vexera.io/premium>",
     "music.premiumSpotifyError": "Jen odběratelé Vexera Prémium mohou načítat playlisty Spotify. Pro více informací, viz. <https://vexera.io/premium>.",
-    "music.premiumSpotifyAlternative": "Alternativně, existují webstránky, které mohou [převěst Spotify playlisty na YouTube playlisty](bfnt.io/spotify-converter) které můžete navštívit pokud nechcete platit za prémium.",
+    "music.premiumSpotifyAlternative": "Alternativně, existují webstránky, které mohou [převěst Spotify playlisty na YouTube playlisty]({{url}}) které můžete navštívit pokud nechcete platit za prémium.",
     "music.premiumSpotifyProcessing": "Zpracovávání playlistu Spotify.. toto může chvíli trvat.",
     "premium.volumeLimit": "Nastavuji hlasitost na 150%. Chci chránit Vaše uši!",
     "music.repeatHelp": "Opakuje stopu.",

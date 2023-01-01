@@ -207,7 +207,7 @@
     "music.queryNotFound": "Нічого не знайдено.",
     "music.commandDonator": "Тільки преміум-підписники можутьвикористовувати цю команду! Для подальшої інформації див. <https://vexera.io/premium>",
     "music.premiumSpotifyError": "Тільки підписники Vexera Premium можуть завантажувати плейлісти зі Spotify! Для подальшої інформації див. <https://vexera.io/premium>.",
-    "music.premiumSpotifyAlternative": "Як альтернатива існують сайти, які можуть [конвертувати плейлісти Spotify у плейлісти YouTube](https://bfnt.io/spotify-converter). Ти можеш скористатися ними, якщо не хочеш платити.",
+    "music.premiumSpotifyAlternative": "Як альтернатива існують сайти, які можуть [конвертувати плейлісти Spotify у плейлісти YouTube]({{url}}). Ти можеш скористатися ними, якщо не хочеш платити.",
     "music.premiumSpotifyProcessing": "Оброблюю плейліст Spotify... Це може зайняти деякий час.",
     "premium.volumeLimit": "Встановлюю гучність на 150%. Я хочу захистити ваши барабанні перетинки!",
     "music.repeatHelp": "Грає пісню ще раз.",

@@ -273,7 +273,7 @@
     "settings.logExample2": "İhlalleri (yasaklama, atma), #mod-log kanalına gönderir",
     "music.queryNotFound": "Hiçbir sonuç bulunamadı.",
     "music.premiumSpotifyError": "Sadece Vexera Premium aboneleri Spotify şarkı listesi ekleyebilir! Daha fazla bilgi için, <https://vexera.io/premium> adresine göz atın.",
-    "music.premiumSpotifyAlternative": "Alternatif olarak, [Spotify şarkı listelerini, Youtube şarkı listelerine çeviren](https://bfnt.io/spotify-converter) websiteleri var, hala ücretsiz versiyonda kalmak istiyorsanız göz atabilirsiniz.",
+    "music.premiumSpotifyAlternative": "Alternatif olarak, [Spotify şarkı listelerini, Youtube şarkı listelerine çeviren]({{url}}) websiteleri var, hala ücretsiz versiyonda kalmak istiyorsanız göz atabilirsiniz.",
     "music.premiumSpotifyProcessing": "Spotify çalma listesi yükleniyor.. biraz zaman alabilir.",
     "games.fortniteError": "İstatistikleri toplarken hata: {{error}}",
     "games.fortniteHelp": "Fortnite'dan bir oyuncuyu arar.",

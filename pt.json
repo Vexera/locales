@@ -312,7 +312,7 @@
     "settings.modlogHelp": "Configura o canal que irá registar todas as infrações.",
     "music.queryNotFound": "Nenhum resultado encontrado.",
     "music.premiumSpotifyError": "Apenas os assinantes do Vexera Premium podem carregar listas de reprodução do Spotify! Para mais informações, consulte <https://vexera.io/premium>.",
-    "music.premiumSpotifyAlternative": "Alternativamente, há sites que podem [converter listas de reprodução do Spotify em playlists do YouTube](https://bfnt.io/spotify-converter), que você pode visitar se quiser.",
+    "music.premiumSpotifyAlternative": "Alternativamente, há sites que podem [converter listas de reprodução do Spotify em playlists do YouTube]({{url}}), que você pode visitar se quiser.",
     "music.premiumSpotifyProcessing": "Processando a playlist do Spotify. Isto pode demorar um pouco....",
     "modlog.line6": "**Duração**: {{duration}}",
     "automod.triggered": "[Auto] Filtro acionado {{filterName}}.",

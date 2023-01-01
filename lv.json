@@ -58,7 +58,7 @@
     "music.queryNotFound": "Nav rezultātu.",
     "music.commandDonator": "Tikai augstākās klases abonenti var izmantot šo komandu! Plašāku informāciju skatiet <https://vexera.io/premium>",
     "music.premiumSpotifyError": "Tikai Vexera Premium abonenti var ielādēt Spotify atskaņošanas sarakstus! Plašāku informāciju skatiet <https://vexera.io/premium>.",
-    "music.premiumSpotifyAlternative": "Alternatīvi, ir vietnes, kas var [pārveidot Spotify atskaņošanas sarakstus Youtube atskaņošanas sarakstos](https://bfnt.io/spotify-converter) kuru jūs varat apmeklēt, ja vēlaties palikt bez maksas.",
+    "music.premiumSpotifyAlternative": "Alternatīvi, ir vietnes, kas var [pārveidot Spotify atskaņošanas sarakstus Youtube atskaņošanas sarakstos]({{url}}) kuru jūs varat apmeklēt, ja vēlaties palikt bez maksas.",
     "music.premiumSpotifyProcessing": "Notiek Spotify atskaņošanas saraksta apstrāde .. tas var aizņemt kādu laiku.",
     "premium.volumeLimit": "Skaļuma iestatīšana uz 150%. Es vēlos aizsargāt jūsu bungādiņas!",
     "music.repeatHelp": "Atkārto mūziku.",
