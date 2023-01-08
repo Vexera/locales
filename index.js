@@ -14,6 +14,7 @@ module.exports = {
   nb_NO:    { name: 'Norsk bokmål', nameEn: 'Norwegian Bokmål', unlisted: true },
   nl:       { name: 'Nederlands', nameEn: 'Dutch' },
   nl_BE:    { name: 'België Nederlands', nameEn: 'Belgium Dutch', unlisted: true },
+  pl:       { name: 'Polski', nameEn: 'Polish', unlisted: true },
   pt:       { name: 'Português', nameEn: 'Portuguese' },
   ro:       { name: 'Română', nameEn: 'Romanian' },
   ru:       { name: 'Русский', nameEn: 'Russian' },
