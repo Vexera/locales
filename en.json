@@ -330,7 +330,7 @@
     "premium.premiumStatus": "Checks the premium status of a user.",
     "premium.statusAmount": "Amount Pledged",
     "premium.statusDatePledged": "Date Pledged",
-    "premium.statusDeclined": "**Warning:** The payment for this pledge was declined. The user's premium features will be disabled on the 5th of this month.",
+    "premium.statusDeclined": "**Warning:** The payment for this pledge was declined. The user's premium features will be disabled on {{date}}.",
     "premium.statusExpiry": "Expiry",
     "premium.statusTransferredFrom": "This user transferred their subscription to `{{tag}}`.",
     "premium.statusTransferredTo": "This user is the beneficiary of a subscription transfer from `{{tag}}`.",
