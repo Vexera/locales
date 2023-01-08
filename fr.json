@@ -77,7 +77,7 @@
     "settings.channeltoggleDisabled": "Les commandes ont été désactivées dans ce salon.",
     "settings.accessroleHelp": "Définit un rôle que les personnes doivent avoir pour utiliser le bot. Utilisez `{{prefix}}accessrole disable` pour désactiver",
     "settings.accessroleDisabled": "Rôle d'accès correctement désactivé.",
-    "settings.accessroleSet": "Rôle d'accès correctement défini.",
+    "settings.accessroleSet": "Rôle d'accès correctement défini sur {{role}}.",
     "settings.localeHelp": "Définit une langue. Voir `{{prefix}}locale list` pour la liste des langues disponibles.",
     "settings.localeTitle": "Langues",
     "settings.localeCurrent": "Langue actuelle : {{locale}}",
@@ -415,5 +415,6 @@
     "misc.userinfoBotVerified": "Cet utilisateur est un bot [certifié]({{url}})",
     "meme.boyfriendHelp": "Pour les petits amis distraits !\n\nLes arguments peuvent être un utilisateur ou l'URL d'une image.",
     "music.clearSuccess": "La file d'attente a été correctement effacée.",
-    "music.clearButtonDone": "File d'attente effacée par {{user}}"
+    "music.clearButtonDone": "File d'attente effacée par {{user}}",
+    "settings.accessroleLockout": "Tu ne peux pas définir le rôle d'accès sur {{role}} car cela te bloquerait l'accès au bot. Ajoutes ce rôle à toi-même, puis essai à nouveau."
 }
