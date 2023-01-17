@@ -9,6 +9,7 @@
     "generic.insufficientArg": "You didn't specify the `{{arg}}` argument.",
     "generic.invalidArg": "Unable to resolve the `{{arg}}` argument.",
     "generic.invalidArgValue": "Unknown value `{{value}}` for `{{arg}}` argument.",
+    "generic.tooLongArgValue": "The value for the `{{arg}}` argument is too long.",
     "generic.guildOnlyError": "This command can only be used in servers.",
     "generic.permissionError": "You do not have permission to run this command (You need the `{{permission}}` permission)",
     "generic.discordPermissionError": "You need the `{{permission}}` permission to use this command.",
