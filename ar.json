@@ -79,5 +79,19 @@
     "music.noVoiceChannel": "أنت لست في القناة الصوتية!",
     "music.playSearchUsage": "قل رقم الأغنية التي ترغب في تشغيلها (على سبيل المثال'1').",
     "music.playSearchResult": "نتائج البحث",
-    "music.playerDuration": "المدة"
+    "music.playerDuration": "المدة",
+    "music.playerErrorDescription": "حدث خطأ أثناء استخراج المعلومات لهذه الأغنية.",
+    "music.playerInactive": "غادر القناة بسبب عدم النشاط.",
+    "premium.donatorsEmpty": "لا توجد رسائل لإظهارها!",
+    "premium.donatorsLimit": "الحد الأقصى هو 50 حرفا.",
+    "premium.donatorsHelp": "يُظهر أفضل 10 متبرعين برسالة شخصية وضعها المتبرع. يمكن للمتبرعين ضبط رسالتهم باستخدام `{{prefix}}<donators <message`",
+    "misc.wolframError": "حدث خطأ ما.. ربما جرب شيئأ أخر؟",
+    "fun.asciiHelp": "يحول النص إلي ASCII. يمكن العثور على قائمة الخطوط في : https://github.com/patorjk/figlet.js/tree/master/fonts.",
+    "misc.invitedNoPerm": "ليس لدي إذن لعرض الدعوات.",
+    "fun.urbanError": "عفوا لا يوجد مصطلح هكذا!",
+    "image.weebError": "الصورة غير موجودة!",
+    "autorole.removeSucess": "تمت إزالة الرتبة {{role}}.",
+    "autorole.removeConfirmButton": "إزالة الرتبة",
+    "autorole.removeConfirm": "لديك بالفعل رتبة {{role}}. يرجى النقر فوق الزر أدناه لإزالته.",
+    "info.statsVersion": "الإصدار"
 }
