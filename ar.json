@@ -6,7 +6,7 @@
     "generic.processingDescription": "هذا الأمر لم تنتهِ معالجته بعد.",
     "generic.insufficientArgs": "عدد خاطئ من الخانات، لمزيد من المعلومات حول هذا الأمر، ارسل {{prefix}}help {{command}}.",
     "generic.insufficientArg": "أنت لم تملأ الخانة `{{arg}}`.",
-    "info.helpDescription": "أنا بوت ديسكورد متعدد الخدمات ومنها الموسيقى والاعتدال وأشياء أخرى ممتعة ومفيدة.\nقم بكتابة <help <command`{{prefix}}` للحصول على جميع الاوامر.\n\n**للحصول على المساعدة : {{support_url}}\nلأضافة البوت : {{invite_url}}**\n\n**تلميح** يمكنك ايضا رؤية جميع الاوامر على الموقع الخاص بنا : **{{commands_url}}**",
+    "info.helpDescription": "أنا بوت ديسكورد متعدد الخدمات ومنها الموسيقى والاعتدال وأشياء أخرى ممتعة ومفيدة.\nقم بكتابة ‪`{{prefix}}help <command>`‬ للحصول على جميع الاوامر.\n\n**للحصول على المساعدة : {{support_url}}\nلأضافة البوت : {{invite_url}}**\n\n**تلميح** يمكنك ايضا رؤية جميع الاوامر على الموقع الخاص بنا : **{{commands_url}}**",
     "meme.needsmorejpegHelp": "يجعل الصورة تبدو أسوأ.",
     "premium.premiumTitle": "ماهو Vexera Premium؟",
     "premium.premiumInfo": "تقدم Vexera Premium مجموعة من الميزات بسعر رمزي. لمزيد من المعلومات https://vexera.io/premium",

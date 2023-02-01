@@ -210,7 +210,7 @@
     "premium.premiumStatus": "Vérifie le status premium d'un utilisateur.",
     "premium.statusAmount": "Montant promis",
     "premium.statusDatePledged": "Date promise",
-    "premium.statusDeclined": "**Avertissement :** Le paiement pour cet utilisateur n'a pas été validé ce mois-ci. Les fonctionnalités premium de l'utilisateur seront désactivées le 5 de ce mois.",
+    "premium.statusDeclined": "**Avertissement :** Le paiement pour cet utilisateur n'a pas été validé ce mois-ci. Les fonctionnalités premium de l'utilisateur seront désactivées le {{date}}.",
     "premium.statusExpiry": "Expiration",
     "premium.statusType": "Type",
     "premium.statusNotDonator": "Cet utilisateur n'est pas un abonné premium !",
@@ -416,5 +416,6 @@
     "meme.boyfriendHelp": "Pour les petits amis distraits !\n\nLes arguments peuvent être un utilisateur ou l'URL d'une image.",
     "music.clearSuccess": "La file d'attente a été correctement effacée.",
     "music.clearButtonDone": "File d'attente effacée par {{user}}",
-    "settings.accessroleLockout": "Tu ne peux pas définir le rôle d'accès sur {{role}} car cela te bloquerait l'accès au bot. Ajoutes ce rôle à toi-même, puis essai à nouveau."
+    "settings.accessroleLockout": "Tu ne peux pas définir le rôle d'accès sur {{role}} car cela te bloquerait l'accès au bot. Ajoutes ce rôle à toi-même, puis essai à nouveau.",
+    "generic.tooLongArgValue": "La valeur de l'argument `{{arg}}` est trop longue."
 }
