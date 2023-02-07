@@ -93,5 +93,6 @@
     "autorole.removeSucess": "تمت إزالة الرتبة {{role}}.",
     "autorole.removeConfirmButton": "إزالة الرتبة",
     "autorole.removeConfirm": "لديك بالفعل رتبة {{role}}. يرجى النقر فوق الزر أدناه لإزالته.",
-    "info.statsVersion": "الإصدار"
+    "info.statsVersion": "الإصدار",
+    "misc.invitedHelp": "رؤية عدد المستخدمين الذين دعاهم شخص ما الي الخادم."
 }
