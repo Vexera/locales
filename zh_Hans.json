@@ -15,7 +15,7 @@
     "generic.ratelimited": "请等待{{sec}}秒。",
     "info.healthHelp": "",
     "settings.localeNotComplete": "{{langname}}的翻译仅完成了{{percentage}}%。若有意愿协助翻译，请点击<{{url}}>。",
-    "music.playerDuration": "持续时间",
+    "music.playerDuration": "时长",
     "music.playerRequested": "请求者",
     "music.playHelp": "播放曲目 。 支持一系列站点 。 您可以在命令末尾添加 “-next” 以将曲目添加到队列的下一个位置 。",
     "music.playSearchResult": "搜索结果",
