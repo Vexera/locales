@@ -4,10 +4,10 @@
     "generic.errorID": "发生了一个错误。如果你认为它不该发生，请将错误代码：`{{errorID}}` 提交至支持服务器。",
     "generic.processingTitle": "处理中",
     "generic.processingDescription": "这个命令还没有被处理完成。",
-    "generic.insufficientArgs": "错误的参数数量。如果需要对这个命令的帮助，请使用 `{{prefix}}help {{command}}` 命令。",
+    "generic.insufficientArgs": "指令参数错误，输入‘{{prefix}} help {{command}}’ 以获取详情。",
     "generic.insufficientArg": "你没有提供 `{{arg}}` 参数。",
     "generic.invalidArg": "无法解析 `{{arg}}` 参数。",
-    "generic.guildOnlyError": "这个命令只能被用于服务器内。",
+    "generic.guildOnlyError": "该指令只能在伺服器内使用。",
     "generic.permissionError": "你没有足够的权限来运行这条命令。 （你需要 `{{permission}}` 权限。）",
     "generic.discordPermissionError": "你需要 `{{permission}}` 来运行这条命令。",
     "generic.argNoResponse": "超过30秒无回复。",
@@ -44,5 +44,8 @@
     "music.premiumSpotifyError": "只有 Vexera Premium 订阅者才能加载 Spotify 播放列表！ 有关详细信息，请参阅 <https://vexera.io/premium>。",
     "music.commandDonator": "只有高级订阅者才能使用此命令！ 有关详细信息，请参阅 <https://vexera.io/premium>",
     "music.playEnqueued": "`{{title}}`已添加到播放列表（第`{{position}}`首）。",
-    "generic.tipDashboard": "**小提示** 可在{{url}}中更改。"
+    "generic.tipDashboard": "**小提示** 可在{{url}}中更改。",
+    "info.statsHelp": "显示机器人状态。",
+    "info.helpCheckoutPremium": "前往{{url}}了解更多付费服务。",
+    "info.helpConfigure": "更多关于Vexera机器人的设定，请前往：{{url}}"
 }
