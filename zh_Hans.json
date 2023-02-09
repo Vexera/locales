@@ -23,7 +23,7 @@
     "music.noVoiceChannel": "你还未进入语音频道！",
     "music.noJoinPermission": "我没有权限进入你所在的语音频道。",
     "music.queueTrack": "{{index}}) {{title}} - 要求者： {{requester}}",
-    "music.trackNotFound": "抱歉, 未找到相关结果。",
+    "music.trackNotFound": "抱歉，未找到相关结果。",
     "info.healthStarting": "启动中",
     "info.healthUnknown": "不明",
     "info.helpHelp": "显示该指令",
@@ -43,5 +43,6 @@
     "music.viewWebsite": "请前往 vexera.io 查看。",
     "music.premiumSpotifyError": "只有 Vexera Premium 订阅者才能加载 Spotify 播放列表！ 有关详细信息，请参阅 <https://vexera.io/premium>。",
     "music.commandDonator": "只有高级订阅者才能使用此命令！ 有关详细信息，请参阅 <https://vexera.io/premium>",
-    "music.playEnqueued": "`{{title}}`已添加到播放列表（第`{{position}}`首）。"
+    "music.playEnqueued": "`{{title}}`已添加到播放列表（第`{{position}}`首）。",
+    "generic.tipDashboard": "**小提示** 可在{{url}}中更改。"
 }
