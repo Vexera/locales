@@ -19,9 +19,9 @@
     "music.playerRequested": "请求者",
     "music.playHelp": "播放曲目 。 支持一系列站点 。 您可以在命令末尾添加 “-next” 以将曲目添加到队列的下一个位置 。",
     "music.playSearchResult": "搜索结果",
-    "music.playSearchUsage": "说你想要翻的曲目的号码（如 ‘1’）或说 ‘cancel’ 来取消。",
-    "music.noVoiceChannel": "您不是在一个语音频道!",
-    "music.noJoinPermission": "我没有权限加入你的语音频道。",
+    "music.playSearchUsage": "输入你想播放的曲目编号（如：`1`），或输入（`cancel`）以取消。",
+    "music.noVoiceChannel": "你还未进入语音频道！",
+    "music.noJoinPermission": "我没有权限进入你所在的语音频道。",
     "music.queueTrack": "{{index}}) {{title}} - 要求者： {{requester}}",
     "music.trackNotFound": "抱歉, 未找到相关结果。",
     "info.healthStarting": "启动中",
@@ -42,5 +42,6 @@
     "generic.confirm": "确认",
     "music.viewWebsite": "请前往 vexera.io 查看。",
     "music.premiumSpotifyError": "只有 Vexera Premium 订阅者才能加载 Spotify 播放列表！ 有关详细信息，请参阅 <https://vexera.io/premium>。",
-    "music.commandDonator": "只有高级订阅者才能使用此命令！ 有关详细信息，请参阅 <https://vexera.io/premium>"
+    "music.commandDonator": "只有高级订阅者才能使用此命令！ 有关详细信息，请参阅 <https://vexera.io/premium>",
+    "music.playEnqueued": "`{{title}}`已添加到播放列表（第`{{position}}`首）。"
 }
