@@ -14,7 +14,7 @@
     "generic.promptCancel": "已取消。",
     "generic.ratelimited": "请等待{{sec}}秒。",
     "info.healthHelp": "",
-    "settings.localeNotComplete": "{{langname}}的翻译只在{{percentage}}完成。需要帮忙？更多资讯在{《{url}}》",
+    "settings.localeNotComplete": "🚨 {{langname}}的翻译仅完成了{{percentage}}%.\n若有意愿协助翻译，请点击<{{url}}>.",
     "music.playerDuration": "时长",
     "music.playerRequested": "请求者",
     "music.playHelp": "播放曲目 。 支持一系列站点 。 您可以在命令末尾添加 `-next` 以将曲目添加到队列的下一个位置 。",
@@ -29,7 +29,7 @@
     "info.helpHelp": "显示该指令",
     "info.helpDescription": "Vexera是个多功能的 Discord 机器人，可用于播放音乐、协助管理以及其他娱乐性和实用性的功能。\n输入`{{prefix}}help <指令>`以获取该指令的详情。\n\n**需要协助? {{support_url}}\n邀请链接: {{invite_url}}**\n\n**小提示** 前往**{{commands_url}}**查看所有指令",
     "music.playerErrorTitle": "错误",
-    "misc.serverinfoID": "ID",
+    "misc.serverinfoID": "身分证",
     "info.helpDM": "指令列表已发给你，请查阅私信!",
     "info.inviteInvite": "邀请链接：{{url}}",
     "info.inviteSupport": "客服：{{url}}",
@@ -89,5 +89,9 @@
     "autorole.removeConfirmButton": "删除角色",
     "generic.actionConfirm": "您确定要执行此操作吗？",
     "music.skipping": "跳过...",
-    "music.botNoVoiceChannel": "我目前没有播放音乐！"
+    "music.botNoVoiceChannel": "我目前没有播放音乐！",
+    "misc.userinfoID": "ID",
+    "games.osuHelp": "显示 osu! 用户的统计信息。\n有效选项是：`best`、`recent` 和 `user`。\n有效模式是：`standard`、`taiko`、`ctb` 和 `mania`。",
+    "modlog.invalidCase": "无效案例！",
+    "settings.logExample2": "将违规（禁令、踢出）发布到#mod-log"
 }
