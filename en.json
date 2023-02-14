@@ -294,7 +294,7 @@
     "music.queryNotFound": "No results found.",
     "music.commandDonator": "Only premium subscribers can use this command! For more information, see <https://vexera.io/premium>",
     "music.premiumSpotifyError": "Only Vexera Premium subscribers can load Spotify playlists! For more information, see <https://vexera.io/premium>.",
-    "music.premiumSpotifyAlternative": "Alternatively, there are websites that can [convert Spotify playlists into Youtube playlists]({{url}}) which you can visit if you want to stay free.",
+    "music.premiumSpotifyAlternative": "Alternatively, there are websites that can [convert Spotify playlists into Youtube playlists]({{url}}) which you can visit if you want to stay free. Vexera Premium automate this conversion.",
     "music.premiumSpotifyProcessing": "Processing Spotify playlist.. this may take some time.",
     "premium.volumeLimit": "Setting the volume to 150%. I want to protect your eardrums!",
     "music.repeatHelp": "Repeats a track.",
