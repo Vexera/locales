@@ -1,6 +1,6 @@
 module.exports = {
   en:       { name: 'English', nameEn: 'English' },
-  ar:       { name: 'الأنجليزية', nameEn: 'Arabic', unlisted: true },
+  ar:       { name: 'الأنجليزية', nameEn: 'Arabic' },
   bg:       { name: 'Български', nameEn: 'Bulgarian', unlisted: true },
   ckb:      { name: 'کوردی', nameEn: 'Kurdish Sorani' },
   cs:       { name: 'Čeština', nameEn: 'Czech' },
@@ -22,5 +22,5 @@ module.exports = {
   sv:       { name: 'Svenska', nameEn: 'Swedish', unlisted: true },
   tr:       { name: 'Türkçe', nameEn: 'Turkish' },
   uk:       { name: 'Українська', nameEn: 'Ukrainian' },
-  zh_Hans:  { name: '中文（简体）', nameEn: 'Chinese (Simplified)', unlisted: true },
+  zh_Hans:  { name: '中文（简体）', nameEn: 'Chinese (Simplified)' },
 };
