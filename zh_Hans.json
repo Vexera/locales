@@ -359,7 +359,7 @@
     "admin.infractionsNotFound": "找不到网页！",
     "admin.infractionsTitle": "显示用户 **{{username}}#{{discriminator}}** 的**违规行为**",
     "admin.infractionsFooter": "当前正在查看 {{len}} 的第 {{page}} 页",
-    "music.premiumSpotifyAlternative": "或者，有些网站可以[将 Spotify 播放列表转换为 Youtube 播放列表]({{url}})，如果您想保持免费，可以访问这些网站。",
+    "music.premiumSpotifyAlternative": "或者，有些网站可以[将 Spotify 播放列表转换为 Youtube 播放列表]({{url}})，如果您想保持免费，可以访问这些网站。  Vexera Premium 自动执行此转换。。",
     "admin.infractionsNoReason": "未指定原因",
     "modlogtype.unban": "解禁",
     "modlogtype.unmute": "取消静音",
