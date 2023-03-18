@@ -1,1 +1,6 @@
-{}
+{
+    "music.playEnqueued": "已將`{{title}}`加入至播放佇列的第`{{position}}`個位置。",
+    "info.helpDescription": "我是一個多功能Discord機器人，可以播放音樂、執行管理和其他有趣、有用的操作。\n輸入`{{prefix}}help <command>`以獲取指令的詳細信息。\n\n**需要支援嗎？ {{support_url}}\n邀請連結： {{invite_url}}**\n\n提示！ 您可以在我們的網站上查看指令： **{{commands_url}}**\n\n",
+    "settings.localeNotComplete": "🚨 {{langname}} 的翻譯只完成了 {{percentage}}%。\n需要幫忙嗎？了解更多： <{{url}}>.",
+    "music.playHelp": "播放曲目。支援多種網站。您可以在指令末端加上“-next”將曲目加入播放佇列的下一個位置."
+}
