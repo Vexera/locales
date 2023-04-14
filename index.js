@@ -14,7 +14,7 @@ module.exports = {
   nb_NO:    { name: 'Norsk bokmål', nameEn: 'Norwegian Bokmål', unlisted: true },
   nl:       { name: 'Nederlands', nameEn: 'Dutch' },
   nl_BE:    { name: 'België Nederlands', nameEn: 'Belgium Dutch', unlisted: true },
-  pl:       { name: 'Polski', nameEn: 'Polish', unlisted: true },
+  pl:       { name: 'Polski', nameEn: 'Polish' },
   pt:       { name: 'Português', nameEn: 'Portuguese' },
   ro:       { name: 'Română', nameEn: 'Romanian' },
   ru:       { name: 'Русский', nameEn: 'Russian' },
@@ -22,5 +22,6 @@ module.exports = {
   sv:       { name: 'Svenska', nameEn: 'Swedish', unlisted: true },
   tr:       { name: 'Türkçe', nameEn: 'Turkish' },
   uk:       { name: 'Українська', nameEn: 'Ukrainian' },
+  zh_Hant:  { name: '中文（繁體）', nameEn: 'Chinese (Traditional)' },
   zh_Hans:  { name: '中文（简体）', nameEn: 'Chinese (Simplified)' },
 };
