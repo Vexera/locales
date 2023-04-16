@@ -413,5 +413,9 @@
     "modlogtype.kick": "Wyrzucenie",
     "modlogtype.softban": "Łagodny ban",
     "games.osuAccuracy": "Celność",
-    "music.clearButtonDone": "Kolejka wyczyszczona przez {{user}}"
+    "music.clearButtonDone": "Kolejka wyczyszczona przez {{user}}",
+    "misc.userinfoID": "ID",
+    "misc.serverinfoID": "ID",
+    "info.statsShard": "Shard",
+    "info.pingHelp": "Pong!"
 }
